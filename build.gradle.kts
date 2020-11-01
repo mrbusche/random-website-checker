@@ -8,7 +8,7 @@ plugins {
     id("org.jetbrains.kotlin.jvm") version "1.4.10"
 }
 
-group = "com.ankeny-new-construction"
+group = "com.ankeny-new-development"
 version = "0.0.1-SNAPSHOT"
 java.sourceCompatibility = JavaVersion.VERSION_11
 
