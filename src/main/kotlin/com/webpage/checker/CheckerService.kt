@@ -25,8 +25,7 @@ class CheckerService {
 
         fun retrieveDynastyDate(url: String): String {
             val document = Jsoup.connect(url).get()
-            val elements = document.getElementsByClass("timestamp")
-            return elements[5].childNode(0).childNode(0).toString()
+            return document.select("span[data-dateformat]").first().childNode(0).toString()
         }
     }
 }
