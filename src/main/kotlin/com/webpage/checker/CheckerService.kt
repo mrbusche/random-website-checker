@@ -12,6 +12,9 @@ class CheckerService {
         fun retrieveNewProjects(url: String): Boolean {
             val document = Jsoup.connect(url).get()
             val elements = document.getElementsByClass(SECTION_LIST_CLASS)
+            if (elements.isEmpty()) {
+                return false
+            }
             var newResults = false
             for (element in elements) {
                 val projectName = element.childNode(0).childNode(0).toString()
