@@ -42,4 +42,16 @@ internal class CheckerApplicationTests {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
         assertEquals("7.9-228", CheckerService.retrieveSoftwareVersions(reportUrl, "RHEL7Minimal"))
     }
+
+    @Test
+    fun `Test Maven Version`() {
+        val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
+        assertEquals("3.6.3", CheckerService.retrieveSoftwareVersions(reportUrl, "Maven"))
+    }
+
+    @Test
+    fun `Test CentOS Version`() {
+        val reportUrl = "https://hub.docker.com/v2/repositories/library/centos/"
+        assertTrue(CheckerService.retrieveCentOSVersion(reportUrl, "[`centos7`, `7`, `centos7.9.2009`, `7.9.2009`]"))
+    }
 }
