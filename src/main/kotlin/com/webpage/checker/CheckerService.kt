@@ -1,5 +1,6 @@
 package com.webpage.checker
 
+import com.google.gson.Gson
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 import org.springframework.stereotype.Service
@@ -41,6 +42,12 @@ class CheckerService {
                 }
             }
             return ""
+        }
+
+        fun retrieveCentOSVersion(url: String, version: String): Boolean {
+            val json = Jsoup.connect(url).ignoreContentType(true).get().text()
+            val apiResponse = Gson().fromJson(json, CentOSApiResponse::class.java).toString()
+            return apiResponse.contains(version)
         }
     }
 }

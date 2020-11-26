@@ -1,6 +1,7 @@
 import com.webpage.checker.CheckerService
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertFalse
+import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.Test
 
 internal class CheckerApplicationTests {
@@ -13,7 +14,8 @@ internal class CheckerApplicationTests {
 
     @Test
     fun `Test Dynasty Ranks Update`() {
-        val dynastyUrl = "https://www.espn.com/fantasy/football/story/_/id/15698900/mike-clay-top-240-dynasty-fantasy-football-rankings-nfl"
+        val dynastyUrl =
+            "https://www.espn.com/fantasy/football/story/_/id/15698900/mike-clay-top-240-dynasty-fantasy-football-rankings-nfl"
         assertEquals("Oct 23, 2020", CheckerService.retrieveDynastyDate(dynastyUrl))
     }
 

@@ -7,3 +7,7 @@ Monitors [ESPN Dynasty Rankings](https://www.espn.com/fantasy/football/story/_/i
 Checks for new AdoptOpenJDK 8 and 11 versions
 
 Checks for new RHEL 7 and RHEL 7 Minimal versions
+
+Checks for new maven versions
+
+Checks for new CentOS 7 versions
