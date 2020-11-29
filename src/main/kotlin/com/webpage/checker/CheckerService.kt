@@ -45,7 +45,7 @@ class CheckerService {
         }
 
         fun retrieveCentOSVersion(url: String, version: String): Boolean {
-            val json = Jsoup.connect(url).ignoreContentType(true).get().text()
+            val json = Jsoup.connect(url).ignoreContentType(true).timeout(30000).get().text()
             val apiResponse = Gson().fromJson(json, CentOSApiResponse::class.java).toString()
             return apiResponse.contains(version)
         }
