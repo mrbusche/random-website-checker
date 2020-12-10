@@ -33,6 +33,11 @@ class CheckerService {
             return document.select("span[data-dateformat]").first().childNode(0).toString()
         }
 
+        fun retrieveDynastyTitle(url: String): String {
+            val document = Jsoup.connect(url).followRedirects(true).get()
+            return document.childNode(2).childNode(3).childNode(1).childNode(9).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(0).toString()
+        }
+
         fun retrieveSoftwareVersions(url: String, software: String): String {
             val document = Jsoup.connect(url).get()
             val childNodes = document.select("tbody").first().childNodes()
