@@ -20,6 +20,13 @@ internal class CheckerApplicationTests {
     }
 
     @Test
+    fun `Test ETR Dynasty Ranks Update`() {
+        val dynastyUrl =
+            "https://establishtherun.com/dynasty-rankings/"
+        assertEquals("Dynasty Rankings: Late Season 2020", CheckerService.retrieveDynastyTitle(dynastyUrl))
+    }
+
+    @Test
     fun `Test AdoptOpenJDK 8 Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
         assertEquals("jdk8u275-b01", CheckerService.retrieveSoftwareVersions(reportUrl, "AdoptOpenJDK jdk8"))
