@@ -2,7 +2,7 @@ name: uptime
 
 on:
   schedule:
-  - cron: '1 0 * * *' # every day at noon
+  - cron: '*/2 0 * * *' # every day at noon
 
 jobs:
   ping:
