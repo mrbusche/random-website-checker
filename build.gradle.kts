@@ -14,7 +14,7 @@ java.sourceCompatibility = JavaVersion.VERSION_11
 
 repositories {
     mavenCentral()
-    maven { url = uri("https://repo.spring.io/milestone") }
+    //maven { url = uri("https://repo.spring.io/milestone") }
 }
 dependencies {
     implementation("org.springframework.boot:spring-boot-starter")
