@@ -9,31 +9,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: check matthewbusche.com
-      uses: srt32/uptime@master
+      uses: srt32/uptime@v0.2.1
       with:
         url-to-hit: https://matthewbusche.com
     - name: check cottagesonwash.com
-      uses: srt32/uptime@master
+      uses: srt32/uptime@v0.2.1
       with:
         url-to-hit: https://cottagesonwash.com
     - name: check fmlcalculator.com
-      uses: srt32/uptime@master
+      uses: srt32/uptime@v0.2.1
       with:
         url-to-hit: https://fmlcalculator.com
     - name: check dynastytradecalc.com
-      uses: srt32/uptime@master
+      uses: srt32/uptime@v0.2.1
       with:
         url-to-hit: https://dynastytradecalc.com
     - name: check isitelectionday.com
-      uses: srt32/uptime@master
+      uses: srt32/uptime@v0.2.1
       with:
         url-to-hit: https://isitelectionday.com
     - name: check occurrencecounter.com
-      uses: srt32/uptime@master
+      uses: srt32/uptime@v0.2.1
       with:
         url-to-hit: https://occurrencecounter.com
         expected-statuses: "200,301"  
     - name: check randomordergenerator.com
-      uses: srt32/uptime@master
+      uses: srt32/uptime@v0.2.1
       with:
         url-to-hit: https://randomordergenerator.com
