@@ -29,7 +29,7 @@ internal class CheckerApplicationTests {
     @Test
     fun `Test AdoptOpenJDK 8 Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("jdk8u275-b01", CheckerService.retrieveSoftwareVersions(reportUrl, "AdoptOpenJDK jdk8"))
+        assertEquals("jdk8u282-b08", CheckerService.retrieveSoftwareVersions(reportUrl, "AdoptOpenJDK jdk8"))
     }
 
     @Test
