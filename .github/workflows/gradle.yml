@@ -25,3 +25,7 @@ jobs:
       run: chmod +x gradlew
     - name: Build with Gradle
       run: ./gradlew build
+    - name: Gradle Cache
+      uses: burrunan/gradle-cache-action@v1
+      with:
+        gradle-version: nightly
