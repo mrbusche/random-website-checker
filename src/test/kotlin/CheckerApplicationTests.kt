@@ -25,7 +25,7 @@ internal class CheckerApplicationTests {
             "https://establishtherun.com/dynasty-rankings/"
         val dynastyResults = CheckerService.retrieveDynastyTitle(dynastyUrl)
         assertEquals("Dynasty Rankings", dynastyResults[0])
-        assertEquals("Dec 1, 2020", dynastyResults[1])
+        assertEquals("Mar 6, 2021", dynastyResults[1])
     }
 
     @Test
