@@ -21,7 +21,7 @@ internal class CheckerApplicationTests {
     @Test
     fun `Test ETR Dynasty Ranks Update`() {
         val dynastyUrl = "https://establishtherun.com/dynasty-rankings/"
-        assertEquals("Apr 2, 2021", CheckerService.retrieveDynastyTitle(dynastyUrl))
+        assertEquals("Apr 2, 2021", CheckerService.retrieveETRDynastyDate(dynastyUrl))
     }
 
     @Test

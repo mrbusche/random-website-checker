@@ -17,15 +17,13 @@ class CheckerService {
             if (elements.isEmpty()) {
                 return false
             }
-            var newResults = false
             for (element in elements) {
                 val projectName = element.childNode(0).childNode(0).toString()
                 if (projectName !in EXISTING_PROJECTS) {
-                    newResults = true
-                    println(projectName)
+                    return true
                 }
             }
-            return newResults
+            return false
         }
 
         fun retrieveDynastyDate(url: String): String {
@@ -33,9 +31,9 @@ class CheckerService {
             return document.select("span[data-dateformat]").first().childNode(0).toString()
         }
 
-        fun retrieveDynastyTitle(url: String): String {
+        fun retrieveETRDynastyDate(url: String): String {
             val document = Jsoup.connect(url).followRedirects(true).get()
-            return document.childNode(2).childNode(3).childNode(1).childNode(9).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(3).childNode(2).childNode(0).toString()
+            return document.childNode(2).childNode(3).childNode(3).childNode(9).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(3).childNode(2).childNode(0).toString()
         }
 
         fun retrieveSoftwareVersions(url: String, software: String): String {
