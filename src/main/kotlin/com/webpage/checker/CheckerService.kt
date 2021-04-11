@@ -33,11 +33,9 @@ class CheckerService {
             return document.select("span[data-dateformat]").first().childNode(0).toString()
         }
 
-        fun retrieveDynastyTitle(url: String): List<String> {
+        fun retrieveDynastyTitle(url: String): String {
             val document = Jsoup.connect(url).followRedirects(true).get()
-            val title = document.childNode(2).childNode(3).childNode(1).childNode(9).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(0).toString()
-            val date = document.childNode(2).childNode(3).childNode(1).childNode(9).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(3).childNode(2).childNode(0).toString()
-            return arrayListOf(title, date)
+            return document.childNode(2).childNode(3).childNode(1).childNode(9).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(1).childNode(3).childNode(2).childNode(0).toString()
         }
 
         fun retrieveSoftwareVersions(url: String, software: String): String {
