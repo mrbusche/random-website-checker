@@ -15,13 +15,13 @@ internal class CheckerApplicationTests {
     @Test
     fun `Test ESPN Dynasty Ranks Update`() {
         val dynastyUrl = "https://www.espn.com/fantasy/football/story/_/id/15698900/mike-clay-top-240-dynasty-fantasy-football-rankings-nfl"
-        assertEquals("Apr 2, 2021", CheckerService.retrieveDynastyDate(dynastyUrl))
+        assertEquals("May 4, 2021", CheckerService.retrieveDynastyDate(dynastyUrl))
     }
 
     @Test
     fun `Test ETR Dynasty Ranks Update`() {
         val dynastyUrl = "https://establishtherun.com/dynasty-rankings/"
-        assertEquals("Apr 2, 2021", CheckerService.retrieveETRDynastyDate(dynastyUrl))
+        assertEquals("May 5, 2021", CheckerService.retrieveETRDynastyDate(dynastyUrl))
     }
 
     @Test
