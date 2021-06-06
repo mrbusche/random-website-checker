@@ -20,8 +20,8 @@ internal class CheckerApplicationTests {
 
     @Test
     fun `Test ETR Dynasty Ranks Update`() {
-        val dynastyUrl = "https://establishtherun.com/dynasty-rankings/"
-        assertEquals("May 5, 2021", CheckerService.retrieveETRDynastyDate(dynastyUrl))
+        val dynastyUrl = "https://establishtherun.com/etrs-dynasty-rankings/"
+        assertEquals("Jun 5, 2021", CheckerService.retrieveETRDynastyDate(dynastyUrl))
     }
 
     @Test
