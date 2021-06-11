@@ -21,7 +21,7 @@ internal class CheckerApplicationTests {
     @Test
     fun `Test ETR Dynasty Ranks Update`() {
         val dynastyUrl = "https://establishtherun.com/etrs-dynasty-rankings/"
-        assertEquals("Jun 5, 2021", CheckerService.retrieveETRDynastyDate(dynastyUrl))
+        assertEquals("Jun 9, 2021", CheckerService.retrieveETRDynastyDate(dynastyUrl))
     }
 
     @Test
@@ -39,13 +39,13 @@ internal class CheckerApplicationTests {
     @Test
     fun `Test RHEL7 Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("7.9-367", CheckerService.retrieveSoftwareVersions(reportUrl, "RHEL7"))
+        assertEquals("7.9-401", CheckerService.retrieveSoftwareVersions(reportUrl, "RHEL7"))
     }
 
     @Test
     fun `Test RHEL7Minimal Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("7.9-368", CheckerService.retrieveSoftwareVersions(reportUrl, "RHEL7Minimal"))
+        assertEquals("7.9-401", CheckerService.retrieveSoftwareVersions(reportUrl, "RHEL7Minimal"))
     }
 
     @Test
