@@ -15,7 +15,7 @@ internal class CheckerApplicationTests {
     @Test
     fun `Test ESPN Dynasty Ranks Update`() {
         val dynastyUrl = "https://www.espn.com/fantasy/football/story/_/id/15698900/mike-clay-top-240-dynasty-fantasy-football-rankings-nfl"
-        assertEquals("May 4, 2021", CheckerService.retrieveDynastyDate(dynastyUrl))
+        assertEquals("Jun 28, 2021", CheckerService.retrieveDynastyDate(dynastyUrl))
     }
 
     @Test
