@@ -28,7 +28,7 @@ class CheckerService {
 
         fun retrieveDynastyDate(url: String): String {
             val document = Jsoup.connect(url).get()
-            return document.select("span[data-dateformat]").first().childNode(0).toString()
+            return document.select("span[data-dateformat]")?.first()?.childNode(0).toString()
         }
 
         fun retrieveETRDynastyDate(url: String): String {
@@ -38,8 +38,8 @@ class CheckerService {
 
         fun retrieveSoftwareVersions(url: String, software: String): String {
             val document = Jsoup.connect(url).get()
-            val childNodes = document.select("tbody").first().childNodes()
-            for (childNode in childNodes) {
+            val childNodes = document.select("tbody")?.first()?.childNodes()
+            for (childNode in childNodes.orEmpty()) {
                 if (childNode is Element && childNode.childNode(1).toString().contains(software)) {
                     return childNode.childNode(3).childNode(0).toString()
                 }
