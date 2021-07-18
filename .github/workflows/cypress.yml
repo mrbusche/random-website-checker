@@ -2,6 +2,8 @@ name: End-to-end tests
 on:
   schedule:
   - cron: '0 */2 * * *'
+  pull_request:
+    branches: [ main ]
 jobs:
   cypress-run:
     runs-on: ubuntu-20.04
