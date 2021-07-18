@@ -26,3 +26,6 @@ hs_err_pid*
 .idea
 /build
 /out
+
+node_modules
+package-lock.json

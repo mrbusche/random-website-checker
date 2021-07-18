@@ -1,0 +1,22 @@
+{
+  "name": "random-website-checker",
+  "version": "1.0.0",
+  "description": "random-website-checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbusche/random-website-checker.git"
+  },
+  "author": "https://github.com/mrbusche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbusche/random-website-checker/issues"
+  },
+  "homepage": "https://github.com/mrbusche/random-website-checker#readme",
+  "devDependencies": {
+    "cypress": "^7.7.0"
+  }
+}
