@@ -32,7 +32,6 @@ jobs:
       uses: srt32/uptime@v0.2.1
       with:
         url-to-hit: https://occurrencecounter.com
-        expected-statuses: "200,301"  
     - name: check randomordergenerator.com
       uses: srt32/uptime@v0.2.1
       with:
