@@ -31,7 +31,7 @@ jobs:
     - name: check occurrencecounter.com
       uses: srt32/uptime@v0.2.1
       with:
-        url-to-hit: https://occurrencecounter.com
+        url-to-hit: https://www.occurrencecounter.com
     - name: check randomordergenerator.com
       uses: srt32/uptime@v0.2.1
       with:
