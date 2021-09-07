@@ -18,11 +18,19 @@ describe('check kirkendall', () => {
 describe('check bridges audio', () => {
     it('checks for new audiobooks', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
-        cy.get('.search-text').contains('of 1 results');
+        cy.get('body').then((body) => {
+            if (!body.find('.Results-noResultsHeading').length > 0) {
+                cy.get('.search-text').contains('of 1 results');
+            }
+        });
+    })
+    it('checks for new ebooks', () => {
+        cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
+        cy.get('body').then((body) => {
+            if (!body.find('.Results-noResultsHeading').length > 0) {
+                cy.get('.search-text').contains('of 1 results');
+            }
+        });
     })
 
-    // it('checks for new ebooks', () => {
-    //     cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
-    //     cy.get('.search-text').contains('of 7 results');
-    // })
 })
