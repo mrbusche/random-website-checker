@@ -1,7 +1,7 @@
 describe('check kirkendall', () => {
     it('checks for new releases', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/search/searchresults.aspx?ctx=3.1033.0.0.5&type=Keyword&term=%22:%20ON%20ORDER%22&by=KW&sort=RELEVANCE&limit=TOM=*&query=&page=0&searchid=1');
-        cy.get('.c-results-utility-result-count').contains('of 37');
+        cy.get('.c-results-utility-result-count').contains('of 43');
     })
 
     it('checks new books', () => {
