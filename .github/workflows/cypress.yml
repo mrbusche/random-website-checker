@@ -1,4 +1,4 @@
-name: End-to-end tests
+name: Ping websites
 on:
   schedule:
   - cron: '0 */1 * * *'
@@ -12,3 +12,22 @@ jobs:
         uses: actions/checkout@v2
       - name: Cypress run
         uses: cypress-io/github-action@v2
+        with:
+          spec: cypress/integration/ping_spec.js
+
+name: Library checker
+on:
+  schedule:
+  - cron: '0 */1 * * *'
+  pull_request:
+    branches: [ main ]
+jobs:
+  cypress-run:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Cypress run
+        uses: cypress-io/github-action@v2
+        with:
+          spec: cypress/integration/library_spec.js
