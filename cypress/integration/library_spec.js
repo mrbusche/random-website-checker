@@ -20,7 +20,7 @@ describe('check bridges audio', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text').contains('of 14 results');
+                cy.get('.search-text').contains('of 15 results');
             }
         });
     })
@@ -28,7 +28,7 @@ describe('check bridges audio', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text').contains('of 18 results');
+                cy.get('.search-text').contains('of 21 results');
             }
         });
     })
