@@ -6,7 +6,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link').first().contains('Runway Rumpelstiltskin : a graphic novel');
+        cy.get('.new-releases__link').first().contains('The truth and other stories');
     })
 
     it('checks new videos', () => {
