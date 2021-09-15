@@ -1,12 +1,12 @@
 describe('check kirkendall', () => {
     it('checks for new releases', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/search/searchresults.aspx?ctx=3.1033.0.0.5&type=Keyword&term=%22:%20ON%20ORDER%22&by=KW&sort=RELEVANCE&limit=TOM=*&query=&page=0&searchid=1');
-        cy.get('.c-results-utility-result-count').contains('of 43');
+        cy.get('.c-results-utility-result-count').contains('of 56');
     })
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link').first().contains('Don\'t swap your sweater for a dog');
+        cy.get('.new-releases__link').first().contains('Thea Stilton and the Roman holiday');
     })
 
     it('checks new videos', () => {
