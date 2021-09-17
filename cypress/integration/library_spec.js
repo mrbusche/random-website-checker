@@ -6,7 +6,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link').first().contains('Sabrina Sue loves the snow');
+        cy.get('.new-releases__link').first().contains('The curse of the mummy : uncovering Tutankhamun\'s tomb');
     })
 
     it('checks new videos', () => {
@@ -20,7 +20,7 @@ describe('check bridges audio', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text').contains('of 75 results');
+                cy.get('.search-text').contains('of 76 results');
             }
         });
     })
@@ -28,7 +28,7 @@ describe('check bridges audio', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text').contains('of 30 results');
+                cy.get('.search-text').contains('of 28 results');
             }
         });
     })
