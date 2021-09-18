@@ -6,7 +6,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link').first().contains('The curse of the mummy : uncovering Tutankhamun\'s tomb');
+        cy.get('.new-releases__link').first().contains('Masters of scale : surprising truths from the world's most successful entrepreneurs');
     })
 
     it('checks new videos', () => {
