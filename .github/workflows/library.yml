@@ -1,9 +1,11 @@
 name: Library checker
 on:
-  schedule:
-  - cron: '0 8,12,17 * * *'
+  push:
+    branches: [ main ]
   pull_request:
     branches: [ main ]
+  schedule:
+  - cron: '0 8,12,17 * * *'
 jobs:
   cypress-run:
     runs-on: ubuntu-20.04
