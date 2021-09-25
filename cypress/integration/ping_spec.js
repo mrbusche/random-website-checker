@@ -1,46 +1,68 @@
 describe('ping website', () => {
     it('hits matthewbusche.com', () => {
         cy.visit('https://matthewbusche.com');
-        cy.contains('matthewbusche.com');
-        cy.contains('Things I\'ve learned');
+        cy.get('a.logo-text').first().should('have.text', 'matthewbusche.com');
+        cy.get('p.site-description').first().should('have.text', 'Things I\'ve learned');
     })
-
 
     it(' hits https://cottagesonwash.com', () => {
         cy.visit('https://cottagesonwash.com')
-        cy.contains('Cottages on Wash');
-        cy.contains('Cozy Cottage');
-        cy.contains('Haven Hideaway')
+        cy.get('a.navbar-brand').first().should('have.text', 'Cottages on Wash');
+        cy.get('h2').first().should('have.text', 'Cozy Cottage');
+        cy.get('h2').eq(1).should('have.text', 'Haven Hideaway');
     })
+
     it(' hits https://fmlcalculator.com', () => {
-        cy.visit('https://fmlcalculator.com')
-        cy.contains('FML Calculator');
-        cy.contains('Movies');
-        cy.contains('Cost');
-        cy.contains('Estimate');
+        cy.visit('https://fmlcalculator.com');
+        cy.get('h1').first().should('have.text', 'FML Calculator');
+        cy.get('#movieInput').should(($div) => {
+            const text = $div.text().replace(/\s/g, '');
+            expect(text).to.eq('Movies');
+        });
+        cy.get('#costInput').should(($div) => {
+            const text = $div.text().replace(/\s/g, '');
+            expect(text).to.eq('Cost');
+        });
+        cy.get('#estimateInput').should(($div) => {
+            const text = $div.text().replace(/\s/g, '');
+            expect(text).to.eq('Estimate');
+        });
     })
+
     it(' hits https://dynastytradecalc.com', () => {
-        cy.visit('https://dynastytradecalc.com')
-        cy.contains('Dynasty Trade Calculator');
-        cy.contains('Please choose players for each team.');
-        cy.contains('Team One');
-        cy.contains('Team Two');
+        cy.visit('https://dynastytradecalc.com');
+        cy.get('h1').first().should('have.text', 'Dynasty Trade Calculator');
+        cy.get('#winner').first().should('have.text', 'Please choose players for each team.');
+        cy.get('h2').eq(1).should('have.text', 'Team One');
+        cy.get('h2').eq(2).should('have.text', 'Team Two');
     })
+
     it(' hits https://isitelectionday.com', () => {
-        cy.visit('https://isitelectionday.com')
-        cy.contains('Is it Election Day?');
-        cy.contains('No.');
-        cy.contains('Created by Matt Busche')
+        cy.visit('https://isitelectionday.com');
+        cy.get('h1').first().should('have.text', 'Is it Election Day?');
+        cy.get('#isItTime').should('have.text', 'No.');
+        cy.get('footer').should(($div) => {
+            const text = $div.text().replace(/\s/g, ' ').trim();
+            expect(text).to.eq('Created by Matt Busche');
+        });
     })
+
     it(' hits https://occurrencecounter.com', () => {
         cy.visit('https://occurrencecounter.com')
-        cy.contains('Occurrence Counter');
-        cy.contains('Supports return, pipe, or comma delimited lists');
-        cy.contains('Minimum count')
+        cy.get('h1').should('have.text', 'Occurrence Counter');
+        cy.get('h5').should('have.text', 'Supports return, pipe, or comma delimited lists');
+        cy.get('label').eq(1).should(($div) => {
+            const text = $div.text().replace(/\s/g, ' ').trim();
+            expect(text).to.eq('Minimum count');
+        });
     })
+
     it(' hits https://randomordergenerator.com', () => {
         cy.visit('https://randomordergenerator.com')
-        cy.contains('Paste a list to generate a random order');
-        cy.contains('Created by Matt Busche')
+        cy.get('h1').first().should('have.text', 'Paste a list to generate a random order');
+        cy.get('footer').should(($div) => {
+            const text = $div.text().replace(/\s/g, ' ').trim();
+            expect(text).to.eq('Created by Matt Busche');
+        });
     })
 })
