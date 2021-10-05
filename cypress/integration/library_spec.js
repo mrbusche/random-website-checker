@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Blood like magic');
+        cy.get('.new-releases__link a').first().should('have.text', 'The Leather Apron Club : Benjamin Franklin, his son Billy, and America's first circulating library');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Catholicism');
+        cy.get('.new-releases__link a').first().should('have.text', 'Spirit untamed : the movie');
     })
 })
 
