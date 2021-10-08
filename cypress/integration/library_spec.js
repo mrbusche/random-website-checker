@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'A neon darkness');
+        cy.get('.new-releases__link a').first().should('have.text', 'We are not broken');
     })
 
     it('checks new videos', () => {
@@ -23,7 +23,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('have.text', 'Showing 1-6 of 6 results');
+                cy.get('.search-text.h2').first().should('have.text', 'Showing 1-5 of 5 results');
             }
         });
     })
@@ -31,7 +31,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('have.text', 'Showing 1-12 of 12 results');
+                cy.get('.search-text.h2').first().should('have.text', 'Showing 1-8 of 8 results');
             }
         });
     })
