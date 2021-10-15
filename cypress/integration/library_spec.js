@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Olga');
+        cy.get('.new-releases__link a').first().should('have.text', 'The vanishing : faith, loss, and the twilight of Christianity in the land of the prophets');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Space jam : a new legacy');
+        cy.get('.new-releases__link a').first().should('have.text', 'Liking Jesus : intimacy and contentment in a selfie-centered worldLiking Jesus : intimacy and contentment in a selfie-centered world');
     })
 })
 
