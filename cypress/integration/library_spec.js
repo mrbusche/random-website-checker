@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The vanishing : faith, loss, and the twilight of Christianity in the land of the prophets');
+        cy.get('.new-releases__link a').first().should('have.text', 'Basic life support (BLS) provider manual : a comprehensive guide covering the latest guidelines);
     })
 
     it('checks new videos', () => {
