@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Silas Marner');
+        cy.get('.new-releases__link a').first().should('have.text', 'Free to focus : a total productivity system to achieve more by doing less');
     })
 
     it('checks new videos', () => {
@@ -23,7 +23,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('have.text', 'Showing 1-24 of 45 results');
+                cy.get('.search-text.h2').first().should('have.text', 'Showing 1-19 of 19 results');
             }
         });
     })
