@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'This is how I disappear');
+        cy.get('.new-releases__link a').first().should('have.text', 'This is climate change : a visual guide to the facts : see for yourself how the planet is warming and what it means for us');
     })
 
     it('checks new videos', () => {
