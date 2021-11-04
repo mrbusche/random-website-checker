@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The moments with jesus encounter Bible : 20 immersive stories from the four gospels');
+        cy.get('.new-releases__link a').first().should('have.text', 'Van Gogh and the artists he loved');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Pig');
+        cy.get('.new-releases__link a').first().should('have.text', 'Thomas & friends. Blue Mountain mystery : the movie');
     })
 })
 
