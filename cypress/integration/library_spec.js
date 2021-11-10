@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Oh look, a cake!');
+        cy.get('.new-releases__link a').first().should('have.text', 'The farmer's lawyer : the North Dakota nine and the fight to save the family farm');
     })
 
     it('checks new videos', () => {
