@@ -15,7 +15,7 @@ internal class CheckerApplicationTests {
     @Test
     fun `Test ESPN Dynasty Ranks Update`() {
         val dynastyUrl = "https://www.espn.com/fantasy/football/story/_/id/15698900/mike-clay-top-240-dynasty-fantasy-football-rankings-nfl"
-        assertEquals("Oct 8, 2021", CheckerService.retrieveDynastyDate(dynastyUrl))
+        assertEquals("Nov 19, 2021", CheckerService.retrieveDynastyDate(dynastyUrl))
     }
 
     @Test
@@ -51,7 +51,7 @@ internal class CheckerApplicationTests {
     @Test
     fun `Test Maven Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("3.8.3", CheckerService.retrieveSoftwareVersions(reportUrl, "Maven"))
+        assertEquals("3.8.4", CheckerService.retrieveSoftwareVersions(reportUrl, "Maven"))
     }
 
     @Test
