@@ -45,7 +45,7 @@ internal class CheckerApplicationTests {
     @Test
     fun `Test RHEL7Minimal Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("7.9-511", CheckerService.retrieveSoftwareVersions(reportUrl, "RHEL7Minimal"))
+        assertEquals("7.9-551", CheckerService.retrieveSoftwareVersions(reportUrl, "RHEL7Minimal"))
     }
 
     @Test
