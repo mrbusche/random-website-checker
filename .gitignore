@@ -28,3 +28,7 @@ hs_err_pid*
 /out
 
 node_modules
+.classpath
+.project
+.settings/*
+bin/*
