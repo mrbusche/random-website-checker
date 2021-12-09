@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Who were Stanley and Livingstone?');
+        cy.get('.new-releases__link a').first().should('have.text', 'Dream Street');
     })
 
     it('checks new videos', () => {
