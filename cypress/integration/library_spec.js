@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Flying blind : the 737 MAX tragedy and the fall of Boeing');
+        cy.get('.new-releases__link a').first().should('have.text', 'Crazy Horse and Custer : born enemies');
     })
 
     it('checks new videos', () => {
