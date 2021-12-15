@@ -14,7 +14,7 @@ describe('check kirkendall', () => {
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Wife of a spy');
+        cy.get('.new-releases__link a').first().should('have.text', 'The last duel');
     })
 })
 
