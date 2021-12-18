@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'My life with blindness');
+        cy.get('.new-releases__link a').first().should('have.text', 'A face for Picasso : coming of age with Crouzon syndrome');
     })
 
     it('checks new videos', () => {
