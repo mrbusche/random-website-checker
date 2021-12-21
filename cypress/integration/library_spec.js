@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'A face for Picasso : coming of age with Crouzon syndrome');
+        cy.get('.new-releases__link a').first().should('have.text', 'Eat like a human : nourishing foods and ancient ways of cooking to revolutionize your health');
     })
 
     it('checks new videos', () => {
@@ -31,7 +31,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '13 results');
+                cy.get('.search-text.h2').first().should('contain.text', '12 results');
             }
         });
     })
