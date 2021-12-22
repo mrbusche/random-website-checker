@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Eat like a human : nourishing foods and ancient ways of cooking to revolutionize your health');
+        cy.get('.new-releases__link a').first().should('have.text', 'Measuring America : how the United States was shaped by the greatest land sale in history');
     })
 
     it('checks new videos', () => {
