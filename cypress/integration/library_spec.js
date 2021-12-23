@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Measuring America : how the United States was shaped by the greatest land sale in history');
+        cy.get('.new-releases__link a').first().should('have.text', 'Selfish reasons to have more kids : why being a great parent is less work and more fun than you think');
     })
 
     it('checks new videos', () => {
