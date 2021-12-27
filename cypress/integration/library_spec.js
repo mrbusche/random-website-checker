@@ -23,7 +23,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '7 results');
+                cy.get('.search-text.h2').first().should('contain.text', '11 results');
             }
         });
     })
@@ -31,7 +31,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '12 results');
+                cy.get('.search-text.h2').first().should('contain.text', '13 results');
             }
         });
     })
