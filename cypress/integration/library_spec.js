@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The wedding ringer');
+        cy.get('.new-releases__link a').first().should('have.text', 'The secret lives of customers : a detective story about solving the mystery of customer behavior');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Rick and Morty. Season 5');
+        cy.get('.new-releases__link a').first().should('have.text', 'The Brokenwood mysteries. Series 7');
     })
 })
 
@@ -23,7 +23,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '147 results');
+                cy.get('.search-text.h2').first().should('contain.text', '188 results');
             }
         });
     })
@@ -31,7 +31,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '33 results');
+                cy.get('.search-text.h2').first().should('contain.text', '69 results');
             }
         });
     })
