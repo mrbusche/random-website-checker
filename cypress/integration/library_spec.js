@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Tim Burton\'s The nightmare before Christmas : the official cookbook & entertaining guide');
+        cy.get('.new-releases__link a').first().should('have.text', 'Have a heart, Geronimo');
     })
 
     it('checks new videos', () => {
