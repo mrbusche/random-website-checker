@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'All the names given');
+        cy.get('.new-releases__link a').first().should('have.text', 'End of days : a Pike Logan novel');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Everybody loves Raymond. The complete seventh season');
+        cy.get('.new-releases__link a').first().should('have.text', 'Language Lessons');
     })
 })
 
