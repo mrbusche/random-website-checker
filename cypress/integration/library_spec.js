@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'End of days : a Pike Logan novel');
+        cy.get('.new-releases__link a').first().should('have.text', 'The school for good mothers : a novel');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'The Dry');
+        cy.get('.new-releases__link a').first().should('have.text', 'Brian Wilson : Long Promised Road');
     })
 })
 
