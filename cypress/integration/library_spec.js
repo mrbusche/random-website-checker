@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Be where your feet are : seven principles to keep you present, grounded, and thriving');
+        cy.get('.new-releases__link a').first().should('have.text', 'Den of Vipers');
     })
 
     it('checks new videos', () => {
