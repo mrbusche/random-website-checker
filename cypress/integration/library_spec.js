@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The cobbler of Spanish Fort and other frontier stories');
+        cy.get('.new-releases__link a').first().should('have.text', 'Betty Crocker best 100 : favorite recipes from America\'s most trusted cook');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Moffie');
+        cy.get('.new-releases__link a').first().should('have.text', 'Mass');
     })
 })
 
