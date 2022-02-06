@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Ramses the damned : the reign of Osiris');
+        cy.get('.new-releases__link a').first().should('have.text', 'Maybe it\'s me : on being the wrong kind of woman');
     })
 
     it('checks new videos', () => {
