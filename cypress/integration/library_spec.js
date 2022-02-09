@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The bishop of the abandoned tabernacle : St. Manuel González García : selected writings');
+        cy.get('.new-releases__link a').first().should('have.text', 'Not that pet!');
     })
 
     it('checks new videos', () => {
