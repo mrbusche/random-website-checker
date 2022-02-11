@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Ever constant');
+        cy.get('.new-releases__link a').first().should('have.text', 'Black love matters : real talk on romance, being seen, and happy ever afters');
     })
 
     it('checks new videos', () => {
