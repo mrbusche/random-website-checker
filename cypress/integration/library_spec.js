@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Walking the bowl : a true story of murder and survival among the street children of Lusaka');
+        cy.get('.new-releases__link a').first().should('have.text', 'Tech noir : the art of James Cameron');
     })
 
     it('checks new videos', () => {
