@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Vivi Loves Science: Sink or Float');
+        cy.get('.new-releases__link a').first().should('have.text', 'American government 101 : from the continental Congress to the Iowa Caucus, everything you need to know about U.S. Politics');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Shattered');
+        cy.get('.new-releases__link a').first().should('have.text', 'House of Gucci');
     })
 })
 
