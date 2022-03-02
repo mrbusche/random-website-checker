@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'American government 101 : from the continental Congress to the Iowa Caucus, everything you need to know about U.S. Politics');
+        cy.get('.new-releases__link a').first().should('have.text', 'The Bad Guys in they\'re bee-hind you!');
     })
 
     it('checks new videos', () => {
