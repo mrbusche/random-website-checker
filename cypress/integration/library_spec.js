@@ -3,18 +3,18 @@ describe('check kirkendall', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/search/searchresults.aspx?ctx=3.1033.0.0.5&type=Keyword&term=%22:%20ON%20ORDER%22&by=KW&sort=RELEVANCE&limit=TOM=*&query=&page=0&searchid=1');
         cy.get('.c-results-utility-result-count').eq(1).should(($div) => {
             const text = $div.text().replace(/\s\s+/g, ' ').trim();
-            expect(text).to.eq('1 - 10 of 65');
+            expect(text).to.eq('1 - 10 of 63');
         });
     })
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The Grimrose girls');
+        cy.get('.new-releases__link a').first().should('have.text', 'A tale of sorcery...');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'The Dukes of Hazzard. The complete fourth season');
+        cy.get('.new-releases__link a').first().should('have.text', 'The nowhere inn');
     })
 })
 
