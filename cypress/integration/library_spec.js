@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'A tale of sorcery...');
+        cy.get('.new-releases__link a').first().should('have.text', 'In the shadow of the mountain : a memoir of courage');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'The nowhere inn');
+        cy.get('.new-releases__link a').first().should('have.text', 'Yellowstone : Season 4');
     })
 })
 
