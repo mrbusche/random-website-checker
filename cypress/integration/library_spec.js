@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Crushing the red flowers');
+        cy.get('.new-releases__link a').first().should('have.text', 'Red paint : an ancestral autobiography');
     })
 
     it('checks new videos', () => {
