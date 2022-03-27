@@ -1,19 +1,19 @@
 describe('ping website', () => {
     it('hits matthewbusche.com', () => {
-        cy.visit('https://matthewbusche.com');
+        cy.visit('https://matthewbusche.com?automated=true');
         cy.get('a.logo-text').first().should('have.text', 'matthewbusche.com');
         cy.get('p.site-description').first().should('have.text', 'Things I\'ve learned');
     })
 
     it(' hits https://cottagesonwash.com', () => {
-        cy.visit('https://cottagesonwash.com')
+        cy.visit('https://cottagesonwash.com?automated=true')
         cy.get('a.navbar-brand').first().should('have.text', 'Cottages on Wash');
         cy.get('h2').first().should('have.text', 'Cozy Cottage');
         cy.get('h2').eq(1).should('have.text', 'Haven Hideaway');
     })
 
     it(' hits https://fmlcalculator.com', () => {
-        cy.visit('https://fmlcalculator.com');
+        cy.visit('https://fmlcalculator.com?automated=true');
         cy.get('h1').first().should('have.text', 'FML Calculator');
         cy.get('#movieInput').should(($div) => {
             const text = $div.text().replace(/\s/g, '');
@@ -30,7 +30,7 @@ describe('ping website', () => {
     })
 
     it(' hits https://dynastytradecalc.com', () => {
-        cy.visit('https://dynastytradecalc.com');
+        cy.visit('https://dynastytradecalc.com?automated=true');
         cy.get('h1').first().should('have.text', 'Dynasty Trade Calculator');
         cy.get('#winner').first().should('have.text', 'Please choose players for each team.');
         cy.get('h2').eq(1).should('have.text', 'Team One');
@@ -38,7 +38,7 @@ describe('ping website', () => {
     })
 
     it(' hits https://isitelectionday.com', () => {
-        cy.visit('https://isitelectionday.com');
+        cy.visit('https://isitelectionday.com?automated=true');
         cy.get('h1').first().should('have.text', 'Is it Election Day?');
         cy.get('#isItTime').should('have.text', 'No.');
         cy.get('footer').should(($div) => {
@@ -48,7 +48,7 @@ describe('ping website', () => {
     })
 
     it(' hits https://occurrencecounter.com', () => {
-        cy.visit('https://occurrencecounter.com')
+        cy.visit('https://occurrencecounter.com?automated=true')
         cy.get('h1').should('have.text', 'Occurrence Counter');
         cy.get('h5').should('have.text', 'Supports return, pipe, or comma delimited lists');
         cy.get('label').eq(1).should(($div) => {
@@ -58,7 +58,7 @@ describe('ping website', () => {
     })
 
     it(' hits https://randomordergenerator.com', () => {
-        cy.visit('https://randomordergenerator.com')
+        cy.visit('https://randomordergenerator.com?automated=true')
         cy.get('h1').first().should('have.text', 'Paste a list to generate a random order');
         cy.get('footer').should(($div) => {
             const text = $div.text().replace(/\s/g, ' ').trim();
