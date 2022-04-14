@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Sisters of Mokama : the pioneering women who brought hope and healing to India');
+        cy.get('.new-releases__link a').first().should('have.text', 'Paddy drinks : modern Irish whiskey cocktails');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Ken Burns Benjamin Franklin.');
+        cy.get('.new-releases__link a').first().should('have.text', 'C\'mon c\'mon');
     })
 })
 
