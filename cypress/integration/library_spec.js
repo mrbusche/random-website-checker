@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Cleopatra and Frankenstein : a novel');
+        cy.get('.new-releases__link a').first().should('have.text', 'A perfect fit : how Lena "Lane" Bryant changed the shape of fashion');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'C\'mon c\'mon');
+        cy.get('.new-releases__link a').first().should('have.text', 'South of Heaven');
     })
 })
 
