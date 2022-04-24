@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Heir to the Jedi');
+        cy.get('.new-releases__link a').first().should('have.text', 'Strengthening the soul of your leadership : seeking God in the crucible of ministry');
     })
 
     it('checks new videos', () => {
