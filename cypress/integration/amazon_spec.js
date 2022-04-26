@@ -1,20 +1,18 @@
-describe('check ebook prices', () => {
-    it('check for ebooks on sale', () => {
-        cy.visit('https://smile.amazon.com/hz/wishlist/genericItemsPage/153OV2P85MJD6?type=wishlist&filter=unpurchased&sort=price-asc&viewType=list');
-        
-        cy.get('body').then((body) => {  
-            if (body.find('.itemPriceDrop').length > 0) {
-                cy.get().first().parent().should(($div) => {
-                    const text = $div.text().replace(/\s\s+/g, ' ').trim();
-                    if (text) {
-                        const amt = text.substring(text.indexOf('$') + 1);
-                        if (amt) {
-                            const val = parseFloat(amt.substring(0, 4), 10) > 5;
-                            expect(val).to.be.true;
-                        }
-                    }
-                });
-            }
-        });
-    })
+describe('check fitness factory 0 results', () => {
+    const productIds = ['BSTFR36H','BSTSMB6','STT45','BSTBR1550','BSTHB15','BSTGTSET','BSTGT200','BSTGT150','BSTGT100','BSTOPW','BSTOBS','BSTTT10','SDR120','SDP45','BSTNDS164','SDR110','HWSBF','HWSBF8','HWSBF6','HWSBF50','HWSBF40','HWSBF4','HWSBF20','HWSBF2','SDR45','OB48','TRXPRO4','TRXCLUB4','BSTVD15','MB504RG','SDR80','MB501','SDX80','BSTVD12','SDA14T','SDA14','OB86P1000','KBL','SDP','MB148RG','OB86LPBB','RPB5','RPB12-5','SDPS2100','SDPS1200','RC02','RC0616','SPRSC','IDA149','XTESPOTTERARMPR','STIRRX317','STIRRCX127','STIRRC126','SPRAR-H','SDX95','SDX45','SDX40','SDX55','SDX30','KBL45','KBC55','TS200','SDX20','HB320100','HB29707','BSTPB','PUB34','BSTFB','BSTRINGS','IDA695','IDA595','IDA500','IDA400','IDA300','IDA249','YT810','YT800','BST3','YH900','BSHK','BSHB','BSTFRP18F','BSTFRP36F','LE9-90','L880RTM','L7RTM','L890LTDCARDIO','L890LTDSPORTS','L790LTDSPORTS','L790CLUBSPORTS','L10CLUB','BHLK700WS','BHLK500WS','BSTART','S2ABB','FDE620','L790CLUBCARDIO','BSTART5','BSTART1','LR9','LU9','L790LTDCARDIO','L10CLUBCARDIO','BHS1XIB','TRXXMOUNT3','RCF-SDB80','RCF-SDB65','RCF-SDB50','KBC65','YT800-XL','YT800-2XL','YT810-2XL','YT810-XL','YT810-MED','YT810-LRG','YT800-MED','YT800-LRG','FFOFLAGT-XL','FFOFLAGT-SM','FFOFLAGT-MED','FFOFLAGT-LRG','FFOFLAGT-2XL','FDEVX3','FDE820','FDE520','FDEJOHN','FDVIKING2AR','FDVIKING3AR','FDVIKPRO','FDNEWPORT','FDE920','FDE720','FDCAMAR','FDAPOLLO2','BSTYM3','BSTBR2050','BSTBM1','BST3R-XXL','BST3R-XL','BST3R-SM','BST3R-MED','BST3R-LG','BST3G-XXL','BST3G-XL','BST3G-SM','BST3G-MED','BST3G-LG','BST3B-XXL','BST3B-XL','BST3B-SM','BST3B-MED','BST3B-LG','PPFIT-3500','PPPRO7-3150','PPPRO5HP-3200','PPPRO5-3100','9NA-S6334','9NA-S1312','GAP','SPRXT-VL','SPR07-70294','HB1250B/G-XL','HB1250B/G-LRG','HB1250B/G-SML','HB284-XL','HB284-SML','HB223-SML','HB223-MED','SPRXRC-L','SPRXRC-M','SPRXRC-VL','SPRXRC-H','HXBREHAB','HB139W','BSTB','BSTRT','BSTGT','STIRR316','SIMONPACK','HB284','HB24310','HB24310-N','HB24330','HB24340','SPRESC','SPRAR','SPR07-702','P2METALSH','HB223','KBC70','KBC80','KBL50','SDR85','SR-LO','SH22XL/XXL','SH22M/L','LVS19','LVESAD','LTB','HB46300','HB139W-SML','HB139W-MED','HB139W-LRG','HB138B','HB24353','HB208B-MED','HB208B-LRG','HB208B-XL','HB208B-SML','HB208B','SR-HEXBASIC','HB1250B','SPRAR-VL','SPRAR-UHP','SPRAR-M','SPRAR-L','HB138B-XXL','HB138B-XL','HB138B-SML','HB138B-LRG','HB140B-SML','HB140B-MED','HB143B/G-XXL','HB143B/G-XL','HB143B/G-SML','HB143B/G-MED','HB143B/G-LRG','HXBMR','HXBLR','HXBHR','DVD1','SR-SPU','SR-BT','TRLUS','HWSBF25','HWSBF12','HWSBF10'];
+    for (const product in productIds) {
+        it(`check for 0 results ${productIds[product]}`, () => {
+            cy.visit('https://dev.fitnessfactory.com');
+            cy.get('#headerSearch').type(productIds[product]);
+            cy.get('.btn.search').click();
+            cy.url().then(($url) => {
+                if ($url.includes('Search/index.cfm')) {
+                    cy.get('h1.category').eq(0).should(($div) => {
+                        const text = $div.text().replace(/\s\s+/g, ' ').trim();
+                        expect(text).not.to.contain('0 Results for');
+                    });
+                }
+            })
+        })
+    }
 })
