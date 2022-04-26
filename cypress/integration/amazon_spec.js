@@ -1,20 +1,18 @@
-describe('check ebook prices', () => {
-    it('check for ebooks on sale', () => {
-        cy.visit('https://smile.amazon.com/hz/wishlist/genericItemsPage/153OV2P85MJD6?type=wishlist&filter=unpurchased&sort=price-asc&viewType=list');
-        
-        cy.get('body').then((body) => {  
-            if (body.find('.itemPriceDrop').length > 0) {
-                cy.get().first().parent().should(($div) => {
-                    const text = $div.text().replace(/\s\s+/g, ' ').trim();
-                    if (text) {
-                        const amt = text.substring(text.indexOf('$') + 1);
-                        if (amt) {
-                            const val = parseFloat(amt.substring(0, 4), 10) > 5;
-                            expect(val).to.be.true;
-                        }
-                    }
-                });
-            }
-        });
-    })
+describe('check fitness factory 0 results', () => {
+    const productIds = ['RPCW-SET','KBX28KG','TFSR1000','BSTAB1','KB45','KB40','KB35','KB30','KB15','SDPS900','HB140B-LRG','HAHTPH4','HAHCC','KBX24KG','KBX','XTE24FTWALLRIG','XTE44FTWALLRIG','XTE34FTWALLRIG','MB022RG','BSTHRB70','BSTHRB60','BSTHRB50','BSTHRB40','BSTHRB30','BSTHRB20','SH22','BSTDMB8','BSTDMB25','BSTDMB18','BSTDMB14','BSTDMB12','MA308V','S2CC','BSTBM','CAL500','CAL50','CAL250','CAL25','CAL20','CAL100','CAL10','CAL5','JLSTAIRGTL','BSTVDS164','OBPH35','WSA7-5','BSTWVP40','BSTBM-PACK','BSTVD','HWHVP-XXL','HWHVP-XLRG','HWHVP-SM','HWHVP-MED','HWHVP-LRG','HWHVP','BSTPACK','JLROPEFIT','CHF Glute Drive','RX2200','GC500','GC50','GC25','GC100','GCALL','GIB2','FDELAGUNA','RB47','BSTMC02RD','BSTSR10','ABCVC','SDR115','KBL40','BSTBM4','BSTBM2','SDR65','MB229','SDPS650','WSA5','BSTAW20','Y256','SDX3','SDX90','HWSBF30','HWSBF15','RPB25','RPB20','SDR95','SDS2100','SDRS2100','RX5500','RX4405','RX3200','RX2500D','RX3300','RX2500','RFOX-RX2000','SDR105','BSTMB8','BSTMB6','BSTMB4','BSTMB2','BSTMB14','TBR10','BSTFB36','RC03','KBLS','KBCS','KBLS180','KBLS390','KBLS275','KBCS105','KBCS275','KBCS680','KBC','GDR24-NPACK','SDS900','SDS650','SDX','SDS','SDPS','SDRSHEAVY','SDRS530','SDRS900','SDRS650','SPR05-58642','HB223-XL','IDA200','OB79WCB','MB507RG','BSTFB30','SBZ90','SDR70','SDKR1000P2PACK','OB86P1000SS','XTEDIPBARATTACH','KPB86','GAP2','SBZ110','SBZ100','SBZ70','SBB110','SBB100','SBB70','BSTMC02BK','BSTMB30','BSTMB25','BSTSMB20','BSTSMB16','BSTSMB14','BSTSMB8','HB24320','RB48','TBR20','WTA2','BSTND12','SDX85','SDR100','RPB1-25','RB72','BSTHB90SET','OB864STAR','BSTHB20','BSTDYN12','BSTDYN30','BSTDYN25','BSTDYN20','BSTDYN18','BSTDYN16','BSTDYN14','BSTDYN10','BSTDYN06','BSTDYN08','BSTDYN04','SDX100','MB022','RB84','SPRSC5','SPRSC4','SPRSC3','SPRSC1','SPRSC2','MB229RG','FFOFLAGT','PM25R','PM125R','HXB','RPB7-5','SDR8','FEASEL5','SDC2000G','SLM300G','SLP500G','SLE200G','SLC400G','SCC1200G','EM02','BSTWVP20','BSTBM5','KBL10','FEASEL10','FEASEL','SDX2','SDX1','SDP100','SDP95','SDP90','KBV5','KBL5','KBC75','BSTRT2','BSTOBJ','BSTBM3','BSTRT3','BSTART2','NB51','NB52','PG2','NB55','NB56','MA307N','MA307V','PUB2','BSTWPBOX'];
+    for (const product in productIds) {
+        it(`check for 0 results ${productIds[product]}`, () => {
+            cy.visit('https://dev.fitnessfactory.com');
+            cy.get('#headerSearch').type(productIds[product]);
+            cy.get('.btn.search').click();
+            cy.url().then(($url) => {
+                if ($url.includes('Search/index.cfm')) {
+                    cy.get('h1.category').eq(0).should(($div) => {
+                        const text = $div.text().replace(/\s\s+/g, ' ').trim();
+                        expect(text).not.to.contain('0 Results for');
+                    });
+                }
+            })
+        })
+    }
 })
