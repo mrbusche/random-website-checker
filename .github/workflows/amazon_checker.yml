@@ -2,10 +2,10 @@ name: ebook checker
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  schedule:
-  - cron: '0 11,23 * * *'
+#   pull_request:
+#     branches: [ main ]
+#   schedule:
+#   - cron: '0 11,23 * * *'
 jobs:
   cypress-run:
     runs-on: ubuntu-20.04
