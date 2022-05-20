@@ -5,7 +5,7 @@ plugins {
     id("org.springframework.boot") version "3.0.0-M3"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
     id("org.sonarqube") version "3.3"
-    id("org.jetbrains.kotlin.jvm") version "1.7.0-Beta"
+    id("org.jetbrains.kotlin.jvm") version "1.7.0-RC"
 }
 
 group = "com.ankeny-new-development"
