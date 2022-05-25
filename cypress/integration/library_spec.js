@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Donut worry');
+        cy.get('.new-releases__link a').first().should('have.text', 'The great migration begins : immigrants to New England, 1620-1633');
     })
 
     it('checks new videos', () => {
