@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The great migration begins : immigrants to New England, 1620-1633');
+        cy.get('.new-releases__link a').first().should('have.text', 'My mechanical romance');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Licorice pizza');
+        cy.get('.new-releases__link a').first().should('have.text', 'X');
     })
 })
 
