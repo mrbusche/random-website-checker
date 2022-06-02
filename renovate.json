@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "assignees": [
+    "@mrbusche"
+  ],
+  "ignoreUnstable": false,
+  "rangeStrategy": "replace"
+}
