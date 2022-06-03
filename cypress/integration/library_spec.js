@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Little houses');
+        cy.get('.new-releases__link a').first().should('have.text', 'Outdoor kids in an inside world : getting your family out of the house and radically engaged with nature');
     })
 
     it('checks new videos', () => {
@@ -31,7 +31,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '1 results');
+                cy.get('.search-text.h2').first().should('contain.text', '0 results');
             }
         });
     })
