@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Outdoor kids in an inside world : getting your family out of the house and radically engaged with nature');
+        cy.get('.new-releases__link a').first().should('have.text', 'After the Romanovs : Russian exiles in Paris from the Belle Époque through revolution and war');
     })
 
     it('checks new videos', () => {
