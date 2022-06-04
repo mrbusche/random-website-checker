@@ -15,4 +15,4 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v2
         with:
-          spec: cypress/integration/dynasty_spec.js
+          spec: cypress/e2e/dynasty.cy.js

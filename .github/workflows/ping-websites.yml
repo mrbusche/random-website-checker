@@ -13,4 +13,4 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v2
         with:
-          spec: cypress/integration/ping_spec.js
+          spec: cypress/e2e/ping.cy.js
