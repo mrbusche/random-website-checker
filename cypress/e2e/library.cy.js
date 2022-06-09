@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Sparring partners');
+        cy.get('.new-releases__link a').first().should('have.text', 'Asylum : a memoir & manifesto');
     })
 
     it('checks new videos', () => {
