@@ -13,27 +13,21 @@ internal class CheckerApplicationTests {
     }
 
     @Test
-    fun `Test AdoptOpenJDK 8 Version`() {
+    fun `Test Adoptium 11 Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("jdk8u292-b10", CheckerService.retrieveSoftwareVersions(reportUrl, "AdoptOpenJDK jdk8"))
-    }
-
-    @Test
-    fun `Test AdoptOpenJDK 11 Version`() {
-        val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("jdk-11.0.11+9", CheckerService.retrieveSoftwareVersions(reportUrl, "AdoptOpenJDK jdk11"))
+        assertEquals("jdk-11.0.15+10", CheckerService.retrieveSoftwareVersions(reportUrl, " Adoptium jdk11 linux x64"))
     }
 
     @Test
     fun `Test Adoptium jdk17 Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("jdk-17.0.3+7", CheckerService.retrieveSoftwareVersions(reportUrl, "Adoptium jdk17"))
+        assertEquals("jdk-17.0.3+7", CheckerService.retrieveSoftwareVersions(reportUrl, "Adoptium jdk17 linux x64"))
     }
 
     @Test
     fun `Test Maven Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("3.8.5", CheckerService.retrieveSoftwareVersions(reportUrl, "Maven"))
+        assertEquals("3.8.6", CheckerService.retrieveSoftwareVersions(reportUrl, "Maven"))
     }
 
     @Test
