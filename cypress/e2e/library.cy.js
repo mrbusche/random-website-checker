@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Soft Rain : a story of the Cherokee Trail of Tears');
+        cy.get('.new-releases__link a').first().should('have.text', 'To the color : a novel of the Battalion of St. Patrick');
     })
 
     it('checks new videos', () => {
