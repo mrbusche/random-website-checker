@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The Waratah Inn');
+        cy.get('.new-releases__link a').first().should('have.text', 'Bottle tops : the art of El Anatsui');
     })
 
     it('checks new videos', () => {
