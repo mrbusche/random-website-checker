@@ -27,6 +27,6 @@ jobs:
     - name: Build with Gradle
       run: ./gradlew build --info
     - name: Gradle Cache
-      uses: burrunan/gradle-cache-action@v1.10
+      uses: burrunan/gradle-cache-action@v1.11
       with:
         gradle-version: nightly
