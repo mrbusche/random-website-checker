@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'So much more to Helen! : the passions and pursuits of Helen Keller');
+        cy.get('.new-releases__link a').first().should('have.text', 'No one is alone');
     })
 
     it('checks new videos', () => {
