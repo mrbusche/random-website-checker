@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Stick Dog tries to take the donuts');
+        cy.get('.new-releases__link a').first().should('have.text', 'Me and Mr. Cigar');
     })
 
     it('checks new videos', () => {
@@ -27,6 +27,7 @@ describe('check bridges', () => {
             }
         });
     })
+    
     it('checks for new ebooks', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
