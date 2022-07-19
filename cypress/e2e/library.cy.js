@@ -3,18 +3,18 @@ describe('check kirkendall', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/search/searchresults.aspx?ctx=3.1033.0.0.5&type=Keyword&term=%22:%20ON%20ORDER%22&by=KW&sort=RELEVANCE&limit=TOM=*&query=&page=0&searchid=1');
         cy.get('.c-results-utility-result-count').eq(1).should(($div) => {
             const text = $div.text().replace(/\s\s+/g, ' ').trim();
-            expect(text).to.eq('1 - 10 of 57');
+            expect(text).to.eq('1 - 10 of 55');
         });
     })
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Queen of our times : the life of Queen Elizabeth II');
+        cy.get('.new-releases__link a').first().should('have.text', 'Read it, see it, say it, sing it : knowing and loving the Bible');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Hit the road');
+        cy.get('.new-releases__link a').first().should('have.text', 'Call the midwife. Season ten');
     })
 })
 
