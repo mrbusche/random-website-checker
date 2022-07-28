@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Pup is lost');
+        cy.get('.new-releases__link a').first().should('have.text', 'Richard Scarry\'s busy busy airport');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Ends of the Earth');
+        cy.get('.new-releases__link a').first().should('have.text', 'Doctor Strange in the multiverse of madness');
     })
 })
 
