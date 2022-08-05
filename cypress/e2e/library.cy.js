@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Call me Chef, dammit! : a veteran\'s journey from the rural South to the White House');
+        cy.get('.new-releases__link a').first().should('have.text', 'The edge of falling');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Drive my car');
+        cy.get('.new-releases__link a').first().should('have.text', 'Fire in the mountains');
     })
 })
 
