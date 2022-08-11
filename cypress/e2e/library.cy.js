@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Places we\'ve never been');
+        cy.get('.new-releases__link a').first().should('have.text', 'Biscuit and the great fall day');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Geronimo Stilton. Volume 6.');
+        cy.get('.new-releases__link a').first().should('have.text', 'House of wax');
     })
 })
 
