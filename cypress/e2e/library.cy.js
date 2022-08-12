@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Biscuit and the great fall day');
+        cy.get('.new-releases__link a').first().should('have.text', 'D\'Aulaires' book of Greek myths');
     })
 
     it('checks new videos', () => {
