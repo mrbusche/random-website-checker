@@ -23,7 +23,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '20 results');
+                cy.get('.search-text.h2').first().should('contain.text', '21 results');
             }
         });
     })
