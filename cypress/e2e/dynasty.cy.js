@@ -1,7 +1,7 @@
 describe('check dynasty things', () => {
     it('checks ESPN Dynasty updates', () => {
         cy.visit('https://www.espn.com/fantasy/football/story/_/id/15698900/mike-clay-top-240-dynasty-fantasy-football-rankings-nfl');
-        cy.get('[data-dateformat="date1"]').first().should('have.text', 'Aug 26, 2022');
+        cy.get('[data-dateformat="date1"]').first().should('have.text', 'Sep 1, 2022');
     })
 
     it('checks ETR Dynasty updates', () => {
