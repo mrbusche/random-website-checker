@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Jessi\'s secret language : a Baby-sitter\'s club graphic novel');
+        cy.get('.new-releases__link a').first().should('have.text', 'When the devil comes a-calling');
     })
 
     it('checks new videos', () => {
