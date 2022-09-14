@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Blowback');
+        cy.get('.new-releases__link a').first().should('have.text', 'A Very Cocomelon Christmas!');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Harry Potter 20th anniversary : return to Hogwarts.');
+        cy.get('.new-releases__link a').first().should('have.text', 'Cow');
     })
 })
 
