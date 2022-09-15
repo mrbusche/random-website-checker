@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'A Very Cocomelon Christmas!');
+        cy.get('.new-releases__link a').first().should('have.text', 'One word of truth : the Cold War memoir of Michael Bourdeaux and Keston Colllege');
     })
 
     it('checks new videos', () => {
