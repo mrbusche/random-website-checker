@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The end of solitude : selected essays on culture and society');
+        cy.get('.new-releases__link a').first().should('have.text', 'How to party like a snail');
     })
 
     it('checks new videos', () => {
