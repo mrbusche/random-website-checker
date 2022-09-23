@@ -10,7 +10,7 @@ class CheckerService {
     companion object {
         private const val SECTION_LIST_CLASS = "facility_title_td"
 
-        fun retrieveNewProjects(existingProjects: List<out String>): Boolean {
+        fun retrieveNewProjects(existingProjects: List<String>): Boolean {
             val document = Jsoup.connect("https://www.ankenyiowa.gov/our-city/maps/new-development").get()
             val elements = document.getElementsByClass(SECTION_LIST_CLASS)
             if (elements.isEmpty()) {
@@ -28,7 +28,7 @@ class CheckerService {
 
         fun retrieveSoftwareVersions(url: String, software: String): String {
             val document = Jsoup.connect(url).get()
-            val childNodes = document.select("tbody")?.first()?.childNodes()
+            val childNodes = document.select("tbody").first()?.childNodes()
             for (childNode in childNodes.orEmpty()) {
                 if (childNode is Element && childNode.childNode(1).toString().contains(software)) {
                     return childNode.childNode(3).childNode(0).toString()
