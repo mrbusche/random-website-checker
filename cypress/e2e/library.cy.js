@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Bliss montage');
+        cy.get('.new-releases__link a').first().should('have.text', 'American murderer : the parasite that haunted the South');
     })
 
     it('checks new videos', () => {
