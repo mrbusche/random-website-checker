@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Thank you for listening : a novel');
+        cy.get('.new-releases__link a').first().should('have.text', 'Dressing up the stars : the story of movie costume designer Edith Head');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'A quiet passion');
+        cy.get('.new-releases__link a').first().should('have.text', 'Mayor of Kingstown. Season one');
     })
 })
 
