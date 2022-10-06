@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The family outing : a memoir');
+        cy.get('.new-releases__link a').first().should('have.text', 'From Saturday night to Sunday night : my forty years of laughter, tears, and touchdowns in TV');
     })
 
     it('checks new videos', () => {
@@ -23,7 +23,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '1 results');
+                cy.get('.search-text.h2').first().should('contain.text', '2 results');
             }
         });
     })
