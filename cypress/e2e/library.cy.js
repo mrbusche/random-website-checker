@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'God made babies : helping parents answer the baby question');
+        cy.get('.new-releases__link a').first().should('have.text', 'Undercover Latina');
     })
 
     it('checks new videos', () => {
