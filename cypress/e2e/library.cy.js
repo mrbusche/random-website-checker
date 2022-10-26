@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Rebels at sea : privateering in the American Revolution');
+        cy.get('.new-releases__link a').first().should('have.text', 'Jesus listens : 365 prayers for kids');
     })
 
     it('checks new videos', () => {
