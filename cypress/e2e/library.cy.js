@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The Scratch daughters');
+        cy.get('.new-releases__link a').first().should('have.text', 'The world keeps ending, and the world goes on');
     })
 
     it('checks new videos', () => {
