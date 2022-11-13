@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Wolfe Eye Clinic : A Century in Sight');
+        cy.get('.new-releases__link a').first().should('have.text', 'Remarkable readers : kindergarten set 2');
     })
 
     it('checks new videos', () => {
