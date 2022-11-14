@@ -12,8 +12,8 @@ describe('ping website', () => {
         cy.get('h2').eq(1).should('have.text', 'Haven Hideaway');
     })
 
-    it(' hits https://fmlcalculator.com', () => {
-        cy.visit('https://fmlcalculator.com?automated=true');
+    it(' hits Fantasy Movie League Calculator', () => {
+        cy.visit('https://fmlcalculator.netlify.app/?automated=true');
         cy.get('h1').first().should('have.text', 'FML Calculator');
         cy.get('#movieInput').should(($div) => {
             const text = $div.text().replace(/\s/g, '');
@@ -47,8 +47,8 @@ describe('ping website', () => {
         });
     })
 
-    it(' hits https://occurrencecounter.com', () => {
-        cy.visit('https://occurrencecounter.com?automated=true')
+    it(' hits Occurrence Counter', () => {
+        cy.visit('https://occurrencecounter.netlify.app/?automated=true')
         cy.get('h1').should('have.text', 'Occurrence Counter');
         cy.get('h5').should('have.text', 'Supports return, pipe, or comma delimited lists');
         cy.get('label').eq(1).should(($div) => {
@@ -57,8 +57,8 @@ describe('ping website', () => {
         });
     })
 
-    it(' hits https://randomordergenerator.com', () => {
-        cy.visit('https://randomordergenerator.com?automated=true')
+    it(' hits Random Order Generator', () => {
+        cy.visit('https://randomordergenerator.netlify.app/?automated=true')
         cy.get('h1').first().should('have.text', 'Paste a list to generate a random order');
         cy.get('footer').should(($div) => {
             const text = $div.text().replace(/\s/g, ' ').trim();
