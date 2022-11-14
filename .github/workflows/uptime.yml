@@ -28,10 +28,10 @@ jobs:
       uses: srt32/uptime@v0.2.1
       with:
         url-to-hit: https://isitelectionday.com
-    - name: check Occurrence Counte
+    - name: check Occurrence Counter
       uses: srt32/uptime@v0.2.1
       with:
-        url-to-hit: https://www.occurrencecounter.netlify.app
+        url-to-hit: https://occurrencecounter.netlify.app
     - name: check Random Order Generator
       uses: srt32/uptime@v0.2.1
       with:
