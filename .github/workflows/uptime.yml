@@ -16,10 +16,10 @@ jobs:
       uses: srt32/uptime@v0.2.1
       with:
         url-to-hit: https://cottagesonwash.com
-    - name: check fmlcalculator.com
+    - name: check Fantasy Movie League Calculator
       uses: srt32/uptime@v0.2.1
       with:
-        url-to-hit: https://fmlcalculator.com
+        url-to-hit: https://fmlcalculator.netlify.app
     - name: check dynastytradecalc.com
       uses: srt32/uptime@v0.2.1
       with:
@@ -28,11 +28,11 @@ jobs:
       uses: srt32/uptime@v0.2.1
       with:
         url-to-hit: https://isitelectionday.com
-    - name: check occurrencecounter.com
+    - name: check Occurrence Counte
       uses: srt32/uptime@v0.2.1
       with:
-        url-to-hit: https://www.occurrencecounter.com
-    - name: check randomordergenerator.com
+        url-to-hit: https://www.occurrencecounter.netlify.app
+    - name: check Random Order Generator
       uses: srt32/uptime@v0.2.1
       with:
-        url-to-hit: https://randomordergenerator.com
+        url-to-hit: https://randomordergenerator.netlify.app
