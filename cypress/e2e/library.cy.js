@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The upset : life (sports), death ... and the legacy we leave in the middle : the Tyler Trent story');
+        cy.get('.new-releases__link a').first().should('have.text', 'The fifth justice');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'The Christmas contest');
+        cy.get('.new-releases__link a').first().should('have.text', 'Live at Yankee Stadium, June 22 & 23, 1990');
     })
 })
 
