@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Wibble Wobble BOOM!');
+        cy.get('.new-releases__link a').first().should('have.text', 'Thomas Jefferson : a biography of spirit and flesh');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'The odd couple : the complete series.');
+        cy.get('.new-releases__link a').first().should('have.text', 'Sister Boniface mysteries. Season one');
     })
 })
 
