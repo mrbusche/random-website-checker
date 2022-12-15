@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Secrets typed in blood');
+        cy.get('.new-releases__link a').first().should('have.text', 'Parker grows a garden');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Sister Boniface mysteries. Season one');
+        cy.get('.new-releases__link a').first().should('have.text', 'Conspiracy theory');
     })
 })
 
