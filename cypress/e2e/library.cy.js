@@ -36,5 +36,4 @@ describe('check bridges', () => {
             }
         });
     })
-
 })
