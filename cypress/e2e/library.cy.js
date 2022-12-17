@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Iowa bucket list adventure guide : explore 100 offbeat destinations you must visit');
+        cy.get('.new-releases__link a').first().should('have.text', 'Dairy is good for you!');
     })
 
     it('checks new videos', () => {
