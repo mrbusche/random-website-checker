@@ -1,6 +1,5 @@
 import com.webpage.checker.CheckerService
 import org.junit.jupiter.api.Assertions.assertEquals
-import org.junit.jupiter.api.Assertions.assertFalse
 import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.Test
 
@@ -22,7 +21,7 @@ internal class CheckerApplicationTests {
     @Test
     fun `Test Adoptium jdk17 Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("jdk-17.0.5+10", CheckerService.retrieveSoftwareVersions(reportUrl, "Adoptium jdk17 linux x64"))
+        assertEquals("jdk-17.0.6+10", CheckerService.retrieveSoftwareVersions(reportUrl, "Adoptium jdk17 linux x64"))
     }
 
     @Test
