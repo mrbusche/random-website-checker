@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'In Grandma\'s attic');
+        cy.get('.new-releases__link a').first().should('have.text', 'Pegasus : how a spy in your pocket threatens the end of privacy, dignity, and democracy');
     })
 
     it('checks new videos', () => {
