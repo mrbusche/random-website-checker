@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The 10-day belly slimdown : lose your belly, heal your gut, enjoy a lighter, younger you');
+        cy.get('.new-releases__link a').first().should('have.text', 'On ice!');
     })
 
     it('checks new videos', () => {
