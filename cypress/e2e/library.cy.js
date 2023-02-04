@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'On ice!');
+        cy.get('.new-releases__link a').first().should('have.text', 'The book of ichigo ichie : the art of making the most of every moment, the Japanese way');
     })
 
     it('checks new videos', () => {
