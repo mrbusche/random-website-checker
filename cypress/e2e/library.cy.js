@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The book of ichigo ichie : the art of making the most of every moment, the Japanese way');
+        cy.get('.new-releases__link a').first().should('have.text', 'A birthday gnome story : Murphy McWoo turns 302');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Violent night');
+        cy.get('.new-releases__link a').first().should('have.text', 'The menu');
     })
 })
 
