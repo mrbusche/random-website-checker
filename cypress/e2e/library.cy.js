@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Ant-Man and Wasp save the day');
+        cy.get('.new-releases__link a').first().should('have.text', 'Stop, breathe, believe : mindful living one thought at a time');
     })
 
     it('checks new videos', () => {
@@ -32,7 +32,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '32 results');
+                cy.get('.search-text.h2').first().should('contain.text', '39 results');
             }
         });
     })
