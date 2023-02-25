@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Stop, breathe, believe : mindful living one thought at a time');
+        cy.get('.new-releases__link a').first().should('have.text', 'The menopause manifesto : own your health with facts and feminism');
     })
 
     it('checks new videos', () => {
