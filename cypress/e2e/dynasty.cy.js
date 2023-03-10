@@ -6,6 +6,6 @@ describe('check dynasty things', () => {
 
     it('checks ETR Dynasty updates', () => {
         cy.visit('https://establishtherun.com/etrs-dynasty-rankings/');
-        cy.get('span.published').first().should('have.text', 'Mar 6, 2023');
+        cy.get('span.published').first().should('have.text', 'Mar 9, 2023');
     })
 })
