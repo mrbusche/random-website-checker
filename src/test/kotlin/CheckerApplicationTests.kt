@@ -27,7 +27,7 @@ internal class CheckerApplicationTests {
     @Test
     fun `Test Maven Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("4.0.0-alpha-4", CheckerService.retrieveSoftwareVersions(reportUrl, "Maven"))
+        assertEquals("4.0.0-alpha-5", CheckerService.retrieveSoftwareVersions(reportUrl, "Maven"))
     }
 
     @Test
