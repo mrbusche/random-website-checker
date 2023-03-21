@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'I love grandma with The Very Hungry Caterpillar');
+        cy.get('.new-releases__link a').first().should('have.text', 'The wonder paradox : embracing the weirdness of existence and the poetry of our lives');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'The staircase : limited series.');
+        cy.get('.new-releases__link a').first().should('have.text', 'Alice, darling');
     })
 })
 
