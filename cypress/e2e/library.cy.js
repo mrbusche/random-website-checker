@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The book of nature : the astonishing beauty of god\'s first sacred text');
+        cy.get('.new-releases__link a').first().should('have.text', 'Humanly possible : seven hundred years of humanist freethinking, inquiry, and hope');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Pedicab Driver / (DVD)');
+        cy.get('.new-releases__link a').first().should('have.text', 'Babylon');
     })
 })
 
