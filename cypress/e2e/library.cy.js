@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Helen Roseveare : the doctor who kept going no matter what');
+        cy.get('.new-releases__link a').first().should('have.text', 'A door in the dark');
     })
 
     it('checks new videos', () => {
