@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The book of turtles');
+        cy.get('.new-releases__link a').first().should('have.text', 'Mrs. McGinty\'s dead : a Hercule Poirot mystery');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'The streets of San Francisco. Season 1');
+        cy.get('.new-releases__link a').first().should('have.text', 'Frasier. The final season');
     })
 })
 
