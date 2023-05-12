@@ -3,13 +3,13 @@ describe('check kirkendall', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/search/searchresults.aspx?ctx=3.1033.0.0.5&type=Keyword&term=%22:%20ON%20ORDER%22&by=KW&sort=RELEVANCE&limit=TOM=*&query=&page=0&searchid=1');
         cy.get('.c-results-utility-result-count').eq(1).should(($div) => {
             const text = $div.text().replace(/\s\s+/g, ' ').trim();
-            expect(text).to.eq('1 - 10 of 74');
+            expect(text).to.eq('1 - 10 of 75');
         });
     })
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Mrs. McGinty\'s dead : a Hercule Poirot mystery');
+        cy.get('.new-releases__link a').first().should('have.text', 'Collected poems');
     })
 
     it('checks new videos', () => {
