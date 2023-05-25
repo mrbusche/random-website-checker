@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Fat talk : parenting in the age of diet culture');
+        cy.get('.new-releases__link a').first().should('have.text', 'A mystery of mysteries : the death and life of Edgar Allan Poe');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Ant-Man and the Wasp. Quantumania');
+        cy.get('.new-releases__link a').first().should('have.text', 'The Madame Blanc mysteries. Series 2');
     })
 })
 
@@ -23,7 +23,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '62 results');
+                cy.get('.search-text.h2').first().should('contain.text', '67 results');
             }
         });
     })
@@ -32,7 +32,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '69 results');
+                cy.get('.search-text.h2').first().should('contain.text', '71 results');
             }
         });
     })
