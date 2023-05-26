@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'A mystery of mysteries : the death and life of Edgar Allan Poe');
+        cy.get('.new-releases__link a').first().should('have.text', 'Four battlegrounds : power in the age of artificial intelligence');
     })
 
     it('checks new videos', () => {
