@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The shadow docket : how the Supreme Court uses stealth rulings to amass power and undermine the republic');
+        cy.get('.new-releases__link a').first().should('have.text', 'Even if everything ends');
     })
 
     it('checks new videos', () => {
