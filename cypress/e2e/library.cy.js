@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'They threw us away');
+        cy.get('.new-releases__link a').first().should('have.text', 'Marco Polo brave explorer');
     })
 
     it('checks new videos', () => {
