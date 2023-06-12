@@ -1,7 +1,7 @@
 describe('ping website', () => {
-    it('hits matthewbusche.com', () => {
-        cy.visit('https://matthewbusche.com?automated=true');
-        cy.get('a.logo-text').first().should('have.text', 'matthewbusche.com');
+    it('hits mrbusche.com', () => {
+        cy.visit('https://mrbusche.com?automated=true');
+        cy.get('a.logo-text').first().should('have.text', 'mrbusche.com');
         cy.get('p.site-description').first().should('have.text', 'Things I\'ve learned');
     })
 
