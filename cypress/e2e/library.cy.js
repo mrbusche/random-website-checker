@@ -14,7 +14,7 @@ describe('check kirkendall', () => {
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Looney Tunes Collector's Choice. vol. 1');
+        cy.get('.new-releases__link a').first().should('have.text', 'Looney Tunes Collector\'s Choice. vol. 1');
     })
 })
 
