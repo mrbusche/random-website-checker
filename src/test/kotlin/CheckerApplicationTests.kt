@@ -25,7 +25,7 @@ internal class CheckerApplicationTests {
     }
 
     @Test
-    fun `Test Adoptium jdk17 Version`() {
+    fun `Test Adoptium jdk20 Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
         assertEquals("jdk-20.0.1+9", CheckerService.retrieveSoftwareVersions(reportUrl, "Adoptium jdk20 linux x64"))
     }
