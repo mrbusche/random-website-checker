@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Heroes of the water monster');
+        cy.get('.new-releases__link a').first().should('have.text', 'Wannabe : reckonings with the pop culture that raised me');
     })
 
     it('checks new videos', () => {
