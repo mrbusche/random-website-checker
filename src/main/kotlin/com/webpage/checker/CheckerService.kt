@@ -8,24 +8,6 @@ import org.springframework.stereotype.Service
 @Service
 class CheckerService {
     companion object {
-        private const val SECTION_LIST_CLASS = "facility_title_td"
-
-//        fun retrieveNewProjects(existingProjects: List<out String>): Boolean {
-//            val document = Jsoup.connect("https://www.ankenyiowa.gov/our-city/maps/new-development").get()
-//            val elements = document.getElementsByClass(SECTION_LIST_CLASS)
-//            if (elements.isEmpty()) {
-//                return false
-//            }
-//            for (element in elements) {
-//                val projectName = element.childNode(0).childNode(0).toString()
-//                println(projectName)
-//                if (projectName !in existingProjects) {
-//                    return true
-//                }
-//            }
-//            return false
-//        }
-
         fun retrieveSoftwareVersions(url: String, software: String): String {
             val document = Jsoup.connect(url).get()
             val childNodes = document.select("tbody").first()?.childNodes()
