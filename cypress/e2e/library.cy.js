@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Ginny off the map');
+        cy.get('.new-releases__link a').first().should('have.text', 'Goblin mode : how to get cozy, embrace imperfection, and thrive in the muck');
     })
 
     it('checks new videos', () => {
