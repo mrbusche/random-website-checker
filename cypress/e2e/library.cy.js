@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Ginny off the map');
+        cy.get('.new-releases__link a').first().should('have.text', 'Goblin mode : how to get cozy, embrace imperfection, and thrive in the muck');
     })
 
     it('checks new videos', () => {
@@ -41,7 +41,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/magazines/collection/217420?addedDate=days-0-7&sortBy=newlyadded&language=en');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '1 results');
+                cy.get('.search-text.h2').first().should('contain.text', '2 results');
             }
         });
     })
