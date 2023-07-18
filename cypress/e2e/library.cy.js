@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Hardware helper!');
+        cy.get('.new-releases__link a').first().should('have.text', 'To dye for : how toxic fashion is making us sick--and how we can fight back');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Are you there God? it\'s me, Margaret');
+        cy.get('.new-releases__link a').first().should('have.text', 'Junk head');
     })
 })
 
