@@ -7,13 +7,13 @@ internal class CheckerApplicationTests {
     @Test
     fun `Test Adoptium 11 Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("jdk-11.0.19+7", CheckerService.retrieveSoftwareVersions(reportUrl, " Adoptium jdk11 linux x64"))
+        assertEquals("jdk-11.0.20+8", CheckerService.retrieveSoftwareVersions(reportUrl, " Adoptium jdk11 linux x64"))
     }
 
     @Test
     fun `Test Adoptium jdk17 Version`() {
         val reportUrl = "https://github.com/jonathanlermitage/software-updates-bot/blob/master/report/report.md"
-        assertEquals("jdk-17.0.7+7", CheckerService.retrieveSoftwareVersions(reportUrl, "Adoptium jdk17 linux x64"))
+        assertEquals("jdk-17.0.8+7", CheckerService.retrieveSoftwareVersions(reportUrl, "Adoptium jdk17 linux x64"))
     }
 
     @Test
