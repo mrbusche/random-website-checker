@@ -2,7 +2,7 @@ import org.gradle.api.tasks.testing.logging.TestExceptionFormat.FULL
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    id("org.springframework.boot") version "3.1.1"
+    id("org.springframework.boot") version "3.2.0-M1"
     id("io.spring.dependency-management") version "1.1.2"
     id("org.sonarqube") version "4.3.0.3225"
     id("org.jetbrains.kotlin.jvm") version "1.9.0"
