@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Dirt rich : how one ambitiously lazy geek created passive income in real esate without renters, renovations, and rehabs');
+        cy.get('.new-releases__link a').first().should('have.text', 'My body is distant : a memoir');
     })
 
     it('checks new videos', () => {
