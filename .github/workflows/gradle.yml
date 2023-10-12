@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    name: Build with JDK 20
+    name: build
     runs-on: ubuntu-latest
 
     steps:
