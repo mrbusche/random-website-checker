@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Take the lead : hanging on, letting go, and conquering life's hardest climbs');
+        cy.get('.new-releases__link a').first().should('have.text', 'Take the lead : hanging on, letting go, and conquering life\'s hardest climbs');
     })
 
     it('checks new videos', () => {
