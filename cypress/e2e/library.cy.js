@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The history of sketch comedy : a journey through the art and craft of humor');
+        cy.get('.new-releases__link a').first().should('have.text', 'Seeker of knowledge : the man who deciphered Egyptian hieroglyphs');
     })
 
     it('checks new videos', () => {
