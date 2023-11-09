@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 48 of 48
+1 - 51 of 51
 100
  PER PAGESORT 
 Title
@@ -96,22 +96,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 8.	
 The Equalizer 3 : ON ORDER
 ... The Equalizer 3 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 9.	
 The Equalizer 3 : ON ORDER
 ... The Equalizer 3 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -187,22 +187,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 17.	
 The holdovers : ON ORDER
 ... The holdovers : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 18.	
 The holdovers : ON ORDER
 ... The holdovers : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -361,22 +361,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 33.	
 The nun II : ON ORDER
 ... The nun II : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 34.	
 The nun II : ON ORDER
 ... The nun II : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -401,22 +401,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 37.	
 The retirement plan : ON ORDER
 ... The retirement plan : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 38.	
 The retirement plan : ON ORDER
 ... The retirement plan : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -431,18 +431,8 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
-40.	
-Saw X : ON ORDER
-... Saw X : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
 DVD
-41.	
+40.	
 Saw X : ON ORDER
 ... Saw X : ON ORDER ...
 System Availability: 0 (of 0)
@@ -452,17 +442,47 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-42.	
-Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER
-... Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER ...
+41.	
+Saw X : ON ORDER
+... Saw X : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+42.	
+Star Trek Strange New Worlds season 1 : ON ORDER
+... Star Trek Strange New Worlds season 1 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
 43.	
+Star Trek Strange New Worlds season 2 : ON ORDER
+... Star Trek Strange New Worlds season 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+44.	
+Star Trek Strange New Worlds season 2 : ON ORDER
+... Star Trek Strange New Worlds season 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+45.	
 Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER
 ... Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER ...
 System Availability: 0 (of 0)
@@ -471,8 +491,18 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
+Blu-Ray
+46.	
+Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER
+... Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
 DVD
-44.	
+47.	
 The Biscuit Eater : ON ORDER
 ... The Biscuit Eater : ON ORDER ...
 System Availability: 0 (of 0)
@@ -482,7 +512,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-45.	
+48.	
 The History Channel Presents The Presidents : ON ORDER
 ... The History Channel Presents The Presidents : ON ORDER ...
 System Availability: 0 (of 0)
@@ -491,8 +521,18 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
+Blu-Ray
+49.	
+The Unknown Country : ON ORDER
+... The Unknown Country : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
 DVD
-46.	
+50.	
 The Unknown Country : ON ORDER
 ... The Unknown Country : ON ORDER ...
 System Availability: 0 (of 0)
@@ -502,17 +542,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-47.	
-The Unknown Country : ON ORDER
-... The Unknown Country : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-Blu-Ray
-48.	
+51.	
 WandaVision season 1 : ON ORDER
 ... WandaVision season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -521,7 +551,7 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-1 - 48 of 48
+1 - 51 of 51
 100
  PER PAGE
 «<1>»
@@ -529,10 +559,10 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (42)
-Videorecording  (42)
-Visual Materials  (42)
-DVD  (25)
+Projected Medium  (43)
+Videorecording  (43)
+Visual Materials  (43)
+DVD  (26)
 Blu-Ray  (17)
 More>>
 Authors
