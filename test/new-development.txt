@@ -24,11 +24,6 @@ Map
 Save Search
 Sort by 
 Name, A-Z
-36th Street Centre
-Image Unavailable
-Ankeny
-Ankeny, IA 50023
-
 Albaugh Four Mile Industrial
 Image Unavailable
 Ankeny
@@ -42,11 +37,6 @@ Ankeny, IA 50023
 Ankeny Elementary #12
 Image Unavailable
 5001 NW 18th Street
-Ankeny, IA 50023
-
-Aspen Ridge Commercial Plat 2
-Image Unavailable
-Ankeny
 Ankeny, IA 50023
 
 Aspen Ridge Commercial Plat 3
@@ -90,11 +80,6 @@ Image Unavailable
 Ankeny
 Ankeny, IA 50021
 
-Canyon Landing Townhomes Plat 2
-Image Unavailable
-Ankeny
-Ankeny, IA 50021
-
 Centennial Estates Plat 3
 Image Unavailable
 Ankeny
@@ -125,11 +110,6 @@ Image Unavailable
 575 NE 47th Street
 Ankeny, IA 50021
 
-Culver's
-Image Unavailable
-255 NW 36th St
-Ankeny, IA 50023
-
 Discount Tire
 Image Unavailable
 902 SE Oralabor Road
@@ -148,11 +128,6 @@ Ankeny, IA 50023
 District Flats
 Image Unavailable
 1380 SW District Drive
-Ankeny, IA 50023
-
-District Place
-Image Unavailable
-1205 SW Merchant Street
 Ankeny, IA 50023
 
 Dunkin' Go
@@ -225,11 +200,6 @@ Image Unavailable
 1302 N Ankeny Blvd
 Ankeny, IA 50023
 
-Parkway Townhomes at Prairie Trail Plat 1
-Image Unavailable
-Ankeny
-Ankeny, IA 50023
-
 Pine Lake Estates Plat 1
 Image Unavailable
 Ankeny
@@ -256,6 +226,11 @@ Ankeny
 Ankeny, IA 50021
 
 The Crossings at Deer Creek Plat 12
+Image Unavailable
+Ankeny
+Ankeny, IA 50021
+
+The Crossings at Deer Creek Plat 15
 Image Unavailable
 Ankeny
 Ankeny, IA 50021
