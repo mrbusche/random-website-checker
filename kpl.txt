@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 53 of 53
+1 - 49 of 49
 100
  PER PAGESORT 
 Title
@@ -53,16 +53,6 @@ PLACE REQUEST
 Add to My List  
 DVD
 4.	
-The blind : ON ORDER
-... The blind : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-5.	
 Brides of Dracula : ON ORDER
 ... Brides of Dracula : ON ORDER ...
 System Availability: 0 (of 0)
@@ -72,7 +62,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-6.	
+5.	
 Chelsea detective series 2 : ON ORDER
 ... Chelsea detective series 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -82,7 +72,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-7.	
+6.	
 The Conan chronicles : ON ORDER
 ... The Conan chronicles : ON ORDER ...
 System Availability: 0 (of 0)
@@ -94,12 +84,12 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (3783)
-8.	
+rating (3841)
+7.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
 ... Brodart Bibz On - Order Record. ...
-System Availability: 1 (of 1)
+System Availability: 0 (of 1)
 Call Number: F Shannon
 Summary: The stunning, standalone prequel to the New York Times bestselling The Priory of the Orange Tree. In A Day of Fallen Night, Samantha Shannon sweeps readers back to the universe of Priory of the Orange Tree and into the lives of four women, showing us a course of events that shaped their world for generations to come. Tunuva Melim is a sister of the Priory. For fifty years, she has trained to slay wyrms – but none have appeared since the Nameless One, and the younger generation is starting to question the Priory's purpose. To the north, in the Queendom of Inys, Sabran the Ambitious has married the new King of Hróth, narrowly saving both realms from ruin. Their daughter, Glorian, trails in their shadow – exactly where she wants to be. The dragons of the East have slept for centuries. Dumai has spent her life in a Seiikinese mountain temple, trying to wake the gods from their long slumber. Now someone from her mother's past is coming to upend her fate. When the Dreadmount erupts, bringing with it an age of terror and violence, these women must find the strength to protect humankind from a devastating threat.
 AVAILABILITY
@@ -107,7 +97,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-9.	
+8.	
 Dumb money : ON ORDER
 ... Dumb money : ON ORDER ...
 System Availability: 0 (of 0)
@@ -117,7 +107,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-10.	
+9.	
 Dumb money : ON ORDER
 ... Dumb money : ON ORDER ...
 System Availability: 0 (of 0)
@@ -127,7 +117,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-11.	
+10.	
 The Expanse the complete series : ON ORDER
 ... The Expanse the complete series : ON ORDER ...
 System Availability: 0 (of 0)
@@ -137,7 +127,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-12.	
+11.	
 Expend4bles : ON ORDER
 ... Expend4bles : ON ORDER ...
 System Availability: 0 (of 0)
@@ -147,7 +137,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-13.	
+12.	
 Expend4bles : ON ORDER
 ... Expend4bles : ON ORDER ...
 System Availability: 0 (of 0)
@@ -157,7 +147,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-14.	
+13.	
 Five nights at Freddy's : ON ORDER
 ... Five nights at Freddy's : ON ORDER ...
 System Availability: 0 (of 0)
@@ -167,7 +157,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-15.	
+14.	
 Five nights at Freddy's : ON ORDER
 ... Five nights at Freddy's : ON ORDER ...
 System Availability: 0 (of 0)
@@ -177,7 +167,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Book
-16.	
+15.	
 Insight : case files from the psychic world.
 by Browne, Sylvia
 ... On order . ...
@@ -188,7 +178,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-17.	
+16.	
 A haunting in Venice : ON ORDER
 ... A haunting in Venice : ON ORDER ...
 System Availability: 0 (of 0)
@@ -198,7 +188,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-18.	
+17.	
 A haunting in Venice : ON ORDER
 ... A haunting in Venice : ON ORDER ...
 System Availability: 0 (of 0)
@@ -208,7 +198,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-19.	
+18.	
 The holdovers : ON ORDER
 ... The holdovers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -218,7 +208,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-20.	
+19.	
 The holdovers : ON ORDER
 ... The holdovers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -228,11 +218,21 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-21.	
+20.	
 Horror of Dracula : ON ORDER
 ... Horror of Dracula : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+21.	
+Indiana Jones and the Dial of Destiny : ON ORDER
+... Indiana Jones and the Dial of Destiny : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -247,18 +247,8 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
-23.	
-Indiana Jones and the Dial of Destiny : ON ORDER
-... Indiana Jones and the Dial of Destiny : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
 Book
-24.	
+23.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
@@ -269,7 +259,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-25.	
+24.	
 Interview with a vampire season 1 : ON ORDER
 ... Interview with a vampire season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -281,7 +271,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-26.	
+25.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -294,8 +284,8 @@ Add to My List
 Love and lavender
 Large Print
 2022
-rating (435)
-27.	
+rating (436)
+26.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -307,7 +297,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-28.	
+27.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
@@ -317,7 +307,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-29.	
+28.	
 Mandalorian season 1 : ON ORDER
 ... Mandalorian season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -327,7 +317,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-30.	
+29.	
 Mandalorian season 2 : ON ORDER
 ... Mandalorian season 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -339,8 +329,8 @@ Add to My List
 The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
-rating (195)
-31.	
+rating (196)
+30.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -352,7 +342,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-32.	
+31.	
 The net : ON ORDER
 ... The net : ON ORDER ...
 System Availability: 0 (of 0)
@@ -362,9 +352,9 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-33.	
-Oppenheimer : ON ORDER
-... Oppenheimer : ON ORDER ...
+32.	
+Paw Patrol the Mighty Movie : ON ORDER
+... Paw Patrol the Mighty Movie : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 AVAILABILITY
@@ -372,9 +362,9 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-34.	
-Oppenheimer : ON ORDER
-... Oppenheimer : ON ORDER ...
+33.	
+Paw Patrol the Mighty Movie : ON ORDER
+... Paw Patrol the Mighty Movie : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 AVAILABILITY
@@ -382,7 +372,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-35.	
+34.	
 The retirement plan : ON ORDER
 ... The retirement plan : ON ORDER ...
 System Availability: 0 (of 0)
@@ -392,7 +382,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-36.	
+35.	
 The retirement plan : ON ORDER
 ... The retirement plan : ON ORDER ...
 System Availability: 0 (of 0)
@@ -402,7 +392,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-37.	
+36.	
 Sandman season 1 : ON ORDER
 ... Sandman season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -412,47 +402,27 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
+37.	
+Saw X : ON ORDER
+... Saw X : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
 38.	
 Saw X : ON ORDER
 ... Saw X : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 39.	
-Saw X : ON ORDER
-... Saw X : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-Blu-Ray
-40.	
-The sound of freedom : ON ORDER
-... The sound of freedom : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-41.	
-The sound of freedom : ON ORDER
-... The sound of freedom : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-42.	
 Special Ops: Lioness : ON ORDER
 ... Special Ops: Lioness : ON ORDER ...
 System Availability: 0 (of 0)
@@ -462,47 +432,47 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
+40.	
+Star Trek Strange New Worlds season 2 : ON ORDER
+... Star Trek Strange New Worlds season 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+41.	
+Star Trek Strange New Worlds season 2 : ON ORDER
+... Star Trek Strange New Worlds season 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+42.	
+Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER
+... Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
 43.	
-Star Trek Strange New Worlds season 2 : ON ORDER
-... Star Trek Strange New Worlds season 2 : ON ORDER ...
+Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER
+... Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 44.	
-Star Trek Strange New Worlds season 2 : ON ORDER
-... Star Trek Strange New Worlds season 2 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-Blu-Ray
-45.	
-Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER
-... Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-46.	
-Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER
-... Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-47.	
 The Biscuit Eater : ON ORDER
 ... The Biscuit Eater : ON ORDER ...
 System Availability: 0 (of 0)
@@ -512,7 +482,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-48.	
+45.	
 The History Channel Presents The Presidents : ON ORDER
 ... The History Channel Presents The Presidents : ON ORDER ...
 System Availability: 0 (of 0)
@@ -521,18 +491,8 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
-49.	
-The Unknown Country : ON ORDER
-... The Unknown Country : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
 Blu-Ray
-50.	
+46.	
 The Unknown Country : ON ORDER
 ... The Unknown Country : ON ORDER ...
 System Availability: 0 (of 0)
@@ -542,7 +502,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-51.	
+47.	
 WandaVision season 1 : ON ORDER
 ... WandaVision season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -552,7 +512,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-52.	
+48.	
 What happens later : ON ORDER
 ... What happens later : ON ORDER ...
 System Availability: 0 (of 0)
@@ -562,7 +522,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-53.	
+49.	
 What happens later : ON ORDER
 ... What happens later : ON ORDER ...
 System Availability: 0 (of 0)
@@ -571,18 +531,18 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-1 - 53 of 53
+1 - 49 of 49
 100
  PER PAGE
 «<1>»
 Narrow your search
 Available Now at Kirkendall
-Available Now  (5)
+Available Now  (4)
 Type of Material
-Projected Medium  (44)
-Videorecording  (44)
-Visual Materials  (44)
-DVD  (26)
+Projected Medium  (42)
+Videorecording  (42)
+Visual Materials  (42)
+DVD  (24)
 Blu-Ray  (18)
 More>>
 Authors
