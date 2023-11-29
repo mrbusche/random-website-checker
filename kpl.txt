@@ -71,18 +71,8 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
-6.	
-Chelsea detective series 2 : ON ORDER
-... Chelsea detective series 2 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
 Blu-Ray
-7.	
+6.	
 The Conan chronicles : ON ORDER
 ... The Conan chronicles : ON ORDER ...
 System Availability: 0 (of 0)
@@ -95,7 +85,7 @@ A day of fallen night
 Book
 2023
 rating (3841)
-8.	
+7.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
 ... Brodart Bibz On - Order Record. ...
@@ -107,7 +97,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-9.	
+8.	
 Dumb money : ON ORDER
 ... Dumb money : ON ORDER ...
 System Availability: 0 (of 0)
@@ -117,7 +107,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-10.	
+9.	
 Dumb money : ON ORDER
 ... Dumb money : ON ORDER ...
 System Availability: 0 (of 0)
@@ -127,7 +117,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-11.	
+10.	
 Five nights at Freddy's : ON ORDER
 ... Five nights at Freddy's : ON ORDER ...
 System Availability: 0 (of 0)
@@ -137,7 +127,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-12.	
+11.	
 Five nights at Freddy's : ON ORDER
 ... Five nights at Freddy's : ON ORDER ...
 System Availability: 0 (of 0)
@@ -147,7 +137,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Book
-13.	
+12.	
 Insight : case files from the psychic world.
 by Browne, Sylvia
 ... On order . ...
@@ -158,7 +148,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-14.	
+13.	
 Godzilla (2014) : ON ORDER
 ... Godzilla (2014) : ON ORDER ...
 System Availability: 0 (of 0)
@@ -168,7 +158,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-15.	
+14.	
 A haunting in Venice : ON ORDER
 ... A haunting in Venice : ON ORDER ...
 System Availability: 0 (of 0)
@@ -178,7 +168,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-16.	
+15.	
 A haunting in Venice : ON ORDER
 ... A haunting in Venice : ON ORDER ...
 System Availability: 0 (of 0)
@@ -188,7 +178,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-17.	
+16.	
 The holdovers : ON ORDER
 ... The holdovers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -198,7 +188,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-18.	
+17.	
 The holdovers : ON ORDER
 ... The holdovers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -208,7 +198,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-19.	
+18.	
 Horror of Dracula : ON ORDER
 ... Horror of Dracula : ON ORDER ...
 System Availability: 0 (of 0)
@@ -218,7 +208,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-20.	
+19.	
 Indiana Jones and the Dial of Destiny : ON ORDER
 ... Indiana Jones and the Dial of Destiny : ON ORDER ...
 System Availability: 0 (of 0)
@@ -228,7 +218,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-21.	
+20.	
 Indiana Jones and the Dial of Destiny : ON ORDER
 ... Indiana Jones and the Dial of Destiny : ON ORDER ...
 System Availability: 0 (of 0)
@@ -238,7 +228,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Book
-22.	
+21.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
@@ -249,9 +239,19 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-23.	
+22.	
 Interview with a vampire season 1 : ON ORDER
 ... Interview with a vampire season 1 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+23.	
+Jennifer's body : ON ORDER
+... Jennifer's body : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 AVAILABILITY
@@ -383,8 +383,8 @@ PLACE REQUEST
 Add to My List  
 DVD
 35.	
-Sandman season 1 : ON ORDER
-... Sandman season 1 : ON ORDER ...
+Set it off : ON ORDER
+... Set it off : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 AVAILABILITY
@@ -401,22 +401,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 37.	
 Star Trek Strange New Worlds season 2 : ON ORDER
 ... Star Trek Strange New Worlds season 2 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 38.	
 Star Trek Strange New Worlds season 2 : ON ORDER
 ... Star Trek Strange New Worlds season 2 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -481,20 +481,20 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 45.	
-The Unknown Country : ON ORDER
-... The Unknown Country : ON ORDER ...
+The straight story : ON ORDER
+... The straight story : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
 46.	
-WandaVision season 1 : ON ORDER
-... WandaVision season 1 : ON ORDER ...
+The Unknown Country : ON ORDER
+... The Unknown Country : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 AVAILABILITY
@@ -539,10 +539,10 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (40)
-Videorecording  (40)
-Visual Materials  (40)
-DVD  (23)
+Projected Medium  (41)
+Videorecording  (41)
+Visual Materials  (41)
+DVD  (24)
 Blu-Ray  (17)
 More>>
 Authors
