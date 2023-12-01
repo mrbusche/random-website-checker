@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 49 of 49
+1 - 48 of 48
 100
  PER PAGESORT 
 Title
@@ -157,28 +157,18 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 14.	
 A haunting in Venice : ON ORDER
 ... A haunting in Venice : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
 15.	
-A haunting in Venice : ON ORDER
-... A haunting in Venice : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-16.	
 The holdovers : ON ORDER
 ... The holdovers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -188,7 +178,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-17.	
+16.	
 The holdovers : ON ORDER
 ... The holdovers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -198,9 +188,19 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-18.	
+17.	
 Horror of Dracula : ON ORDER
 ... Horror of Dracula : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+18.	
+Indiana Jones and the Dial of Destiny : ON ORDER
+... Indiana Jones and the Dial of Destiny : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 AVAILABILITY
@@ -217,18 +217,8 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
-20.	
-Indiana Jones and the Dial of Destiny : ON ORDER
-... Indiana Jones and the Dial of Destiny : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
 Book
-21.	
+20.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
@@ -239,7 +229,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-22.	
+21.	
 Interview with a vampire season 1 : ON ORDER
 ... Interview with a vampire season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -249,7 +239,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-23.	
+22.	
 Jennifer's body : ON ORDER
 ... Jennifer's body : ON ORDER ...
 System Availability: 0 (of 0)
@@ -261,7 +251,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-24.	
+23.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -275,7 +265,7 @@ Love and lavender
 Large Print
 2022
 rating (436)
-25.	
+24.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -287,7 +277,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-26.	
+25.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
@@ -297,7 +287,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-27.	
+26.	
 Mandalorian season 1 : ON ORDER
 ... Mandalorian season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -307,7 +297,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-28.	
+27.	
 Mandalorian season 2 : ON ORDER
 ... Mandalorian season 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -320,7 +310,7 @@ The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
 rating (196)
-29.	
+28.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -332,7 +322,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-30.	
+29.	
 The net : ON ORDER
 ... The net : ON ORDER ...
 System Availability: 0 (of 0)
@@ -342,7 +332,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-31.	
+30.	
 Paw Patrol the Mighty Movie : ON ORDER
 ... Paw Patrol the Mighty Movie : ON ORDER ...
 System Availability: 0 (of 0)
@@ -352,7 +342,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-32.	
+31.	
 Paw Patrol the Mighty Movie : ON ORDER
 ... Paw Patrol the Mighty Movie : ON ORDER ...
 System Availability: 0 (of 0)
@@ -362,7 +352,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-33.	
+32.	
 The retirement plan : ON ORDER
 ... The retirement plan : ON ORDER ...
 System Availability: 0 (of 0)
@@ -372,7 +362,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-34.	
+33.	
 The retirement plan : ON ORDER
 ... The retirement plan : ON ORDER ...
 System Availability: 0 (of 0)
@@ -382,7 +372,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-35.	
+34.	
 Set it off : ON ORDER
 ... Set it off : ON ORDER ...
 System Availability: 0 (of 0)
@@ -392,9 +382,19 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-36.	
+35.	
 Special Ops: Lioness : ON ORDER
 ... Special Ops: Lioness : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+36.	
+Star Trek Strange New Worlds season 2 : ON ORDER
+... Star Trek Strange New Worlds season 2 : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 AVAILABILITY
@@ -411,18 +411,8 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
-38.	
-Star Trek Strange New Worlds season 2 : ON ORDER
-... Star Trek Strange New Worlds season 2 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
 Blu-Ray
-39.	
+38.	
 Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER
 ... Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER ...
 System Availability: 0 (of 0)
@@ -432,7 +422,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-40.	
+39.	
 Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER
 ... Teenage Mutant Ninja Turtles: Mutant Mayhem : ON ORDER ...
 System Availability: 0 (of 0)
@@ -442,7 +432,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-41.	
+40.	
 The Biscuit Eater : ON ORDER
 ... The Biscuit Eater : ON ORDER ...
 System Availability: 0 (of 0)
@@ -452,7 +442,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-42.	
+41.	
 The creator : ON ORDER
 ... The creator : ON ORDER ...
 System Availability: 0 (of 0)
@@ -462,7 +452,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-43.	
+42.	
 The creator : ON ORDER
 ... The creator : ON ORDER ...
 System Availability: 0 (of 0)
@@ -472,7 +462,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-44.	
+43.	
 The History Channel Presents The Presidents : ON ORDER
 ... The History Channel Presents The Presidents : ON ORDER ...
 System Availability: 0 (of 0)
@@ -482,7 +472,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-45.	
+44.	
 The straight story : ON ORDER
 ... The straight story : ON ORDER ...
 System Availability: 0 (of 0)
@@ -492,7 +482,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-46.	
+45.	
 The Unknown Country : ON ORDER
 ... The Unknown Country : ON ORDER ...
 System Availability: 0 (of 0)
@@ -502,7 +492,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-47.	
+46.	
 What happens later : ON ORDER
 ... What happens later : ON ORDER ...
 System Availability: 0 (of 0)
@@ -512,7 +502,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-48.	
+47.	
 What happens later : ON ORDER
 ... What happens later : ON ORDER ...
 System Availability: 0 (of 0)
@@ -522,7 +512,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-49.	
+48.	
 World without end / Satellite in the sky : ON ORDER
 ... World without end / Satellite in the sky : ON ORDER ...
 System Availability: 0 (of 0)
@@ -531,7 +521,7 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-1 - 49 of 49
+1 - 48 of 48
 100
  PER PAGE
 «<1>»
@@ -539,11 +529,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (41)
-Videorecording  (41)
-Visual Materials  (41)
-DVD  (24)
-Blu-Ray  (17)
+Projected Medium  (43)
+Videorecording  (43)
+Visual Materials  (43)
+DVD  (27)
+Blu-Ray  (16)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
