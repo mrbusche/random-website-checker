@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 30 of 30
+1 - 32 of 32
 100
  PER PAGESORT 
 Title
@@ -281,8 +281,28 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 25.	
+Thanksgiving : ON ORDER
+... Thanksgiving : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+26.	
+Thanksgiving : ON ORDER
+... Thanksgiving : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+27.	
 The Biscuit Eater : ON ORDER
 ... The Biscuit Eater : ON ORDER ...
 System Availability: 0 (of 0)
@@ -292,7 +312,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-26.	
+28.	
 The creator : ON ORDER
 ... The creator : ON ORDER ...
 System Availability: 0 (of 0)
@@ -302,7 +322,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-27.	
+29.	
 The History Channel Presents The Presidents : ON ORDER
 ... The History Channel Presents The Presidents : ON ORDER ...
 System Availability: 0 (of 0)
@@ -312,7 +332,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-28.	
+30.	
 The straight story : ON ORDER
 ... The straight story : ON ORDER ...
 System Availability: 0 (of 0)
@@ -322,7 +342,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-29.	
+31.	
 Weird the Al Yankovic story : ON ORDER
 ... Weird the Al Yankovic story : ON ORDER ...
 System Availability: 0 (of 0)
@@ -332,7 +352,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-30.	
+32.	
 Weird the Al Yankovic story : ON ORDER
 ... Weird the Al Yankovic story : ON ORDER ...
 System Availability: 0 (of 0)
@@ -341,7 +361,7 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-1 - 30 of 30
+1 - 32 of 32
 100
  PER PAGE
 «<1>»
@@ -349,11 +369,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (19)
-Videorecording  (19)
-Visual Materials  (19)
-DVD  (16)
-Book  (5)
+Projected Medium  (25)
+Videorecording  (25)
+Visual Materials  (25)
+DVD  (19)
+Blu-Ray  (6)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
