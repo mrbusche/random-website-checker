@@ -20,10 +20,6 @@ jobs:
       uses: srt32/uptime@v0.2.1
       with:
         url-to-hit: https://fmlcalculator.netlify.app
-    - name: check dynastytradecalc.com
-      uses: srt32/uptime@v0.2.1
-      with:
-        url-to-hit: https://dynastytradecalc.com
     - name: check isitelectionday.com
       uses: srt32/uptime@v0.2.1
       with:
