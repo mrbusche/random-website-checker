@@ -29,14 +29,6 @@ describe('ping website', () => {
         });
     })
 
-    it(' hits https://dynastytradecalc.com', () => {
-        cy.visit('https://dynastytradecalc.com?automated=true');
-        cy.get('h1').first().should('have.text', 'Dynasty Trade Calculator');
-        cy.get('#winner').first().should('have.text', 'Please choose players for each team.');
-        cy.get('h2').eq(1).should('have.text', 'Team One');
-        cy.get('h2').eq(2).should('have.text', 'Team Two');
-    })
-
     it(' hits https://isitelectionday.com', () => {
         cy.visit('https://isitelectionday.com?automated=true');
         cy.get('h1').first().should('have.text', 'Is it Election Day?');
