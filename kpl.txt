@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 31 of 31
+1 - 33 of 33
 100
  PER PAGESORT 
 Title
@@ -84,7 +84,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (4163)
+rating (4251)
 7.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -117,22 +117,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 10.	
 Hunger Games: Ballad of Songbirds and Snakes : ON ORDER
 ... Hunger Games: Ballad of Songbirds and Snakes : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 11.	
 Hunger Games: Ballad of Songbirds and Snakes : ON ORDER
 ... Hunger Games: Ballad of Songbirds and Snakes : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -158,22 +158,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 14.	
 Journey to Bethlehem : ON ORDER
 ... Journey to Bethlehem : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 15.	
 Journey to Bethlehem : ON ORDER
 ... Journey to Bethlehem : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -253,6 +253,26 @@ PLACE REQUEST
 Add to My List  
 DVD
 22.	
+Succession season 3 : ON ORDER
+... Succession season 3 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+23.	
+Succession season 4 : ON ORDER
+... Succession season 4 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+24.	
 Supergirl : ON ORDER
 ... Supergirl : ON ORDER ...
 System Availability: 0 (of 0)
@@ -262,7 +282,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-23.	
+25.	
 Thanksgiving : ON ORDER
 ... Thanksgiving : ON ORDER ...
 System Availability: 0 (of 0)
@@ -272,7 +292,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-24.	
+26.	
 Thanksgiving : ON ORDER
 ... Thanksgiving : ON ORDER ...
 System Availability: 0 (of 0)
@@ -282,7 +302,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-25.	
+27.	
 The Biscuit Eater : ON ORDER
 ... The Biscuit Eater : ON ORDER ...
 System Availability: 0 (of 0)
@@ -292,7 +312,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-26.	
+28.	
 The creator : ON ORDER
 ... The creator : ON ORDER ...
 System Availability: 0 (of 0)
@@ -302,7 +322,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-27.	
+29.	
 The History Channel Presents The Presidents : ON ORDER
 ... The History Channel Presents The Presidents : ON ORDER ...
 System Availability: 0 (of 0)
@@ -312,7 +332,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-28.	
+30.	
 The straight story : ON ORDER
 ... The straight story : ON ORDER ...
 System Availability: 0 (of 0)
@@ -322,7 +342,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-29.	
+31.	
 Trolls band together : ON ORDER
 ... Trolls band together : ON ORDER ...
 System Availability: 0 (of 0)
@@ -332,7 +352,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-30.	
+32.	
 Trolls band together : ON ORDER
 ... Trolls band together : ON ORDER ...
 System Availability: 0 (of 0)
@@ -342,7 +362,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-31.	
+33.	
 Valiant : ON ORDER
 ... Valiant : ON ORDER ...
 System Availability: 0 (of 0)
@@ -351,7 +371,7 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-1 - 31 of 31
+1 - 33 of 33
 100
  PER PAGE
 «<1>»
@@ -359,11 +379,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (24)
-Videorecording  (24)
-Visual Materials  (24)
-DVD  (18)
-Blu-Ray  (6)
+Projected Medium  (26)
+Videorecording  (26)
+Visual Materials  (26)
+DVD  (19)
+Blu-Ray  (7)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
