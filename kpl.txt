@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 50 of 50
+1 - 44 of 44
 100
  PER PAGESORT 
 Title
@@ -361,28 +361,8 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
-33.	
-Nancy Drew season 3 : ON ORDER
-... Nancy Drew season 3 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-34.	
-Nancy Drew the final season : ON ORDER
-... Nancy Drew the final season : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
 Blu-Ray
-35.	
+33.	
 Priscilla : ON ORDER
 ... Priscilla : ON ORDER ...
 System Availability: 0 (of 0)
@@ -392,7 +372,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-36.	
+34.	
 Rick and Morty season 7 : ON ORDER
 ... Rick and Morty season 7 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -402,7 +382,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-37.	
+35.	
 The Shining (1997) : ON ORDER
 ... The Shining (1997) : ON ORDER ...
 System Availability: 0 (of 0)
@@ -412,37 +392,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-38.	
-Supergirl : ON ORDER
-... Supergirl : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-Blu-Ray
-39.	
-Thanksgiving : ON ORDER
-... Thanksgiving : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-40.	
-Thanksgiving : ON ORDER
-... Thanksgiving : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-41.	
+36.	
 The Biscuit Eater : ON ORDER
 ... The Biscuit Eater : ON ORDER ...
 System Availability: 0 (of 0)
@@ -452,7 +402,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-42.	
+37.	
 The creator : ON ORDER
 ... The creator : ON ORDER ...
 System Availability: 0 (of 0)
@@ -462,7 +412,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-43.	
+38.	
 The History Channel Presents The Presidents : ON ORDER
 ... The History Channel Presents The Presidents : ON ORDER ...
 System Availability: 0 (of 0)
@@ -472,7 +422,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-44.	
+39.	
 The straight story : ON ORDER
 ... The straight story : ON ORDER ...
 System Availability: 0 (of 0)
@@ -482,9 +432,9 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-45.	
-When calls the heart year 10 : ON ORDER
-... When calls the heart year 10 : ON ORDER ...
+40.	
+Walking Dead Dead City season 1 : ON ORDER
+... Walking Dead Dead City season 1 : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 AVAILABILITY
@@ -492,7 +442,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-46.	
+41.	
 Wish : ON ORDER
 ... Wish : ON ORDER ...
 System Availability: 0 (of 0)
@@ -502,7 +452,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-47.	
+42.	
 Wish : ON ORDER
 ... Wish : ON ORDER ...
 System Availability: 0 (of 0)
@@ -512,7 +462,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-48.	
+43.	
 Wonka : ON ORDER
 ... Wonka : ON ORDER ...
 System Availability: 0 (of 0)
@@ -522,7 +472,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-49.	
+44.	
 Wonka : ON ORDER
 ... Wonka : ON ORDER ...
 System Availability: 0 (of 0)
@@ -531,17 +481,7 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
-50.	
-The wraith : ON ORDER
-... The wraith : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-1 - 50 of 50
+1 - 44 of 44
 100
  PER PAGE
 «<1>»
@@ -549,11 +489,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (36)
-Videorecording  (36)
-Visual Materials  (36)
+Projected Medium  (39)
+Videorecording  (39)
+Visual Materials  (39)
 DVD  (24)
-Blu-Ray  (12)
+Blu-Ray  (15)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
