@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 50 of 50
+1 - 52 of 52
 100
  PER PAGESORT 
 Title
@@ -473,6 +473,26 @@ PLACE REQUEST
 Add to My List  
 Blu-Ray
 44.	
+Waitress the musical : ON ORDER
+... Waitress the musical : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+45.	
+Waitress the musical : ON ORDER
+... Waitress the musical : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+46.	
 Wednesday Season 1 : ON ORDER
 ... Wednesday Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -482,7 +502,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-45.	
+47.	
 Wednesday Season 1 : ON ORDER
 ... Wednesday Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -492,7 +512,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-46.	
+48.	
 The Wingfeather Saga season 1 : ON ORDER
 ... The Wingfeather Saga season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -502,7 +522,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-47.	
+49.	
 Wish : ON ORDER
 ... Wish : ON ORDER ...
 System Availability: 0 (of 0)
@@ -512,7 +532,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-48.	
+50.	
 Wish : ON ORDER
 ... Wish : ON ORDER ...
 System Availability: 0 (of 0)
@@ -522,7 +542,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-49.	
+51.	
 Wonka : ON ORDER
 ... Wonka : ON ORDER ...
 System Availability: 0 (of 0)
@@ -532,7 +552,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-50.	
+52.	
 Wonka : ON ORDER
 ... Wonka : ON ORDER ...
 System Availability: 0 (of 0)
@@ -541,7 +561,7 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-1 - 50 of 50
+1 - 52 of 52
 100
  PER PAGE
 «<1>»
@@ -549,11 +569,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (42)
-Videorecording  (42)
-Visual Materials  (42)
-DVD  (25)
-Blu-Ray  (17)
+Projected Medium  (45)
+Videorecording  (45)
+Visual Materials  (45)
+DVD  (26)
+Blu-Ray  (19)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
