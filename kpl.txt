@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 52 of 52
+1 - 59 of 59
 100
  PER PAGESORT 
 Title
@@ -93,6 +93,26 @@ PLACE REQUEST
 Add to My List  
 Blu-Ray
 8.	
+The color purple : ON ORDER
+... The color purple : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+9.	
+The color purple : ON ORDER
+... The color purple : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+10.	
 The Conan chronicles : ON ORDER
 ... The Conan chronicles : ON ORDER ...
 System Availability: 0 (of 0)
@@ -105,7 +125,7 @@ A day of fallen night
 Book
 2023
 rating (4455)
-9.	
+11.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
 ... Brodart Bibz On - Order Record. ...
@@ -116,28 +136,28 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
-10.	
-The dirty south : ON ORDER
-... The dirty south : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
 DVD
-11.	
-The dirty south : ON ORDER
-... The dirty south : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-Blu-Ray
 12.	
+Eileen : ON ORDER
+... Eileen : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+13.	
+Eileen : ON ORDER
+... Eileen : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+14.	
 Ferrari : ON ORDER
 ... Ferrari : ON ORDER ...
 System Availability: 0 (of 0)
@@ -147,17 +167,27 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-13.	
+15.	
 Ferrari : ON ORDER
 ... Ferrari : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+16.	
+Freelance : ON ORDER
+... Freelance : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Book
-14.	
+17.	
 Insight : case files from the psychic world.
 by Browne, Sylvia
 ... On order . ...
@@ -168,7 +198,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-15.	
+18.	
 Horror of Dracula : ON ORDER
 ... Horror of Dracula : ON ORDER ...
 System Availability: 0 (of 0)
@@ -178,7 +208,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-16.	
+19.	
 Hunger Games: Ballad of Songbirds and Snakes : ON ORDER
 ... Hunger Games: Ballad of Songbirds and Snakes : ON ORDER ...
 System Availability: 0 (of 0)
@@ -188,7 +218,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-17.	
+20.	
 Hunger Games: Ballad of Songbirds and Snakes : ON ORDER
 ... Hunger Games: Ballad of Songbirds and Snakes : ON ORDER ...
 System Availability: 0 (of 0)
@@ -198,7 +228,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-18.	
+21.	
 Hypnotic : ON ORDER
 ... Hypnotic : ON ORDER ...
 System Availability: 0 (of 0)
@@ -208,7 +238,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-19.	
+22.	
 Hypnotic : ON ORDER
 ... Hypnotic : ON ORDER ...
 System Availability: 0 (of 0)
@@ -218,7 +248,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-20.	
+23.	
 I.S.S. : ON ORDER
 ... I.S.S. : ON ORDER ...
 System Availability: 0 (of 0)
@@ -228,7 +258,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-21.	
+24.	
 I.S.S. : ON ORDER
 ... I.S.S. : ON ORDER ...
 System Availability: 0 (of 0)
@@ -238,7 +268,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Book
-22.	
+25.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
@@ -249,7 +279,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-23.	
+26.	
 Interview with a vampire season 1 : ON ORDER
 ... Interview with a vampire season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -259,7 +289,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-24.	
+27.	
 Lawman Bass Reeves : ON ORDER
 ... Lawman Bass Reeves : ON ORDER ...
 System Availability: 0 (of 0)
@@ -269,7 +299,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-25.	
+28.	
 Lawman Bass Reeves : ON ORDER
 ... Lawman Bass Reeves : ON ORDER ...
 System Availability: 0 (of 0)
@@ -281,7 +311,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-26.	
+29.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -295,7 +325,7 @@ Love and lavender
 Large Print
 2022
 rating (441)
-27.	
+30.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -307,7 +337,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-28.	
+31.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
@@ -316,18 +346,8 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
-29.	
-The Marsh King's daughter : ON ORDER
-... The Marsh King's daughter : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
 Blu-Ray
-30.	
+32.	
 The marvels : ON ORDER
 ... The marvels : ON ORDER ...
 System Availability: 0 (of 0)
@@ -337,7 +357,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-31.	
+33.	
 The marvels : ON ORDER
 ... The marvels : ON ORDER ...
 System Availability: 0 (of 0)
@@ -347,7 +367,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-32.	
+34.	
 Migration : ON ORDER
 ... Migration : ON ORDER ...
 System Availability: 0 (of 0)
@@ -357,7 +377,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-33.	
+35.	
 Migration : ON ORDER
 ... Migration : ON ORDER ...
 System Availability: 0 (of 0)
@@ -370,7 +390,7 @@ The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
 rating (200)
-34.	
+36.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -382,7 +402,37 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-35.	
+37.	
+Miranda's victim : ON ORDER
+... Miranda's victim : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+38.	
+Next goal wins : ON ORDER
+... Next goal wins : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+39.	
+Next goal wins : ON ORDER
+... Next goal wins : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+40.	
 Planet Earth III : ON ORDER
 ... Planet Earth III : ON ORDER ...
 System Availability: 0 (of 0)
@@ -392,7 +442,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-36.	
+41.	
 Planet Earth III : ON ORDER
 ... Planet Earth III : ON ORDER ...
 System Availability: 0 (of 0)
@@ -402,7 +452,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-37.	
+42.	
 Priscilla : ON ORDER
 ... Priscilla : ON ORDER ...
 System Availability: 0 (of 0)
@@ -412,7 +462,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-38.	
+43.	
 Rick and Morty season 7 : ON ORDER
 ... Rick and Morty season 7 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -422,7 +472,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-39.	
+44.	
 The Shining (1997) : ON ORDER
 ... The Shining (1997) : ON ORDER ...
 System Availability: 0 (of 0)
@@ -432,7 +482,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-40.	
+45.	
 The Biscuit Eater : ON ORDER
 ... The Biscuit Eater : ON ORDER ...
 System Availability: 0 (of 0)
@@ -442,7 +492,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-41.	
+46.	
 The creator : ON ORDER
 ... The creator : ON ORDER ...
 System Availability: 0 (of 0)
@@ -452,7 +502,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-42.	
+47.	
 The History Channel Presents The Presidents : ON ORDER
 ... The History Channel Presents The Presidents : ON ORDER ...
 System Availability: 0 (of 0)
@@ -462,7 +512,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-43.	
+48.	
 The straight story : ON ORDER
 ... The straight story : ON ORDER ...
 System Availability: 0 (of 0)
@@ -472,7 +522,27 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-44.	
+49.	
+The three musketeers part 1 D'artagnan : ON ORDER
+... The three musketeers part 1 D'artagnan : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+50.	
+The three musketeers part 1 D'artagnan : ON ORDER
+... The three musketeers part 1 D'artagnan : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+51.	
 Waitress the musical : ON ORDER
 ... Waitress the musical : ON ORDER ...
 System Availability: 0 (of 0)
@@ -482,7 +552,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-45.	
+52.	
 Waitress the musical : ON ORDER
 ... Waitress the musical : ON ORDER ...
 System Availability: 0 (of 0)
@@ -492,7 +562,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-46.	
+53.	
 Wednesday Season 1 : ON ORDER
 ... Wednesday Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -502,7 +572,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-47.	
+54.	
 Wednesday Season 1 : ON ORDER
 ... Wednesday Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -512,7 +582,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-48.	
+55.	
 The Wingfeather Saga season 1 : ON ORDER
 ... The Wingfeather Saga season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -522,7 +592,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-49.	
+56.	
 Wish : ON ORDER
 ... Wish : ON ORDER ...
 System Availability: 0 (of 0)
@@ -532,7 +602,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-50.	
+57.	
 Wish : ON ORDER
 ... Wish : ON ORDER ...
 System Availability: 0 (of 0)
@@ -542,7 +612,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-51.	
+58.	
 Wonka : ON ORDER
 ... Wonka : ON ORDER ...
 System Availability: 0 (of 0)
@@ -552,7 +622,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-52.	
+59.	
 Wonka : ON ORDER
 ... Wonka : ON ORDER ...
 System Availability: 0 (of 0)
@@ -561,7 +631,7 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-1 - 52 of 52
+1 - 59 of 59
 100
  PER PAGE
 «<1>»
@@ -569,10 +639,10 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (45)
-Videorecording  (45)
-Visual Materials  (45)
-DVD  (26)
+Projected Medium  (44)
+Videorecording  (44)
+Visual Materials  (44)
+DVD  (25)
 Blu-Ray  (19)
 More>>
 Authors
