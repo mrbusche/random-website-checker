@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', '50 Oscar nights : iconic stars & filmmakers on their career-defining wins');
+        cy.get('.new-releases__link a').first().should('have.text', 'All this twisted glory');
     })
 
     it('checks new videos', () => {
