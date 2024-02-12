@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 59 of 59
+1 - 61 of 61
 100
  PER PAGESORT 
 Title
@@ -28,22 +28,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 2.	
 Anyone but you : ON ORDER
 ... Anyone but you : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 3.	
 Anyone but you : ON ORDER
 ... Anyone but you : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -124,7 +124,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (4455)
+rating (4915)
 11.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -136,22 +136,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 12.	
 Eileen : ON ORDER
 ... Eileen : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 13.	
 Eileen : ON ORDER
 ... Eileen : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -227,22 +227,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 21.	
 Hypnotic : ON ORDER
 ... Hypnotic : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 22.	
 Hypnotic : ON ORDER
 ... Hypnotic : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -288,22 +288,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 27.	
 Lawman Bass Reeves : ON ORDER
 ... Lawman Bass Reeves : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 28.	
 Lawman Bass Reeves : ON ORDER
 ... Lawman Bass Reeves : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -324,7 +324,7 @@ Add to My List
 Love and lavender
 Large Print
 2022
-rating (441)
+rating (443)
 30.	
 Love and lavender
 by Kilpack, Josi S., author.
@@ -366,22 +366,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 34.	
 Migration : ON ORDER
 ... Migration : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 35.	
 Migration : ON ORDER
 ... Migration : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -411,8 +411,18 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 38.	
+Much Ado About Nothing : ON ORDER
+... Much Ado About Nothing : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+39.	
 Next goal wins : ON ORDER
 ... Next goal wins : ON ORDER ...
 System Availability: 0 (of 0)
@@ -422,19 +432,9 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-39.	
+40.	
 Next goal wins : ON ORDER
 ... Next goal wins : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-40.	
-Planet Earth III : ON ORDER
-... Planet Earth III : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 AVAILABILITY
@@ -451,8 +451,18 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 42.	
+Planet Earth III : ON ORDER
+... Planet Earth III : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+43.	
 Priscilla : ON ORDER
 ... Priscilla : ON ORDER ...
 System Availability: 0 (of 0)
@@ -462,7 +472,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-43.	
+44.	
 Rick and Morty season 7 : ON ORDER
 ... Rick and Morty season 7 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -472,7 +482,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-44.	
+45.	
 The Shining (1997) : ON ORDER
 ... The Shining (1997) : ON ORDER ...
 System Availability: 0 (of 0)
@@ -482,7 +492,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-45.	
+46.	
 The Biscuit Eater : ON ORDER
 ... The Biscuit Eater : ON ORDER ...
 System Availability: 0 (of 0)
@@ -492,7 +502,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-46.	
+47.	
 The creator : ON ORDER
 ... The creator : ON ORDER ...
 System Availability: 0 (of 0)
@@ -502,7 +512,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-47.	
+48.	
 The History Channel Presents The Presidents : ON ORDER
 ... The History Channel Presents The Presidents : ON ORDER ...
 System Availability: 0 (of 0)
@@ -512,7 +522,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-48.	
+49.	
 The straight story : ON ORDER
 ... The straight story : ON ORDER ...
 System Availability: 0 (of 0)
@@ -522,7 +532,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-49.	
+50.	
 The three musketeers part 1 D'artagnan : ON ORDER
 ... The three musketeers part 1 D'artagnan : ON ORDER ...
 System Availability: 0 (of 0)
@@ -532,21 +542,11 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-50.	
+51.	
 The three musketeers part 1 D'artagnan : ON ORDER
 ... The three musketeers part 1 D'artagnan : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-Blu-Ray
-51.	
-Waitress the musical : ON ORDER
-... Waitress the musical : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -563,6 +563,16 @@ PLACE REQUEST
 Add to My List  
 Blu-Ray
 53.	
+Waitress the musical : ON ORDER
+... Waitress the musical : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+54.	
 Wednesday Season 1 : ON ORDER
 ... Wednesday Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -572,7 +582,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-54.	
+55.	
 Wednesday Season 1 : ON ORDER
 ... Wednesday Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -582,7 +592,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-55.	
+56.	
 The Wingfeather Saga season 1 : ON ORDER
 ... The Wingfeather Saga season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -592,7 +602,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-56.	
+57.	
 Wish : ON ORDER
 ... Wish : ON ORDER ...
 System Availability: 0 (of 0)
@@ -602,7 +612,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-57.	
+58.	
 Wish : ON ORDER
 ... Wish : ON ORDER ...
 System Availability: 0 (of 0)
@@ -612,7 +622,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-58.	
+59.	
 Wonka : ON ORDER
 ... Wonka : ON ORDER ...
 System Availability: 0 (of 0)
@@ -622,7 +632,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-59.	
+60.	
 Wonka : ON ORDER
 ... Wonka : ON ORDER ...
 System Availability: 0 (of 0)
@@ -631,7 +641,17 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-1 - 59 of 59
+DVD
+61.	
+Yentl : ON ORDER
+... Yentl : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+1 - 61 of 61
 100
  PER PAGE
 «<1>»
@@ -639,11 +659,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (44)
-Videorecording  (44)
-Visual Materials  (44)
-DVD  (25)
-Blu-Ray  (19)
+Projected Medium  (55)
+Videorecording  (55)
+Visual Materials  (55)
+DVD  (31)
+Blu-Ray  (24)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
