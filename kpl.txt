@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 61 of 61
+1 - 62 of 62
 100
  PER PAGESORT 
 Title
@@ -28,22 +28,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 2.	
 Anyone but you : ON ORDER
 ... Anyone but you : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 3.	
 Anyone but you : ON ORDER
 ... Anyone but you : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -91,22 +91,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 8.	
 The color purple : ON ORDER
 ... The color purple : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 9.	
 The color purple : ON ORDER
 ... The color purple : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -156,22 +156,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 14.	
 Ferrari : ON ORDER
 ... Ferrari : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 15.	
 Ferrari : ON ORDER
 ... Ferrari : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -247,22 +247,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 23.	
 I.S.S. : ON ORDER
 ... I.S.S. : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 24.	
 I.S.S. : ON ORDER
 ... I.S.S. : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -288,22 +288,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 27.	
 Lawman Bass Reeves : ON ORDER
 ... Lawman Bass Reeves : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 28.	
 Lawman Bass Reeves : ON ORDER
 ... Lawman Bass Reeves : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -366,22 +366,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 34.	
 Migration : ON ORDER
 ... Migration : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 35.	
 Migration : ON ORDER
 ... Migration : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -421,22 +421,22 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 39.	
 Next goal wins : ON ORDER
 ... Next goal wins : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 40.	
 Next goal wins : ON ORDER
 ... Next goal wins : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -531,8 +531,18 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 50.	
+The three musketeers part 1 D'artagnan : ON ORDER
+... The three musketeers part 1 D'artagnan : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+51.	
 The three musketeers part 1 D'artagnan : ON ORDER
 ... The three musketeers part 1 D'artagnan : ON ORDER ...
 System Availability: 0 (of 0)
@@ -542,19 +552,9 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-51.	
-The three musketeers part 1 D'artagnan : ON ORDER
-... The three musketeers part 1 D'artagnan : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
 52.	
-Waitress the musical : ON ORDER
-... Waitress the musical : ON ORDER ...
+Tom Clancy's Jack Ryan season 4 : ON ORDER
+... Tom Clancy's Jack Ryan season 4 : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 AVAILABILITY
@@ -571,8 +571,18 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 54.	
+Waitress the musical : ON ORDER
+... Waitress the musical : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+55.	
 Wednesday Season 1 : ON ORDER
 ... Wednesday Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -582,7 +592,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-55.	
+56.	
 Wednesday Season 1 : ON ORDER
 ... Wednesday Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -592,7 +602,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-56.	
+57.	
 The Wingfeather Saga season 1 : ON ORDER
 ... The Wingfeather Saga season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -602,7 +612,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-57.	
+58.	
 Wish : ON ORDER
 ... Wish : ON ORDER ...
 System Availability: 0 (of 0)
@@ -612,7 +622,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-58.	
+59.	
 Wish : ON ORDER
 ... Wish : ON ORDER ...
 System Availability: 0 (of 0)
@@ -622,7 +632,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-59.	
+60.	
 Wonka : ON ORDER
 ... Wonka : ON ORDER ...
 System Availability: 0 (of 0)
@@ -632,7 +642,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-60.	
+61.	
 Wonka : ON ORDER
 ... Wonka : ON ORDER ...
 System Availability: 0 (of 0)
@@ -642,7 +652,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-61.	
+62.	
 Yentl : ON ORDER
 ... Yentl : ON ORDER ...
 System Availability: 0 (of 0)
@@ -651,7 +661,7 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-1 - 61 of 61
+1 - 62 of 62
 100
  PER PAGE
 «<1>»
@@ -659,10 +669,10 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (55)
-Videorecording  (55)
-Visual Materials  (55)
-DVD  (31)
+Projected Medium  (56)
+Videorecording  (56)
+Visual Materials  (56)
+DVD  (32)
 Blu-Ray  (24)
 More>>
 Authors
