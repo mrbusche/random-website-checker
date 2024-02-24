@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The Dubrow keto fusion diet : the ultimate plan for interval eating and sustainable fat burning');
+        cy.get('.new-releases__link a').first().should('have.text', 'Why we remember : unlocking memory\'s power to hold on to what matters');
     })
 
     it('checks new videos', () => {
