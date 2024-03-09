@@ -24,11 +24,6 @@ Map
 Save Search
 Sort by 
 Name, A-Z
-Albaugh Four Mile Industrial
-Image Unavailable
-Ankeny
-Ankeny, IA 50021
-
 Ankeny Childrens Dentistry
 Image Unavailable
 1804 NW Briargate Drive
@@ -61,11 +56,6 @@ Ankeny, IA 50023
 
 515-963-3520
 Canyon Landing Duplexes Plat 1
-Image Unavailable
-Ankeny
-Ankeny, IA 50021
-
-Canyon Landing Duplexes Plat 2, Canyon Landing Plat 3 & 4
 Image Unavailable
 Ankeny
 Ankeny, IA 50021
@@ -185,6 +175,11 @@ Image Unavailable
 725 SW Prairie Trail Parkway
 Ankeny, IA 50023
 
+Savannah at Ankeny
+Image Unavailable
+NW 18th Street and NW Weigel
+Ankeny, IA 50023
+
 Swanwood Industrial Park Plat 2, Lot 1
 Image Unavailable
 Ankeny
@@ -213,11 +208,6 @@ Ankeny, IA 50021
 Veridian Credit Union
 Image Unavailable
 2115 SW State Street
-Ankeny, IA 50023
-
-Vintage Commercial
-Image Unavailable
-1615 SW Magazine Road
 Ankeny, IA 50023
 
 1
