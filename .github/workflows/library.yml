@@ -1,7 +1,7 @@
 name: Library checker
 on:
   pull_request:
-    branches: [ main ]
+    branches: [main]
 jobs:
   cypress-run:
     runs-on: ubuntu-22.04
@@ -10,6 +10,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
       - name: Cypress run
-        uses: cypress-io/github-action@v5
+        uses: cypress-io/github-action@v6.6.1
         with:
           spec: cypress/e2e/library.cy.js
