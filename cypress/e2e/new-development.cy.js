@@ -6,6 +6,6 @@ describe('check new development', () => {
         cy.get('#CheckAllFacilityTypes').click();
         cy.get('#chkSidebarFacilityTypes6').click();
         cy.get('#SearchButton').click();
-        cy.get('input[id="hiddenLastPageNumber"]').should('have.value', '8');
+        cy.get('input[id="hiddenLastPageNumber"]').should('have.value', '7');
     })
 })
