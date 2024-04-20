@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The darkest white : a mountain legend and the avalanche that took him');
+        cy.get('.new-releases__link a').first().should('have.text', 'Native nations : a millennium in North America');
     })
 
     it('checks new videos', () => {
