@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 51 of 51
+1 - 42 of 42
 100
  PER PAGESORT 
 Title
@@ -87,14 +87,14 @@ PLACE REQUEST
 Add to My List  
 Blu-Ray
 8.	
-The blind : ON ORDER
-... The blind : ON ORDER ...
+Bob Marley One Love : ON ORDER
+... Bob Marley One Love : ON ORDER ...
 System Availability: 0 (of 0)
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 9.	
 Bob Marley One Love : ON ORDER
 ... Bob Marley One Love : ON ORDER ...
@@ -103,16 +103,16 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 10.	
-Bob Marley One Love : ON ORDER
-... Bob Marley One Love : ON ORDER ...
+The boy and the heron : ON ORDER
+... The boy and the heron : ON ORDER ...
 System Availability: 0 (of 0)
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 11.	
 The boy and the heron : ON ORDER
 ... The boy and the heron : ON ORDER ...
@@ -121,17 +121,8 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
-12.	
-The boy and the heron : ON ORDER
-... The boy and the heron : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
 Blu-Ray
-13.	
+12.	
 Boys in the boat : ON ORDER
 ... Boys in the boat : ON ORDER ...
 System Availability: 0 (of 0)
@@ -140,7 +131,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-14.	
+13.	
 Conan the complete quest : ON ORDER
 ... Conan the complete quest : ON ORDER ...
 System Availability: 0 (of 0)
@@ -151,8 +142,8 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (5192)
-15.	
+rating (5205)
+14.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
 ... Brodart Bibz On - Order Record. ...
@@ -164,7 +155,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-16.	
+15.	
 Daybreakers : ON ORDER
 ... Daybreakers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -173,6 +164,15 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
+16.	
+Dune Part 2 : ON ORDER
+... Dune Part 2 : ON ORDER ...
+System Availability: 0 (of 0)
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
 17.	
 Dune Part 2 : ON ORDER
 ... Dune Part 2 : ON ORDER ...
@@ -183,15 +183,6 @@ PLACE REQUEST
 Add to My List  
 Blu-Ray
 18.	
-Dune Part 2 : ON ORDER
-... Dune Part 2 : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-Blu-Ray
-19.	
 Ghostbusters Frozen Empire : ON ORDER
 ... Ghostbusters Frozen Empire : ON ORDER ...
 System Availability: 0 (of 0)
@@ -200,7 +191,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-20.	
+19.	
 Ghostbusters Frozen Empire : ON ORDER
 ... Ghostbusters Frozen Empire : ON ORDER ...
 System Availability: 0 (of 0)
@@ -209,7 +200,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Book
-21.	
+20.	
 Insight : case files from the psychic world.
 by Browne, Sylvia
 ... On order . ...
@@ -219,15 +210,24 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-22.	
-The haunted mansion : ON ORDER
-... The haunted mansion : ON ORDER ...
+21.	
+Howl's Moving Castle : ON ORDER
+... Howl's Moving Castle : ON ORDER ...
 System Availability: 0 (of 0)
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
+22.	
+Imaginary : ON ORDER
+... Imaginary : ON ORDER ...
+System Availability: 0 (of 0)
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
 23.	
 Imaginary : ON ORDER
 ... Imaginary : ON ORDER ...
@@ -236,16 +236,16 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 24.	
-Imaginary : ON ORDER
-... Imaginary : ON ORDER ...
+Immaculate : ON ORDER
+... Immaculate : ON ORDER ...
 System Availability: 0 (of 0)
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 25.	
 Immaculate : ON ORDER
 ... Immaculate : ON ORDER ...
@@ -254,17 +254,8 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
-26.	
-Immaculate : ON ORDER
-... Immaculate : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
 Book
-27.	
+26.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
@@ -274,9 +265,18 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-28.	
+27.	
 Interview with a vampire season 1 : ON ORDER
 ... Interview with a vampire season 1 : ON ORDER ...
+System Availability: 0 (of 0)
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+28.	
+Kiki's delivery service : ON ORDER
+... Kiki's delivery service : ON ORDER ...
 System Availability: 0 (of 0)
 AVAILABILITY
 FULL DISPLAY
@@ -316,7 +316,7 @@ Add to My List
 Love and lavender
 Large Print
 2022
-rating (452)
+rating (453)
 32.	
 Love and lavender
 by Kilpack, Josi S., author.
@@ -388,16 +388,16 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 39.	
-Pocahontas and Pocahontas II : ON ORDER
-... Pocahontas and Pocahontas II : ON ORDER ...
+The shift : ON ORDER
+... The shift : ON ORDER ...
 System Availability: 0 (of 0)
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 40.	
 The shift : ON ORDER
 ... The shift : ON ORDER ...
@@ -406,10 +406,10 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 41.	
-The shift : ON ORDER
-... The shift : ON ORDER ...
+Spirited away : ON ORDER
+... Spirited away : ON ORDER ...
 System Availability: 0 (of 0)
 AVAILABILITY
 FULL DISPLAY
@@ -417,87 +417,6 @@ PLACE REQUEST
 Add to My List  
 DVD
 42.	
-Strees of San Francisco season 4 : ON ORDER
-... Strees of San Francisco season 4 : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-43.	
-Strees of San Francisco season 5 : ON ORDER
-... Strees of San Francisco season 5 : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-44.	
-The Swan Princess: Escape from Castle Mountain : ON ORDER
-... The Swan Princess: Escape from Castle Mountain : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-45.	
-The Biscuit Eater : ON ORDER
-... The Biscuit Eater : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-46.	
-The Commassario Guido Brunetti Movie Mysteries : ON ORDER
-... The Commassario Guido Brunetti Movie Mysteries : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-47.	
-The creator : ON ORDER
-... The creator : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-48.	
-The History Channel Presents The Presidents : ON ORDER
-... The History Channel Presents The Presidents : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-49.	
-The Persuaders / The Protectors : ON ORDER
-... The Persuaders / The Protectors : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-50.	
-The straight story : ON ORDER
-... The straight story : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-51.	
 Wednesday Season 1 : ON ORDER
 ... Wednesday Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -505,7 +424,7 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-1 - 51 of 51
+1 - 42 of 42
 100
  PER PAGE
 «<1>»
@@ -513,11 +432,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (46)
-Videorecording  (46)
-Visual Materials  (46)
-DVD  (31)
-Blu-Ray  (15)
+Projected Medium  (34)
+Videorecording  (34)
+Visual Materials  (34)
+DVD  (21)
+Blu-Ray  (13)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
