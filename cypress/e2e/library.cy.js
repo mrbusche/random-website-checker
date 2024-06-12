@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Martin Luther : a man who changed the world');
+        cy.get('.new-releases__link a').first().should('have.text', 'A bison\'s tale');
     })
 
     it('checks new videos', () => {
@@ -41,7 +41,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/magazines/collection/217420?addedDate=days-0-7&sortBy=newlyadded&language=en');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '73 results');
+                cy.get('.search-text.h2').first().should('contain.text', '132 results');
             }
         });
     })
