@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 47 of 47
+1 - 48 of 48
 100
  PER PAGESORT 
 Title
@@ -23,6 +23,7 @@ Blu-Ray
 Abigail : ON ORDER
 ... Abigail : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -32,6 +33,27 @@ DVD
 Abigail : ON ORDER
 ... Abigail : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+3.	
+Back to black : ON ORDER
+... Back to black : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+4.	
+Back to black : ON ORDER
+... Back to black : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -39,7 +61,7 @@ Add to My List
 Begin again
 DVD
 2014
-3.	
+5.	
 Begin again
 ... OPPL ON - ORDER . ...
 System Availability: 1 (of 1)
@@ -50,100 +72,111 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-4.	
+6.	
 The black demon : ON ORDER
 ... The black demon : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-5.	
+7.	
 Bluey season 3 : ON ORDER
 ... Bluey season 3 : ON ORDER ...
 System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-6.	
-The boy and the heron : ON ORDER
-... The boy and the heron : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-Blu-Ray
-7.	
-The boy and the heron : ON ORDER
-... The boy and the heron : ON ORDER ...
-System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
 8.	
-Boys in the boat : ON ORDER
-... Boys in the boat : ON ORDER ...
+The boy and the heron : ON ORDER
+... The boy and the heron : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+9.	
+The boy and the heron : ON ORDER
+... The boy and the heron : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-9.	
-Challengers : ON ORDER
-... Challengers : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
 10.	
-Challengers : ON ORDER
-... Challengers : ON ORDER ...
+Boys in the boat : ON ORDER
+... Boys in the boat : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 11.	
-The Chosen Season 4 : ON ORDER
-... The Chosen Season 4 : ON ORDER ...
+Challengers : ON ORDER
+... Challengers : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
 12.	
-Civil war : ON ORDER
-... Civil war : ON ORDER ...
+Challengers : ON ORDER
+... Challengers : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 13.	
-Civil war : ON ORDER
-... Civil war : ON ORDER ...
+The Chosen Season 4 : ON ORDER
+... The Chosen Season 4 : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
 14.	
+Civil war : ON ORDER
+... Civil war : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+15.	
+Civil war : ON ORDER
+... Civil war : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+16.	
 Conan the complete quest : ON ORDER
 ... Conan the complete quest : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -152,7 +185,7 @@ A day of fallen night
 Book
 2023
 rating (5592)
-15.	
+17.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
 ... Brodart Bibz On - Order Record. ...
@@ -164,37 +197,21 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-16.	
-Death in Paradise season 13 : ON ORDER
-... Death in Paradise season 13 : ON ORDER ...
-System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-17.	
+18.	
 Ezra : ON ORDER
 ... Ezra : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-18.	
+19.	
 Ezra : ON ORDER
 ... Ezra : ON ORDER ...
 System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-19.	
-Fall Guy : ON ORDER
-... Fall Guy : ON ORDER ...
-System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -204,44 +221,49 @@ Blu-Ray
 Fall guy : ON ORDER
 ... Fall guy : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Book
+DVD
 21.	
-Insight : case files from the psychic world.
-by Browne, Sylvia
-... On order . ...
+Fall Guy : ON ORDER
+... Fall Guy : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Book
 22.	
+Insight : case files from the psychic world.
+by Browne, Sylvia
+... On order . ...
+System Availability: 0 (of 0)
+Call Number: Ro
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Book
+23.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
 System Availability: 0 (of 0)
+Call Number: B Bur
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-23.	
+24.	
 Interview with a vampire season 1 : ON ORDER
 ... Interview with a vampire season 1 : ON ORDER ...
 System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-Blu-Ray
-24.	
-Knox goes away : ON ORDER
-... Knox goes away : ON ORDER ...
-System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -251,6 +273,7 @@ Blu-Ray
 The last stop in Yuma County : ON ORDER
 ... The last stop in Yuma County : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -260,6 +283,7 @@ DVD
 Lights out : ON ORDER
 ... Lights out : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -282,6 +306,7 @@ DVD
 London Kills series 4 : ON ORDER
 ... London Kills series 4 : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -306,6 +331,7 @@ DVD
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -315,6 +341,7 @@ Blu-Ray
 May December : ON ORDER
 ... May December : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -339,6 +366,7 @@ DVD
 The ministry of ungentlemanly warfare : ON ORDER
 ... The ministry of ungentlemanly warfare : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -348,6 +376,7 @@ Blu-Ray
 The ministry of ungentlemanly warfare : ON ORDER
 ... The ministry of ungentlemanly warfare : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -357,6 +386,7 @@ DVD
 Monkey man : ON ORDER
 ... Monkey man : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
@@ -366,110 +396,132 @@ Blu-Ray
 Monkey man : ON ORDER
 ... Monkey man : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
 37.	
-Murder by Death : ON ORDER
-... Murder by Death : ON ORDER ...
+Nowhere special : ON ORDER
+... Nowhere special : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
 38.	
-Nowhere special : ON ORDER
-... Nowhere special : ON ORDER ...
+Perfect days : ON ORDER
+... Perfect days : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
 39.	
-Perfect days : ON ORDER
-... Perfect days : ON ORDER ...
+Roll with it : ON ORDER
+... Roll with it : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
 40.	
-Roll with it : ON ORDER
-... Roll with it : ON ORDER ...
+The Strangers chapter 1 : ON ORDER
+... The Strangers chapter 1 : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-DVD
+Blu-Ray
 41.	
-Superman and Lois season 3 : ON ORDER
-... Superman and Lois season 3 : ON ORDER ...
+The Strangers chapter 1 : ON ORDER
+... The Strangers chapter 1 : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
 42.	
-Tarot : ON ORDER
-... Tarot : ON ORDER ...
+Superman and Lois season 3 : ON ORDER
+... Superman and Lois season 3 : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 43.	
 Tarot : ON ORDER
 ... Tarot : ON ORDER ...
 System Availability: 0 (of 0)
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-44.	
-True detective night country : ON ORDER
-... True detective night country : ON ORDER ...
-System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-45.	
-True detective night country : ON ORDER
-... True detective night country : ON ORDER ...
+44.	
+Tarot : ON ORDER
+... Tarot : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-46.	
-Unsung hero : ON ORDER
-... Unsung hero : ON ORDER ...
+45.	
+True detective night country : ON ORDER
+... True detective night country : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+46.	
+True detective night country : ON ORDER
+... True detective night country : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
 47.	
-Wicked little letters : ON ORDER
-... Wicked little letters : ON ORDER ...
+Unsung hero : ON ORDER
+... Unsung hero : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-1 - 47 of 47
+DVD
+48.	
+Wicked little letters : ON ORDER
+... Wicked little letters : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+1 - 48 of 48
 100
  PER PAGE
 «<1>»
@@ -477,11 +529,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (42)
-Videorecording  (42)
-Visual Materials  (42)
-DVD  (28)
-Blu-Ray  (14)
+Projected Medium  (39)
+Videorecording  (39)
+Visual Materials  (39)
+DVD  (26)
+Blu-Ray  (13)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
@@ -502,7 +554,7 @@ Mayfiled family series ; 4  (1)
 The roots of chaos  (1)
 Assigned Branch
 Local
-Ankeny Kirkendall Public Library   (5)
+Ankeny Kirkendall Public Library  (5)
 Literary Form
 Fiction  (2)
 Non-fiction  (1)
