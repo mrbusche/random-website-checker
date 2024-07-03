@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 46 of 46
+1 - 43 of 43
 100
  PER PAGESORT 
 Title
@@ -93,16 +93,6 @@ PLACE REQUEST
 Add to My List  
 DVD
 8.	
-Bluey season 3 : ON ORDER
-... Bluey season 3 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-9.	
 Bobby Darin Show : ON ORDER
 ... Bobby Darin Show : ON ORDER ...
 System Availability: 0 (of 0)
@@ -112,7 +102,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-10.	
+9.	
 The boy and the heron : ON ORDER
 ... The boy and the heron : ON ORDER ...
 System Availability: 0 (of 0)
@@ -122,7 +112,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-11.	
+10.	
 The boy and the heron : ON ORDER
 ... The boy and the heron : ON ORDER ...
 System Availability: 0 (of 0)
@@ -132,37 +122,27 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-12.	
+11.	
 Challengers : ON ORDER
 ... Challengers : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+12.	
+Challengers : ON ORDER
+... Challengers : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
 13.	
-Challengers : ON ORDER
-... Challengers : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-14.	
-The Chosen Season 4 : ON ORDER
-... The Chosen Season 4 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-15.	
 Civil war : ON ORDER
 ... Civil war : ON ORDER ...
 System Availability: 0 (of 0)
@@ -172,7 +152,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-16.	
+14.	
 Civil war : ON ORDER
 ... Civil war : ON ORDER ...
 System Availability: 0 (of 0)
@@ -182,17 +162,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-17.	
-Curious caterer : ON ORDER
-... Curious caterer : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-18.	
+15.	
 Dan August : ON ORDER
 ... Dan August : ON ORDER ...
 System Availability: 0 (of 0)
@@ -205,7 +175,7 @@ A day of fallen night
 Book
 2023
 rating (5656)
-19.	
+16.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
 ... Brodart Bibz On - Order Record. ...
@@ -217,7 +187,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-20.	
+17.	
 Ezra : ON ORDER
 ... Ezra : ON ORDER ...
 System Availability: 0 (of 0)
@@ -227,7 +197,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-21.	
+18.	
 Ezra : ON ORDER
 ... Ezra : ON ORDER ...
 System Availability: 0 (of 0)
@@ -237,7 +207,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-22.	
+19.	
 Fall guy : ON ORDER
 ... Fall guy : ON ORDER ...
 System Availability: 0 (of 0)
@@ -247,7 +217,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-23.	
+20.	
 Fall Guy : ON ORDER
 ... Fall Guy : ON ORDER ...
 System Availability: 0 (of 0)
@@ -257,7 +227,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Book
-24.	
+21.	
 Insight : case files from the psychic world.
 by Browne, Sylvia
 ... On order . ...
@@ -268,7 +238,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Book
-25.	
+22.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
@@ -279,7 +249,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-26.	
+23.	
 Interview with a vampire season 1 : ON ORDER
 ... Interview with a vampire season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -289,7 +259,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-27.	
+24.	
 Ironside season 4 : ON ORDER
 ... Ironside season 4 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -299,7 +269,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-28.	
+25.	
 The last stop in Yuma County : ON ORDER
 ... The last stop in Yuma County : ON ORDER ...
 System Availability: 0 (of 0)
@@ -311,7 +281,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-29.	
+26.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -322,7 +292,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-30.	
+27.	
 London Kills series 4 : ON ORDER
 ... London Kills series 4 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -335,7 +305,7 @@ Love and lavender
 Large Print
 2022
 rating (458)
-31.	
+28.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -347,7 +317,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-32.	
+29.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
@@ -357,7 +327,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-33.	
+30.	
 Matchmaker mysteries : ON ORDER
 ... Matchmaker mysteries : ON ORDER ...
 System Availability: 0 (of 0)
@@ -367,7 +337,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-34.	
+31.	
 May December : ON ORDER
 ... May December : ON ORDER ...
 System Availability: 0 (of 0)
@@ -380,7 +350,7 @@ The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
 rating (205)
-35.	
+32.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -392,7 +362,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-36.	
+33.	
 Perfect days : ON ORDER
 ... Perfect days : ON ORDER ...
 System Availability: 0 (of 0)
@@ -402,7 +372,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-37.	
+34.	
 Space 1999 : ON ORDER
 ... Space 1999 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -412,7 +382,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-38.	
+35.	
 The Strangers chapter 1 : ON ORDER
 ... The Strangers chapter 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -422,7 +392,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 Blu-Ray
-39.	
+36.	
 The Strangers chapter 1 : ON ORDER
 ... The Strangers chapter 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -432,7 +402,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-40.	
+37.	
 Superman and Lois season 3 : ON ORDER
 ... Superman and Lois season 3 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -442,47 +412,47 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
+38.	
+Tarot : ON ORDER
+... Tarot : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
+39.	
+Tarot : ON ORDER
+... Tarot : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+DVD
+40.	
+True detective night country : ON ORDER
+... True detective night country : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+AVAILABILITY
+FULL DISPLAY
+PLACE REQUEST
+Add to My List  
+Blu-Ray
 41.	
-Tarot : ON ORDER
-... Tarot : ON ORDER ...
+True detective night country : ON ORDER
+... True detective night country : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-Blu-Ray
+DVD
 42.	
-Tarot : ON ORDER
-... Tarot : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-43.	
-True detective night country : ON ORDER
-... True detective night country : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-Blu-Ray
-44.	
-True detective night country : ON ORDER
-... True detective night country : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-AVAILABILITY
-FULL DISPLAY
-PLACE REQUEST
-Add to My List  
-DVD
-45.	
 Unsung hero : ON ORDER
 ... Unsung hero : ON ORDER ...
 System Availability: 0 (of 0)
@@ -492,7 +462,7 @@ FULL DISPLAY
 PLACE REQUEST
 Add to My List  
 DVD
-46.	
+43.	
 Wicked little letters : ON ORDER
 ... Wicked little letters : ON ORDER ...
 System Availability: 0 (of 0)
@@ -501,7 +471,7 @@ AVAILABILITY
 FULL DISPLAY
 PLACE REQUEST
 Add to My List  
-1 - 46 of 46
+1 - 43 of 43
 100
  PER PAGE
 «<1>»
@@ -509,10 +479,10 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (41)
-Videorecording  (41)
-Visual Materials  (41)
-DVD  (29)
+Projected Medium  (38)
+Videorecording  (38)
+Visual Materials  (38)
+DVD  (26)
 Blu-Ray  (12)
 More>>
 Authors
