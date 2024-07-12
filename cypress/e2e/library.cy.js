@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Remedies for sorrow : an extraordinary child, a secret kept from pregnant women, and a mother's pursuit of the truth');
+        cy.get('.new-releases__link a').first().should('have.text', 'Remedies for sorrow : an extraordinary child, a secret kept from pregnant women, and a mother\'s pursuit of the truth');
     })
 
     it('checks new videos', () => {
