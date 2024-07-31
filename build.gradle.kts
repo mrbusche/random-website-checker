@@ -4,7 +4,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     id("org.springframework.boot") version "3.4.0-M1"
     id("io.spring.dependency-management") version "1.1.6"
-    id("org.jetbrains.kotlin.jvm") version "2.0.20-Beta2"
+    id("org.jetbrains.kotlin.jvm") version "2.0.20-RC"
 }
 
 group = "com.ankeny-new-development"
