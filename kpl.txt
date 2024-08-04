@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 40 of 40
+1 - 42 of 42
 100
  per pageSort 
 Title
@@ -36,7 +36,6 @@ DVD
 The black demon : ON ORDER
 ... The black demon : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -46,7 +45,6 @@ DVD
 Chesapeake Shores: Season 6 : ON ORDER
 ... Chesapeake Shores: Season 6 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -56,7 +54,6 @@ DVD
 Chicago fire season 12 : ON ORDER
 ... Chicago fire season 12 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -66,7 +63,6 @@ DVD
 Citizen X : ON ORDER
 ... Citizen X : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -76,7 +72,6 @@ DVD
 D.I. Ray Season 2 : ON ORDER
 ... D.I. Ray Season 2 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -84,7 +79,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (5934)
+rating (5955)
 7.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -101,7 +96,6 @@ Blu-Ray
 Ezra : ON ORDER
 ... Ezra : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -111,7 +105,6 @@ DVD
 Fall Guy : ON ORDER
 ... Fall Guy : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -121,7 +114,6 @@ DVD
 First omen : ON ORDER
 ... First omen : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -131,7 +123,6 @@ Blu-Ray
 First omen : ON ORDER
 ... First omen : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -141,7 +132,6 @@ Blu-Ray
 Furiosa: A Mad Max Saga : ON ORDER
 ... Furiosa: A Mad Max Saga : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -151,7 +141,6 @@ DVD
 Furiosa: A Mad Max Saga : ON ORDER
 ... Furiosa: A Mad Max Saga : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -161,7 +150,6 @@ DVD
 Garfield (2024): ON ORDER
 ... Garfield (2024): ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -171,7 +159,6 @@ Blu-Ray
 Garfield (2024): ON ORDER
 ... Garfield (2024): ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -182,7 +169,6 @@ Insight : case files from the psychic world.
 by Browne, Sylvia
 ... On order . ...
 System Availability: 0 (of 0)
-Call Number: Ro
 Availability
 Full Display
 Place Request
@@ -192,7 +178,6 @@ DVD
 Hallmark Romance 12-Movie Collection featuring: A Safari Romance, While You Were Dating, Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER
 ... Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -202,7 +187,6 @@ Blu-Ray
 If : ON ORDER
 ... If : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -212,7 +196,6 @@ DVD
 If : ON ORDER
 ... If : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -223,7 +206,6 @@ Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
 System Availability: 0 (of 0)
-Call Number: B Bur
 Availability
 Full Display
 Place Request
@@ -233,7 +215,6 @@ DVD
 Interview with a vampire season 1 : ON ORDER
 ... Interview with a vampire season 1 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -243,7 +224,6 @@ DVD
 Kingdom of the Planet of the Apes : ON ORDER
 ... Kingdom of the Planet of the Apes : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -253,7 +233,6 @@ Blu-Ray
 Kingdom of the Planet of the Apes : ON ORDER
 ... Kingdom of the Planet of the Apes : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -263,7 +242,24 @@ DVD
 Lacey Chabert 6 movie collection : ON ORDER
 ... Lacey Chabert 6 movie collection : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+25.	
+Late Night With the Devil : ON ORDER
+... Late Night With the Devil : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+26.	
+Late Night With the Devil : ON ORDER
+... Late Night With the Devil : ON ORDER ...
+System Availability: 0 (of 0)
 Availability
 Full Display
 Place Request
@@ -271,7 +267,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-25.	
+27.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -282,11 +278,10 @@ Full Display
 Place Request
 Add to My List  
 DVD
-26.	
+28.	
 London Kills series 4 : ON ORDER
 ... London Kills series 4 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -295,7 +290,7 @@ Love and lavender
 Large Print
 2022
 rating (460)
-27.	
+29.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -307,21 +302,19 @@ Full Display
 Place Request
 Add to My List  
 DVD
-28.	
+30.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
-29.	
+31.	
 May December : ON ORDER
 ... May December : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -330,7 +323,7 @@ The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
 rating (205)
-30.	
+32.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -342,106 +335,96 @@ Full Display
 Place Request
 Add to My List  
 DVD
-31.	
+33.	
 Perfect days : ON ORDER
 ... Perfect days : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-32.	
-The rover : ON ORDER
-... The rover : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-33.	
-Sting: ON ORDER
-... Sting: ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 34.	
-Sting: ON ORDER
-... Sting: ON ORDER ...
+The rover : ON ORDER
+... The rover : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-35.	
-Ted Lasso the Richmond Way : ON ORDER
-... Ted Lasso the Richmond Way : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
-36.	
-Twisters : ON ORDER
-... Twisters : ON ORDER ...
+35.	
+Sting: ON ORDER
+... Sting: ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+36.	
+Sting: ON ORDER
+... Sting: ON ORDER ...
+System Availability: 0 (of 0)
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 37.	
-Twisters : ON ORDER
-... Twisters : ON ORDER ...
+Ted Lasso the Richmond Way : ON ORDER
+... Ted Lasso the Richmond Way : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
 38.	
-The watchers : ON ORDER
-... The watchers : ON ORDER ...
+Twisters : ON ORDER
+... Twisters : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 39.	
+Twisters : ON ORDER
+... Twisters : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+40.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
-40.	
-William Shatner: you can call me Bill : ON ORDER
-... William Shatner: you can call me Bill : ON ORDER ...
+41.	
+The watchers : ON ORDER
+... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-1 - 40 of 40
+DVD
+42.	
+William Shatner: you can call me Bill : ON ORDER
+... William Shatner: you can call me Bill : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+1 - 42 of 42
 100
  per page
 «<1>»
@@ -449,11 +432,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (35)
-Videorecording  (35)
-Visual Materials  (35)
-DVD  (25)
-Blu-Ray  (10)
+Projected Medium  (37)
+Videorecording  (37)
+Visual Materials  (37)
+DVD  (26)
+Blu-Ray  (11)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
@@ -474,7 +457,7 @@ Mayfiled family series ; 4  (1)
 The roots of chaos  (1)
 Assigned Branch
 Local
-Ankeny Kirkendall Public Library  (5)
+Ankeny Kirkendall Public Library   (5)
 Literary Form
 Fiction  (2)
 Non-fiction  (1)
