@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'How we crossed the West : the adventures of Lewis & Clark');
+        cy.get('.new-releases__link a').first().should('have.text', 'The connection cure : the prescriptive power of movement, nature, art, service, and belonging');
     })
 
     it('checks new videos', () => {
