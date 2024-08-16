@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 66 of 66
+1 - 68 of 68
 100
  per pageSort 
 Title
@@ -38,40 +38,50 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 3.	
 Arcadian : ON ORDER
 ... Arcadian : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 4.	
 Arcadian : ON ORDER
 ... Arcadian : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 5.	
 Babes : ON ORDER
 ... Babes : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+6.	
+Babes : ON ORDER
+... Babes : ON ORDER ...
+System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
-6.	
-Babes : ON ORDER
-... Babes : ON ORDER ...
+7.	
+Bad Boys: Ride or Die : ON ORDER
+... Bad Boys: Ride or Die : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
@@ -79,21 +89,11 @@ Full Display
 Place Request
 Add to My List  
 DVD
-7.	
-Bad Boys: Ride or Die : ON ORDER
-... Bad Boys: Ride or Die : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
 8.	
 Bad Boys: Ride or Die : ON ORDER
 ... Bad Boys: Ride or Die : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -121,22 +121,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 11.	
 Bikeriders : ON ORDER
 ... Bikeriders : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 12.	
 Bikeriders : ON ORDER
 ... Bikeriders : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -214,7 +214,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (6023)
+rating (6086)
 20.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -226,22 +226,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 21.	
 Despicable me 4 : ON ORDER
 ... Despicable me 4 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 22.	
 Despicable me 4 : ON ORDER
 ... Despicable me 4 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -286,42 +286,42 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 27.	
 Furiosa: A Mad Max Saga : ON ORDER
 ... Furiosa: A Mad Max Saga : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-28.	
-Furiosa: A Mad Max Saga : ON ORDER
-... Furiosa: A Mad Max Saga : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-29.	
-Garfield (2024): ON ORDER
-... Garfield (2024): ON ORDER ...
-System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
-30.	
+28.	
+Furiosa: A Mad Max Saga : ON ORDER
+... Furiosa: A Mad Max Saga : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+29.	
 Garfield (2024): ON ORDER
 ... Garfield (2024): ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+30.	
+Garfield (2024): ON ORDER
+... Garfield (2024): ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -377,22 +377,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 36.	
 If : ON ORDER
 ... If : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 37.	
 If : ON ORDER
 ... If : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -428,22 +428,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 41.	
 Kingdom of the Planet of the Apes : ON ORDER
 ... Kingdom of the Planet of the Apes : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 42.	
 Kingdom of the Planet of the Apes : ON ORDER
 ... Kingdom of the Planet of the Apes : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -458,22 +458,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 44.	
 Late Night With the Devil : ON ORDER
 ... Late Night With the Devil : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 45.	
 Late Night With the Devil : ON ORDER
 ... Late Night With the Devil : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -504,7 +504,7 @@ Add to My List
 Love and lavender
 Large Print
 2022
-rating (462)
+rating (463)
 48.	
 Love and lavender
 by Kilpack, Josi S., author.
@@ -591,22 +591,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 56.	
 A quiet place day one : ON ORDER
 ... A quiet place day one : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 57.	
 A quiet place day one : ON ORDER
 ... A quiet place day one : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -643,6 +643,26 @@ Place Request
 Add to My List  
 Blu-Ray
 61.	
+Ted Lasso: The Richmond Way : ON ORDER
+... Ted Lasso: The Richmond Way : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+62.	
+Toby McTeague : ON ORDER
+... Toby McTeague : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+63.	
 Twisters : ON ORDER
 ... Twisters : ON ORDER ...
 System Availability: 0 (of 0)
@@ -652,7 +672,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-62.	
+64.	
 Twisters : ON ORDER
 ... Twisters : ON ORDER ...
 System Availability: 0 (of 0)
@@ -662,7 +682,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-63.	
+65.	
 Vikings Valhalla Season 1 : ON ORDER
 ... Vikings Valhalla Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -672,7 +692,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-64.	
+66.	
 The Walking Dead The ones who live season 1 : ON ORDER
 ... The Walking Dead The ones who live season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -681,18 +701,8 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
-65.	
-The watchers : ON ORDER
-... The watchers : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
 Blu-Ray
-66.	
+67.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -701,7 +711,17 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 66 of 66
+DVD
+68.	
+The watchers : ON ORDER
+... The watchers : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+1 - 68 of 68
 100
  per page
 «<1>»
@@ -709,11 +729,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (61)
-Videorecording  (61)
-Visual Materials  (61)
+Projected Medium  (62)
+Videorecording  (62)
+Visual Materials  (62)
 DVD  (42)
-Blu-Ray  (19)
+Blu-Ray  (20)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
