@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 68 of 68
+1 - 69 of 69
 100
  per pageSort 
 Title
@@ -23,7 +23,6 @@ DVD
 The 87th Precinct : ON ORDER
 ... The 87th Precinct : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -33,67 +32,60 @@ Blu-Ray
 The American Society of Magical Negroes : ON ORDER
 ... The American Society of Magical Negroes : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 3.	
 Arcadian : ON ORDER
 ... Arcadian : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 4.	
 Arcadian : ON ORDER
 ... Arcadian : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 5.	
 Babes : ON ORDER
 ... Babes : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-6.	
-Babes : ON ORDER
-... Babes : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
-7.	
-Bad Boys: Ride or Die : ON ORDER
-... Bad Boys: Ride or Die : ON ORDER ...
+6.	
+Babes : ON ORDER
+... Babes : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
+7.	
+Bad Boys: Ride or Die : ON ORDER
+... Bad Boys: Ride or Die : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
 8.	
 Bad Boys: Ride or Die : ON ORDER
 ... Bad Boys: Ride or Die : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -116,27 +108,24 @@ DVD
 Beyond Paradise season 2 : ON ORDER
 ... Beyond Paradise season 2 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-11.	
-Bikeriders : ON ORDER
-... Bikeriders : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
+11.	
+Bikeriders : ON ORDER
+... Bikeriders : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
 12.	
 Bikeriders : ON ORDER
 ... Bikeriders : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -146,7 +135,6 @@ DVD
 The black demon : ON ORDER
 ... The black demon : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -156,7 +144,6 @@ Blu-Ray
 Boneyard : ON ORDER
 ... Boneyard : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -166,7 +153,6 @@ DVD
 A brief history of the future : ON ORDER
 ... A brief history of the future : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -176,7 +162,6 @@ DVD
 Chicago fire season 12 : ON ORDER
 ... Chicago fire season 12 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -186,7 +171,6 @@ DVD
 Chucky season 3 : ON ORDER
 ... Chucky season 3 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -196,7 +180,6 @@ DVD
 Damaged : ON ORDER
 ... Damaged : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -206,7 +189,6 @@ DVD
 Darkness of Man : ON ORDER
 ... Darkness of Man : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -214,7 +196,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (6086)
+rating (6088)
 20.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -226,22 +208,20 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 21.	
 Despicable me 4 : ON ORDER
 ... Despicable me 4 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 22.	
 Despicable me 4 : ON ORDER
 ... Despicable me 4 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -251,7 +231,6 @@ DVD
 Dragonkeeper : ON ORDER
 ... Dragonkeeper : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -261,7 +240,6 @@ Blu-Ray
 Drinkwater : ON ORDER
 ... Drinkwater : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -271,7 +249,6 @@ DVD
 Drinkwater : ON ORDER
 ... Drinkwater : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -281,7 +258,6 @@ Blu-Ray
 Ezra : ON ORDER
 ... Ezra : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -291,7 +267,6 @@ Blu-Ray
 Furiosa: A Mad Max Saga : ON ORDER
 ... Furiosa: A Mad Max Saga : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -301,7 +276,6 @@ DVD
 Furiosa: A Mad Max Saga : ON ORDER
 ... Furiosa: A Mad Max Saga : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -311,7 +285,6 @@ DVD
 Garfield (2024): ON ORDER
 ... Garfield (2024): ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -321,7 +294,6 @@ Blu-Ray
 Garfield (2024): ON ORDER
 ... Garfield (2024): ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -332,7 +304,6 @@ Insight : case files from the psychic world.
 by Browne, Sylvia
 ... On order . ...
 System Availability: 0 (of 0)
-Call Number: Ro
 Availability
 Full Display
 Place Request
@@ -342,7 +313,6 @@ DVD
 The girl from U.N.C.L.E. complete series part 2 : ON ORDER
 ... The girl from U.N.C.L.E. complete series part 2 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -352,7 +322,6 @@ DVD
 Hallmark Romance 12-Movie Collection featuring: A Safari Romance, While You Were Dating, Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER
 ... Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -362,7 +331,6 @@ DVD
 HALO season 1 : ON ORDER
 ... HALO season 1 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -372,7 +340,6 @@ DVD
 HALO season 2 : ON ORDER
 ... HALO season 2 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -382,7 +349,6 @@ Blu-Ray
 If : ON ORDER
 ... If : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -392,7 +358,6 @@ DVD
 If : ON ORDER
 ... If : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -403,7 +368,6 @@ Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
 System Availability: 0 (of 0)
-Call Number: B Bur
 Availability
 Full Display
 Place Request
@@ -413,7 +377,6 @@ DVD
 Interview with a vampire season 1 : ON ORDER
 ... Interview with a vampire season 1 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -423,7 +386,6 @@ DVD
 Johnny Puff: Secret Mission : ON ORDER
 ... Johnny Puff: Secret Mission : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -433,7 +395,6 @@ DVD
 Kingdom of the Planet of the Apes : ON ORDER
 ... Kingdom of the Planet of the Apes : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -443,7 +404,6 @@ Blu-Ray
 Kingdom of the Planet of the Apes : ON ORDER
 ... Kingdom of the Planet of the Apes : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -453,7 +413,6 @@ DVD
 Lacey Chabert 6 movie collection : ON ORDER
 ... Lacey Chabert 6 movie collection : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -463,7 +422,6 @@ Blu-Ray
 Late Night With the Devil : ON ORDER
 ... Late Night With the Devil : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -473,7 +431,6 @@ DVD
 Late Night With the Devil : ON ORDER
 ... Late Night With the Devil : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -496,7 +453,6 @@ DVD
 London Kills series 4 : ON ORDER
 ... London Kills series 4 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -521,7 +477,6 @@ DVD
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -531,7 +486,6 @@ Blu-Ray
 May December : ON ORDER
 ... May December : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -553,50 +507,45 @@ Place Request
 Add to My List  
 DVD
 52.	
-No way up : ON ORDER
-... No way up : ON ORDER ...
+Monty Python's Flying Circus: The Complete Series : ON ORDER
+... Monty Python's Flying Circus: The Complete Series : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 53.	
-Perfect days : ON ORDER
-... Perfect days : ON ORDER ...
+No way up : ON ORDER
+... No way up : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 54.	
-Pokemon the Series: Ultimate Journeys : ON ORDER
-... Pokemon the Series: Ultimate Journeys : ON ORDER ...
+Perfect days : ON ORDER
+... Perfect days : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 55.	
-Popular theory : ON ORDER
-... Popular theory : ON ORDER ...
+Pokemon the Series: Ultimate Journeys : ON ORDER
+... Pokemon the Series: Ultimate Journeys : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 56.	
-A quiet place day one : ON ORDER
-... A quiet place day one : ON ORDER ...
+Popular theory : ON ORDER
+... Popular theory : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -606,122 +555,119 @@ Blu-Ray
 A quiet place day one : ON ORDER
 ... A quiet place day one : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-58.	
-Silent night : ON ORDER
-... Silent night : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
-59.	
-Sister Boniface mysteries season 3 : ON ORDER
-... Sister Boniface mysteries season 3 : ON ORDER ...
+58.	
+A quiet place day one : ON ORDER
+... A quiet place day one : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+59.	
+Silent night : ON ORDER
+... Silent night : ON ORDER ...
+System Availability: 0 (of 0)
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 60.	
+Sister Boniface mysteries season 3 : ON ORDER
+... Sister Boniface mysteries season 3 : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+61.	
 Star Trek: Discovery Season 5 : ON ORDER
 ... Star Trek: Discovery Season 5 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
-61.	
+62.	
 Ted Lasso: The Richmond Way : ON ORDER
 ... Ted Lasso: The Richmond Way : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
-62.	
+63.	
 Toby McTeague : ON ORDER
 ... Toby McTeague : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
-63.	
-Twisters : ON ORDER
-... Twisters : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
 64.	
 Twisters : ON ORDER
 ... Twisters : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 65.	
-Vikings Valhalla Season 1 : ON ORDER
-... Vikings Valhalla Season 1 : ON ORDER ...
+Twisters : ON ORDER
+... Twisters : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 66.	
-The Walking Dead The ones who live season 1 : ON ORDER
-... The Walking Dead The ones who live season 1 : ON ORDER ...
+Vikings Valhalla Season 1 : ON ORDER
+... Vikings Valhalla Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-67.	
-The watchers : ON ORDER
-... The watchers : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
-68.	
-The watchers : ON ORDER
-... The watchers : ON ORDER ...
+67.	
+The Walking Dead The ones who live season 1 : ON ORDER
+... The Walking Dead The ones who live season 1 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-1 - 68 of 68
+Blu-Ray
+68.	
+The watchers : ON ORDER
+... The watchers : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+69.	
+The watchers : ON ORDER
+... The watchers : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+1 - 69 of 69
 100
  per page
 «<1>»
@@ -729,10 +675,10 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (62)
-Videorecording  (62)
-Visual Materials  (62)
-DVD  (42)
+Projected Medium  (64)
+Videorecording  (64)
+Visual Materials  (64)
+DVD  (44)
 Blu-Ray  (20)
 More>>
 Authors
@@ -754,7 +700,7 @@ Mayfiled family series ; 4  (1)
 The roots of chaos  (1)
 Assigned Branch
 Local
-Ankeny Kirkendall Public Library  (5)
+Ankeny Kirkendall Public Library   (5)
 Literary Form
 Fiction  (2)
 Non-fiction  (1)
