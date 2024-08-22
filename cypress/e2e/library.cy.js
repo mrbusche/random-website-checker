@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'The girl from U.N.C.L.E. The complete series, Part 2.');
+        cy.get('.new-releases__link a').first().should('have.text', 'The Vivaldi cipher');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'Star trek. Lower decks. Season 4');
+        cy.get('.new-releases__link a').first().should('have.text', 'The girl from U.N.C.L.E. The complete series, Part 2.');
     })
 })
 
