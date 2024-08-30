@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 69 of 69
+1 - 57 of 57
 100
  per pageSort 
 Title
@@ -27,7 +27,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 2.	
 Bad Boys: Ride or Die : ON ORDER
 ... Bad Boys: Ride or Die : ON ORDER ...
@@ -36,7 +36,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 3.	
 Bad Boys: Ride or Die : ON ORDER
 ... Bad Boys: Ride or Die : ON ORDER ...
@@ -60,15 +60,6 @@ Place Request
 Add to My List  
 DVD
 5.	
-Bikeriders : ON ORDER
-... Bikeriders : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-6.	
 The black demon : ON ORDER
 ... The black demon : ON ORDER ...
 System Availability: 0 (of 0)
@@ -77,6 +68,15 @@ Full Display
 Place Request
 Add to My List  
 DVD
+6.	
+Borderlands : ON ORDER
+... Borderlands : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
 7.	
 Borderlands : ON ORDER
 ... Borderlands : ON ORDER ...
@@ -85,17 +85,8 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
-8.	
-Borderlands : ON ORDER
-... Borderlands : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
 DVD
-9.	
+8.	
 Care Bears: Unlock the Magic : ON ORDER
 ... Care Bears: Unlock the Magic : ON ORDER ...
 System Availability: 0 (of 0)
@@ -104,7 +95,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-10.	
+9.	
 Chicago fire season 12 : ON ORDER
 ... Chicago fire season 12 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -113,7 +104,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-11.	
+10.	
 The Crown season 6 : ON ORDER
 ... The Crown season 6 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -122,7 +113,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-12.	
+11.	
 The Crown season 6 : ON ORDER
 ... The Crown season 6 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -131,7 +122,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-13.	
+12.	
 Das Boot: the original uncut mini-series : ON ORDER
 ... Das Boot: the original uncut mini-series : ON ORDER ...
 System Availability: 0 (of 0)
@@ -142,12 +133,12 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (6165)
-14.	
+rating (6194)
+13.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
 ... Brodart Bibz On - Order Record. ...
-System Availability: 1 (of 1)
+System Availability: 0 (of 1)
 Call Number: F Shannon
 Summary: The stunning, standalone prequel to the New York Times bestselling The Priory of the Orange Tree. In A Day of Fallen Night, Samantha Shannon sweeps readers back to the universe of Priory of the Orange Tree and into the lives of four women, showing us a course of events that shaped their world for generations to come. Tunuva Melim is a sister of the Priory. For fifty years, she has trained to slay wyrms – but none have appeared since the Nameless One, and the younger generation is starting to question the Priory's purpose. To the north, in the Queendom of Inys, Sabran the Ambitious has married the new King of Hróth, narrowly saving both realms from ruin. Their daughter, Glorian, trails in their shadow – exactly where she wants to be. The dragons of the East have slept for centuries. Dumai has spent her life in a Seiikinese mountain temple, trying to wake the gods from their long slumber. Now someone from her mother's past is coming to upend her fate. When the Dreadmount erupts, bringing with it an age of terror and violence, these women must find the strength to protect humankind from a devastating threat.
 Availability
@@ -155,6 +146,15 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
+14.	
+Despicable me 4 : ON ORDER
+... Despicable me 4 : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
 15.	
 Despicable me 4 : ON ORDER
 ... Despicable me 4 : ON ORDER ...
@@ -163,10 +163,10 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 16.	
-Despicable me 4 : ON ORDER
-... Despicable me 4 : ON ORDER ...
+The fabulous four : ON ORDER
+... The fabulous four : ON ORDER ...
 System Availability: 0 (of 0)
 Availability
 Full Display
@@ -174,60 +174,15 @@ Place Request
 Add to My List  
 DVD
 17.	
-Dragonkeeper : ON ORDER
-... Dragonkeeper : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-18.	
 The fabulous four : ON ORDER
 ... The fabulous four : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-19.	
-The fabulous four : ON ORDER
-... The fabulous four : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-20.	
-Force of Nature: The dry 2 : ON ORDER
-... Force of Nature: The dry 2 : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-21.	
-Garfield (2024): ON ORDER
-... Garfield (2024): ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-22.	
-Garfield (2024): ON ORDER
-... Garfield (2024): ON ORDER ...
 System Availability: 0 (of 0)
 Availability
 Full Display
 Place Request
 Add to My List  
 Book
-23.	
+18.	
 Insight : case files from the psychic world.
 by Browne, Sylvia
 ... On order . ...
@@ -237,7 +192,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-24.	
+19.	
 Godzilla Minus One : ON ORDER
 ... Godzilla Minus One : ON ORDER ...
 System Availability: 0 (of 0)
@@ -246,7 +201,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-25.	
+20.	
 Hallmark Romance 12-Movie Collection featuring: A Safari Romance, While You Were Dating, Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER
 ... Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER ...
 System Availability: 0 (of 0)
@@ -255,7 +210,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-26.	
+21.	
 Horizon: An American Saga Chapter 1 : ON ORDER
 ... Horizon: An American Saga Chapter 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -264,7 +219,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-27.	
+22.	
 Horizon: An American Saga Chapter 1 : ON ORDER
 ... Horizon: An American Saga Chapter 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -273,7 +228,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-28.	
+23.	
 The in between : ON ORDER
 ... The in between : ON ORDER ...
 System Availability: 0 (of 0)
@@ -282,7 +237,7 @@ Full Display
 Place Request
 Add to My List  
 Book
-29.	
+24.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
@@ -292,7 +247,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-30.	
+25.	
 Inside out 2 : ON ORDER
 ... Inside out 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -301,7 +256,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-31.	
+26.	
 Inside out 2 : ON ORDER
 ... Inside out 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -310,7 +265,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-32.	
+27.	
 Interview with a vampire season 1 : ON ORDER
 ... Interview with a vampire season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -319,79 +274,61 @@ Full Display
 Place Request
 Add to My List  
 DVD
+28.	
+It ends with us : ON ORDER
+... It ends with us : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+29.	
+It ends with us : ON ORDER
+... It ends with us : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+30.	
+Kill : ON ORDER
+... Kill : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+31.	
+Kill : ON ORDER
+... Kill : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+32.	
+Knuckles : ON ORDER
+... Knuckles : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
 33.	
-It ends with us : ON ORDER
-... It ends with us : ON ORDER ...
+Knuckles : ON ORDER
+... Knuckles : ON ORDER ...
 System Availability: 0 (of 0)
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 34.	
-It ends with us : ON ORDER
-... It ends with us : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-35.	
-Kill : ON ORDER
-... Kill : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-36.	
-Kill : ON ORDER
-... Kill : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-37.	
-Kingdom of the Planet of the Apes : ON ORDER
-... Kingdom of the Planet of the Apes : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-38.	
-Kingdom of the Planet of the Apes : ON ORDER
-... Kingdom of the Planet of the Apes : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-39.	
-Knuckles : ON ORDER
-... Knuckles : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-40.	
-Knuckles : ON ORDER
-... Knuckles : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-41.	
 Lacey Chabert 6 movie collection : ON ORDER
 ... Lacey Chabert 6 movie collection : ON ORDER ...
 System Availability: 0 (of 0)
@@ -400,7 +337,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-42.	
+35.	
 Late Night With the Devil : ON ORDER
 ... Late Night With the Devil : ON ORDER ...
 System Availability: 0 (of 0)
@@ -409,7 +346,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-43.	
+36.	
 Late Night With the Devil : ON ORDER
 ... Late Night With the Devil : ON ORDER ...
 System Availability: 0 (of 0)
@@ -420,7 +357,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-44.	
+37.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -431,7 +368,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-45.	
+38.	
 London Kills series 4 : ON ORDER
 ... London Kills series 4 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -440,7 +377,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-46.	
+39.	
 Longlegs : ON ORDER
 ... Longlegs : ON ORDER ...
 System Availability: 0 (of 0)
@@ -451,8 +388,8 @@ Add to My List
 Love and lavender
 Large Print
 2022
-rating (465)
-47.	
+rating (467)
+40.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -464,7 +401,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-48.	
+41.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
@@ -473,7 +410,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-49.	
+42.	
 May December : ON ORDER
 ... May December : ON ORDER ...
 System Availability: 0 (of 0)
@@ -485,7 +422,7 @@ The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
 rating (206)
-50.	
+43.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -497,7 +434,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-51.	
+44.	
 Mothers' Instinct : ON ORDER
 ... Mothers' Instinct : ON ORDER ...
 System Availability: 0 (of 0)
@@ -506,7 +443,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-52.	
+45.	
 Mothers' Instinct : ON ORDER
 ... Mothers' Instinct : ON ORDER ...
 System Availability: 0 (of 0)
@@ -515,7 +452,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-53.	
+46.	
 PBS KIDS: Four Seasons of Fun : ON ORDER
 ... PBS KIDS: Four Seasons of Fun : ON ORDER ...
 System Availability: 0 (of 0)
@@ -524,7 +461,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-54.	
+47.	
 Perfect days : ON ORDER
 ... Perfect days : ON ORDER ...
 System Availability: 0 (of 0)
@@ -533,9 +470,72 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-55.	
+48.	
 A quiet place day one : ON ORDER
 ... A quiet place day one : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+49.	
+A quiet place day one : ON ORDER
+... A quiet place day one : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+50.	
+Reacher. Season two : ON ORDER
+... Reacher. Season two : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+51.	
+Reacher. Season two : ON ORDER
+... Reacher. Season two : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+52.	
+Trap : ON ORDER
+... Trap : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+53.	
+Trap : ON ORDER
+... Trap : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+54.	
+Twisters : ON ORDER
+... Twisters : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+55.	
+Twisters : ON ORDER
+... Twisters : ON ORDER ...
 System Availability: 0 (of 0)
 Availability
 Full Display
@@ -543,105 +543,6 @@ Place Request
 Add to My List  
 DVD
 56.	
-A quiet place day one : ON ORDER
-... A quiet place day one : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-57.	
-Reacher. Season two : ON ORDER
-... Reacher. Season two : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-58.	
-Reacher. Season two : ON ORDER
-... Reacher. Season two : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-59.	
-Ride : ON ORDER
-... Ride : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-60.	
-Ride : ON ORDER
-... Ride : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-61.	
-Star Trek: Discovery Season 5 : ON ORDER
-... Star Trek: Discovery Season 5 : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-62.	
-Trap : ON ORDER
-... Trap : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-63.	
-Trap : ON ORDER
-... Trap : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-64.	
-Twisters : ON ORDER
-... Twisters : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-65.	
-Twisters : ON ORDER
-... Twisters : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-66.	
-Vikings Valhalla Season 1 : ON ORDER
-... Vikings Valhalla Season 1 : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-67.	
 The Walking Dead The ones who live season 1 : ON ORDER
 ... The Walking Dead The ones who live season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -650,7 +551,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-68.	
+57.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -658,28 +559,19 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
-69.	
-The watchers : ON ORDER
-... The watchers : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-1 - 69 of 69
+1 - 57 of 57
 100
  per page
 «<1>»
 Narrow your search
 Available Now at Kirkendall
-Available Now  (5)
+Available Now  (4)
 Type of Material
-Projected Medium  (47)
-Videorecording  (47)
-Visual Materials  (47)
+Projected Medium  (52)
+Videorecording  (52)
+Visual Materials  (52)
 DVD  (32)
-Blu-Ray  (15)
+Blu-Ray  (20)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
