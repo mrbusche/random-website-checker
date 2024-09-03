@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Keeping the faith : God, democracy, and the trial that riveted a nation');
+        cy.get('.new-releases__link a').first().should('have.text', 'A month of Sundays');
     })
 
     it('checks new videos', () => {
