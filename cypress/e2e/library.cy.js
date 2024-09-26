@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Something lost, something gained : reflections on life, love, and liberty');
+        cy.get('.new-releases__link a').first().should('have.text', 'Where's the reindeer?');
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', 'The crown. The complete final season');
+        cy.get('.new-releases__link a').first().should('have.text', 'Longlegs');
     })
 })
 
