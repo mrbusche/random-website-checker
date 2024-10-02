@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 51 of 51
+1 - 49 of 49
 100
  per pageSort 
 Title
@@ -142,7 +142,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (6372)
+rating (6419)
 14.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -200,17 +200,8 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
-20.	
-House (1977) : ON ORDER
-... House (1977) : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
 Book
-21.	
+20.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
@@ -220,7 +211,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-22.	
+21.	
 Inseparables : ON ORDER
 ... Inseparables : ON ORDER ...
 System Availability: 0 (of 0)
@@ -229,9 +220,18 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-23.	
+22.	
 Inside out 2 : ON ORDER
 ... Inside out 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+23.	
+It ends with us : ON ORDER
+... It ends with us : ON ORDER ...
 System Availability: 0 (of 0)
 Availability
 Full Display
@@ -248,15 +248,6 @@ Place Request
 Add to My List  
 DVD
 25.	
-It ends with us : ON ORDER
-... It ends with us : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-26.	
 Kinds of kindness : ON ORDER
 ... Kinds of kindness : ON ORDER ...
 System Availability: 0 (of 0)
@@ -265,7 +256,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-27.	
+26.	
 Kinds of kindness : ON ORDER
 ... Kinds of kindness : ON ORDER ...
 System Availability: 0 (of 0)
@@ -274,7 +265,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-28.	
+27.	
 Lacey Chabert 6 movie collection : ON ORDER
 ... Lacey Chabert 6 movie collection : ON ORDER ...
 System Availability: 0 (of 0)
@@ -285,7 +276,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-29.	
+28.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -296,7 +287,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-30.	
+29.	
 London Kills series 4 : ON ORDER
 ... London Kills series 4 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -308,7 +299,7 @@ Love and lavender
 Large Print
 2022
 rating (472)
-31.	
+30.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -320,7 +311,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-32.	
+31.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
@@ -329,7 +320,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-33.	
+32.	
 Maxxxine : ON ORDER
 ... Maxxxine : ON ORDER ...
 System Availability: 0 (of 0)
@@ -338,7 +329,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-34.	
+33.	
 May December : ON ORDER
 ... May December : ON ORDER ...
 System Availability: 0 (of 0)
@@ -350,7 +341,7 @@ The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
 rating (207)
-35.	
+34.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -362,7 +353,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-36.	
+35.	
 Murdoch Mysteries Season 17 : ON ORDER
 ... Murdoch Mysteries Season 17 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -371,6 +362,15 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
+36.	
+Oddity : ON ORDER
+... Oddity : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
 37.	
 Oddity : ON ORDER
 ... Oddity : ON ORDER ...
@@ -381,15 +381,6 @@ Place Request
 Add to My List  
 DVD
 38.	
-Oddity : ON ORDER
-... Oddity : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-39.	
 Perfect days : ON ORDER
 ... Perfect days : ON ORDER ...
 System Availability: 0 (of 0)
@@ -398,6 +389,15 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
+39.	
+A quiet place day one : ON ORDER
+... A quiet place day one : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
 40.	
 A quiet place day one : ON ORDER
 ... A quiet place day one : ON ORDER ...
@@ -406,10 +406,10 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 41.	
-A quiet place day one : ON ORDER
-... A quiet place day one : ON ORDER ...
+Speak no evil : ON ORDER
+... Speak no evil : ON ORDER ...
 System Availability: 0 (of 0)
 Availability
 Full Display
@@ -417,8 +417,8 @@ Place Request
 Add to My List  
 DVD
 42.	
-Sasquatch Sunset : ON ORDER
-... Sasquatch Sunset : ON ORDER ...
+Speak no evil : ON ORDER
+... Speak no evil : ON ORDER ...
 System Availability: 0 (of 0)
 Availability
 Full Display
@@ -426,8 +426,8 @@ Place Request
 Add to My List  
 Blu-Ray
 43.	
-Speak no evil : ON ORDER
-... Speak no evil : ON ORDER ...
+Thelma : ON ORDER
+... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
 Availability
 Full Display
@@ -435,33 +435,15 @@ Place Request
 Add to My List  
 DVD
 44.	
-Speak no evil : ON ORDER
-... Speak no evil : ON ORDER ...
+Thelma : ON ORDER
+... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 45.	
-Thelma : ON ORDER
-... Thelma : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-46.	
-Thelma : ON ORDER
-... Thelma : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-47.	
 Trap : ON ORDER
 ... Trap : ON ORDER ...
 System Availability: 0 (of 0)
@@ -470,9 +452,27 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-48.	
+46.	
 Trap : ON ORDER
 ... Trap : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+47.	
+Twisters : ON ORDER
+... Twisters : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+48.	
+Twisters : ON ORDER
+... Twisters : ON ORDER ...
 System Availability: 0 (of 0)
 Availability
 Full Display
@@ -480,24 +480,6 @@ Place Request
 Add to My List  
 Blu-Ray
 49.	
-Twisters : ON ORDER
-... Twisters : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-50.	
-Twisters : ON ORDER
-... Twisters : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-51.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -505,7 +487,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 51 of 51
+1 - 49 of 49
 100
  per page
 «<1>»
@@ -513,11 +495,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (45)
-Videorecording  (45)
-Visual Materials  (45)
+Projected Medium  (44)
+Videorecording  (44)
+Visual Materials  (44)
 DVD  (26)
-Blu-Ray  (19)
+Blu-Ray  (18)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
