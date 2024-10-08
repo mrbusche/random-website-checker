@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 51 of 51
+1 - 42 of 42
 100
  per pageSort 
 Title
@@ -38,22 +38,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 3.	
 Beetlejuice Beetlejuice : ON ORDER
 ... Beetlejuice Beetlejuice : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 4.	
 Beetlejuice Beetlejuice : ON ORDER
 ... Beetlejuice Beetlejuice : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -123,16 +123,6 @@ Place Request
 Add to My List  
 DVD
 11.	
-Brokenwood Mysteries Series 10 : ON ORDER
-... Brokenwood Mysteries Series 10 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-12.	
 Care Bears: Unlock the Magic : ON ORDER
 ... Care Bears: Unlock the Magic : ON ORDER ...
 System Availability: 0 (of 0)
@@ -142,7 +132,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-13.	
+12.	
 The crow (2024) : ON ORDER
 ... The crow (2024) : ON ORDER ...
 System Availability: 0 (of 0)
@@ -154,14 +144,24 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (6444)
-14.	
+rating (6457)
+13.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
 ... Brodart Bibz On - Order Record. ...
 System Availability: 1 (of 1)
 Call Number: F Shannon
 Summary: The stunning, standalone prequel to the New York Times bestselling The Priory of the Orange Tree. In A Day of Fallen Night, Samantha Shannon sweeps readers back to the universe of Priory of the Orange Tree and into the lives of four women, showing us a course of events that shaped their world for generations to come. Tunuva Melim is a sister of the Priory. For fifty years, she has trained to slay wyrms – but none have appeared since the Nameless One, and the younger generation is starting to question the Priory's purpose. To the north, in the Queendom of Inys, Sabran the Ambitious has married the new King of Hróth, narrowly saving both realms from ruin. Their daughter, Glorian, trails in their shadow – exactly where she wants to be. The dragons of the East have slept for centuries. Dumai has spent her life in a Seiikinese mountain temple, trying to wake the gods from their long slumber. Now someone from her mother's past is coming to upend her fate. When the Dreadmount erupts, bringing with it an age of terror and violence, these women must find the strength to protect humankind from a devastating threat.
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+14.	
+Deadpool & Wolverine : ON ORDER
+... Deadpool & Wolverine : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -176,18 +176,8 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
-16.	
-Deadpool & Wolverine : ON ORDER
-... Deadpool & Wolverine : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
 Book
-17.	
+16.	
 Insight : case files from the psychic world.
 by Browne, Sylvia
 ... On order . ...
@@ -198,7 +188,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-18.	
+17.	
 Godzilla Minus One : ON ORDER
 ... Godzilla Minus One : ON ORDER ...
 System Availability: 0 (of 0)
@@ -208,7 +198,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-19.	
+18.	
 Hallmark Romance 12-Movie Collection featuring: A Safari Romance, While You Were Dating, Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER
 ... Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER ...
 System Availability: 0 (of 0)
@@ -217,28 +207,8 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
-20.	
-Harold and the Purple Crayon : ON ORDER
-... Harold and the Purple Crayon : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-21.	
-Harold and the Purple Crayon : ON ORDER
-... Harold and the Purple Crayon : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
 Book
-22.	
+19.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
@@ -248,18 +218,8 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
-23.	
-Inseparables : ON ORDER
-... Inseparables : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
 Blu-Ray
-24.	
+20.	
 Inside out 2 : ON ORDER
 ... Inside out 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -269,7 +229,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-25.	
+21.	
 It ends with us : ON ORDER
 ... It ends with us : ON ORDER ...
 System Availability: 0 (of 0)
@@ -279,7 +239,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-26.	
+22.	
 It ends with us : ON ORDER
 ... It ends with us : ON ORDER ...
 System Availability: 0 (of 0)
@@ -289,27 +249,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-27.	
-Kinds of kindness : ON ORDER
-... Kinds of kindness : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-28.	
-Kinds of kindness : ON ORDER
-... Kinds of kindness : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-29.	
+23.	
 Lacey Chabert 6 movie collection : ON ORDER
 ... Lacey Chabert 6 movie collection : ON ORDER ...
 System Availability: 0 (of 0)
@@ -321,7 +261,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-30.	
+24.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -332,7 +272,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-31.	
+25.	
 London Kills series 4 : ON ORDER
 ... London Kills series 4 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -345,7 +285,7 @@ Love and lavender
 Large Print
 2022
 rating (473)
-32.	
+26.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -357,7 +297,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-33.	
+27.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
@@ -367,17 +307,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-34.	
-Maxxxine : ON ORDER
-... Maxxxine : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-35.	
+28.	
 May December : ON ORDER
 ... May December : ON ORDER ...
 System Availability: 0 (of 0)
@@ -390,7 +320,7 @@ The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
 rating (207)
-36.	
+29.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -402,7 +332,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-37.	
+30.	
 Murdoch Mysteries Season 17 : ON ORDER
 ... Murdoch Mysteries Season 17 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -412,7 +342,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-38.	
+31.	
 Oddity : ON ORDER
 ... Oddity : ON ORDER ...
 System Availability: 0 (of 0)
@@ -422,7 +352,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-39.	
+32.	
 Oddity : ON ORDER
 ... Oddity : ON ORDER ...
 System Availability: 0 (of 0)
@@ -432,7 +362,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-40.	
+33.	
 Perfect days : ON ORDER
 ... Perfect days : ON ORDER ...
 System Availability: 0 (of 0)
@@ -442,107 +372,87 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
+34.	
+Speak no evil : ON ORDER
+... Speak no evil : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+35.	
+Speak no evil : ON ORDER
+... Speak no evil : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+36.	
+Thelma : ON ORDER
+... Thelma : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+37.	
+Thelma : ON ORDER
+... Thelma : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+38.	
+Trap : ON ORDER
+... Trap : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+39.	
+Trap : ON ORDER
+... Trap : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+40.	
+Twisters : ON ORDER
+... Twisters : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
 41.	
-A quiet place day one : ON ORDER
-... A quiet place day one : ON ORDER ...
+Twisters : ON ORDER
+... Twisters : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 42.	
-A quiet place day one : ON ORDER
-... A quiet place day one : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-43.	
-Speak no evil : ON ORDER
-... Speak no evil : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-44.	
-Speak no evil : ON ORDER
-... Speak no evil : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-45.	
-Thelma : ON ORDER
-... Thelma : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-46.	
-Thelma : ON ORDER
-... Thelma : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-47.	
-Trap : ON ORDER
-... Trap : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-48.	
-Trap : ON ORDER
-... Trap : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-49.	
-Twisters : ON ORDER
-... Twisters : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-50.	
-Twisters : ON ORDER
-... Twisters : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-51.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -551,7 +461,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 51 of 51
+1 - 42 of 42
 100
  per page
 «<1>»
@@ -559,11 +469,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (43)
-Videorecording  (43)
-Visual Materials  (43)
-DVD  (25)
-Blu-Ray  (18)
+Projected Medium  (37)
+Videorecording  (37)
+Visual Materials  (37)
+DVD  (22)
+Blu-Ray  (15)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
