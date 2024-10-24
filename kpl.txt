@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 41 of 41
+1 - 43 of 43
 100
  per pageSort 
 Title
@@ -124,7 +124,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (6530)
+rating (6535)
 11.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -361,8 +361,28 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 33.	
+Strange darling : ON ORDER
+... Strange darling : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+34.	
+Strange darling : ON ORDER
+... Strange darling : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+35.	
 Thelma : ON ORDER
 ... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
@@ -372,7 +392,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-34.	
+36.	
 Thelma : ON ORDER
 ... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
@@ -382,7 +402,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-35.	
+37.	
 Transformers one : ON ORDER
 ... Transformers one : ON ORDER ...
 System Availability: 0 (of 0)
@@ -392,7 +412,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-36.	
+38.	
 Trap : ON ORDER
 ... Trap : ON ORDER ...
 System Availability: 0 (of 0)
@@ -402,7 +422,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-37.	
+39.	
 Trap : ON ORDER
 ... Trap : ON ORDER ...
 System Availability: 0 (of 0)
@@ -412,7 +432,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-38.	
+40.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -422,7 +442,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-39.	
+41.	
 When Calls the Heart Season 11 : ON ORDER
 ... When Calls the Heart Season 11 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -432,7 +452,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-40.	
+42.	
 The wild robot : ON ORDER
 ... The wild robot : ON ORDER ...
 System Availability: 0 (of 0)
@@ -442,7 +462,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-41.	
+43.	
 The wild robot : ON ORDER
 ... The wild robot : ON ORDER ...
 System Availability: 0 (of 0)
@@ -451,7 +471,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 41 of 41
+1 - 43 of 43
 100
  per page
 «<1>»
@@ -459,11 +479,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (33)
-Videorecording  (33)
-Visual Materials  (33)
-DVD  (22)
-Blu-Ray  (11)
+Projected Medium  (36)
+Videorecording  (36)
+Visual Materials  (36)
+DVD  (24)
+Blu-Ray  (12)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
