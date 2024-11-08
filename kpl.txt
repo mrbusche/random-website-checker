@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 38 of 38
+1 - 39 of 39
 100
  per pageSort 
 Title
@@ -23,7 +23,6 @@ Blu-Ray
 Alien: Romulus : ON ORDER
 ... Alien: Romulus : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -33,7 +32,6 @@ DVD
 Alien: Romulus : ON ORDER
 ... Alien: Romulus : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -43,7 +41,6 @@ DVD
 Beetlejuice Beetlejuice : ON ORDER
 ... Beetlejuice Beetlejuice : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -53,7 +50,6 @@ Blu-Ray
 Beetlejuice Beetlejuice : ON ORDER
 ... Beetlejuice Beetlejuice : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -76,17 +72,24 @@ DVD
 The black demon : ON ORDER
 ... The black demon : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 7.	
+Bulletproof Monk : ON ORDER
+... Bulletproof Monk : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+8.	
 Care Bears: Unlock the Magic : ON ORDER
 ... Care Bears: Unlock the Magic : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -94,8 +97,8 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (6602)
-8.	
+rating (6611)
+9.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
 ... Brodart Bibz On - Order Record. ...
@@ -107,83 +110,75 @@ Full Display
 Place Request
 Add to My List  
 Book
-9.	
+10.	
 Insight : case files from the psychic world.
 by Browne, Sylvia
 ... On order . ...
 System Availability: 0 (of 0)
-Call Number: Ro
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
-10.	
-Godzilla Minus One : ON ORDER
-... Godzilla Minus One : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
 11.	
 Godzilla Minus One : ON ORDER
 ... Godzilla Minus One : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 12.	
-Hallmark Romance 12-Movie Collection featuring: A Safari Romance, While You Were Dating, Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER
-... Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER ...
+Godzilla Minus One : ON ORDER
+... Godzilla Minus One : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 13.	
-Harry Wild. Series 3 : ON ORDER
-... Harry Wild. Series 3 : ON ORDER ...
+Hallmark Romance 12-Movie Collection featuring: A Safari Romance, While You Were Dating, Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER
+... Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Book
-14.	
-Running with scissors : a memoir.
-by Burroughs, Augusten
-... On order . ...
-System Availability: 0 (of 0)
-Call Number: B Bur
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-15.	
-Inside out 2 : ON ORDER
-... Inside out 2 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
+14.	
+Harry Wild. Series 3 : ON ORDER
+... Harry Wild. Series 3 : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Book
+15.	
+Running with scissors : a memoir.
+by Burroughs, Augusten
+... On order . ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
 16.	
+Inside out 2 : ON ORDER
+... Inside out 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+17.	
 Lacey Chabert 6 movie collection : ON ORDER
 ... Lacey Chabert 6 movie collection : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -191,7 +186,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-17.	
+18.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -202,11 +197,10 @@ Full Display
 Place Request
 Add to My List  
 DVD
-18.	
+19.	
 London Kills series 4 : ON ORDER
 ... London Kills series 4 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -215,7 +209,7 @@ Love and lavender
 Large Print
 2022
 rating (475)
-19.	
+20.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -227,31 +221,28 @@ Full Display
 Place Request
 Add to My List  
 DVD
-20.	
+21.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
-21.	
+22.	
 May December : ON ORDER
 ... May December : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
-22.	
+23.	
 Mayor of Kingstown. Season 3 : ON ORDER
 ... Mayor of Kingstown. Season 3 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -260,7 +251,7 @@ The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
 rating (208)
-23.	
+24.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -272,156 +263,141 @@ Full Display
 Place Request
 Add to My List  
 DVD
-24.	
+25.	
 My life is murder. Series 4 : ON ORDER
 ... My life is murder. Series 4 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-25.	
-Perfect days : ON ORDER
-... Perfect days : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 26.	
-Reagan : ON ORDER
-... Reagan : ON ORDER ...
+Perfect days : ON ORDER
+... Perfect days : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 27.	
 Reagan : ON ORDER
 ... Reagan : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
 28.	
-Speak no evil : ON ORDER
-... Speak no evil : ON ORDER ...
+Reagan : ON ORDER
+... Reagan : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 29.	
 Speak no evil : ON ORDER
 ... Speak no evil : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 30.	
-Strange darling : ON ORDER
-... Strange darling : ON ORDER ...
+Speak no evil : ON ORDER
+... Speak no evil : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 31.	
 Strange darling : ON ORDER
 ... Strange darling : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
 32.	
-Thelma : ON ORDER
-... Thelma : ON ORDER ...
+Strange darling : ON ORDER
+... Strange darling : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 33.	
 Thelma : ON ORDER
 ... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 34.	
-Transformers one : ON ORDER
-... Transformers one : ON ORDER ...
+Thelma : ON ORDER
+... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 35.	
-The watchers : ON ORDER
-... The watchers : ON ORDER ...
+Transformers one : ON ORDER
+... Transformers one : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
 36.	
-Watchmen Chapter 2 : ON ORDER
-... Watchmen Chapter 2 : ON ORDER ...
+The watchers : ON ORDER
+... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
 37.	
+Watchmen Chapter 2 : ON ORDER
+... Watchmen Chapter 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+38.	
 The wild robot : ON ORDER
 ... The wild robot : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
-38.	
+39.	
 The wild robot : ON ORDER
 ... The wild robot : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-1 - 38 of 38
+1 - 39 of 39
 100
  per page
 «<1>»
@@ -429,10 +405,10 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (4)
 Type of Material
-Projected Medium  (33)
-Videorecording  (33)
-Visual Materials  (33)
-DVD  (21)
+Projected Medium  (34)
+Videorecording  (34)
+Visual Materials  (34)
+DVD  (22)
 Blu-Ray  (12)
 More>>
 Authors
@@ -454,7 +430,7 @@ Mayfiled family series ; 4  (1)
 The roots of chaos  (1)
 Assigned Branch
 Local
-Ankeny Kirkendall Public Library  (5)
+Ankeny Kirkendall Public Library   (5)
 Literary Form
 Fiction  (2)
 Non-fiction  (1)
