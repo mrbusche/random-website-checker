@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', 'Ancient wisdom for modern campaigns : Lesson's from Sun Tzu's Art of War');
+        cy.get('.new-releases__link a').first().should('have.text', "Ancient wisdom for modern campaigns : Lesson's from Sun Tzu's Art of War");
     })
 
     it('checks new videos', () => {
