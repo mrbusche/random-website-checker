@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', "Believe : the untold story behind Ted Lasso, the show that kicked its way into our hearts);
+        cy.get('.new-releases__link a').first().should('have.text', "Believe : the untold story behind Ted Lasso, the show that kicked its way into our hearts");
     })
 
     it('checks new videos', () => {
