@@ -1,4 +1,4 @@
-name: New development checker
+name: Amazon checker
 on:
   push:
     branches: [main]
