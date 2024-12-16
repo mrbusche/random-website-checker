@@ -1,7 +1,5 @@
 name: New development checker
 on:
-  push:
-    branches: [main]
   pull_request:
     branches: [main]
   schedule:
