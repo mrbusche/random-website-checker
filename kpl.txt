@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 47 of 47
+1 - 52 of 52
 100
  per pageSort 
 Title
@@ -81,22 +81,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 7.	
 Conclave : ON ORDER
 ... Conclave : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 8.	
 Conclave : ON ORDER
 ... Conclave : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -114,7 +114,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (6788)
+rating (6804)
 10.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -207,22 +207,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 19.	
 Here : ON ORDER
 ... Here : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 20.	
 Here : ON ORDER
 ... Here : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -270,6 +270,26 @@ Place Request
 Add to My List  
 DVD
 25.	
+Kraven the hunter : ON ORDER
+... Kraven the hunter : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+26.	
+Kraven the hunter : ON ORDER
+... Kraven the hunter : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+27.	
 Lacey Chabert 6 movie collection : ON ORDER
 ... Lacey Chabert 6 movie collection : ON ORDER ...
 System Availability: 0 (of 0)
@@ -281,7 +301,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-26.	
+28.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -292,7 +312,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-27.	
+29.	
 London Kills series 4 : ON ORDER
 ... London Kills series 4 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -301,11 +321,21 @@ Availability
 Full Display
 Place Request
 Add to My List  
+Blu-Ray
+30.	
+The Lord of the Rings : The War of the Rohirrim : ON ORDER
+... The Lord of the Rings : The War of the Rohirrim : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
 Love and lavender
 Large Print
 2022
 rating (478)
-28.	
+31.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -317,7 +347,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-29.	
+32.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
@@ -327,7 +357,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-30.	
+33.	
 May December : ON ORDER
 ... May December : ON ORDER ...
 System Availability: 0 (of 0)
@@ -339,8 +369,8 @@ Add to My List
 The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
-rating (209)
-31.	
+rating (210)
+34.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -352,7 +382,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-32.	
+35.	
 Penguin season 1 : ON ORDER
 ... Penguin season 1 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -362,7 +392,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-33.	
+36.	
 Perfect days : ON ORDER
 ... Perfect days : ON ORDER ...
 System Availability: 0 (of 0)
@@ -372,9 +402,9 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-34.	
-Saturday night : ON ORDER
-... Saturday night : ON ORDER ...
+37.	
+The return : ON ORDER
+... The return : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
@@ -382,7 +412,17 @@ Full Display
 Place Request
 Add to My List  
 DVD
-35.	
+38.	
+The return : ON ORDER
+... The return : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+39.	
 Saturday night : ON ORDER
 ... Saturday night : ON ORDER ...
 System Availability: 0 (of 0)
@@ -392,7 +432,27 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-36.	
+40.	
+Saturday night : ON ORDER
+... Saturday night : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+41.	
+The substance : ON ORDER
+... The substance : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+42.	
 The substance : ON ORDER
 ... The substance : ON ORDER ...
 System Availability: 0 (of 0)
@@ -402,17 +462,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-37.	
-The substance : ON ORDER
-... The substance : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-38.	
+43.	
 Terrifier 3 : ON ORDER
 ... Terrifier 3 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -422,7 +472,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-39.	
+44.	
 Thelma : ON ORDER
 ... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
@@ -432,7 +482,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-40.	
+45.	
 Tulsa King season 2 : ON ORDER
 ... Tulsa King season 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -442,7 +492,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-41.	
+46.	
 Tulsa King season 2 : ON ORDER
 ... Tulsa King season 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -452,7 +502,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-42.	
+47.	
 Venom : the last dance : ON ORDER
 ... Venom : the last dance : ON ORDER ...
 System Availability: 0 (of 0)
@@ -462,7 +512,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-43.	
+48.	
 Venom : the last dance : ON ORDER
 ... Venom : the last dance : ON ORDER ...
 System Availability: 0 (of 0)
@@ -472,7 +522,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-44.	
+49.	
 Voces: american historia the untold history of latinos : ON ORDER
 ... Voces: american historia the untold history of latinos : ON ORDER ...
 System Availability: 0 (of 0)
@@ -482,7 +532,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-45.	
+50.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -492,7 +542,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-46.	
+51.	
 Wicked : ON ORDER
 ... Wicked : ON ORDER ...
 System Availability: 0 (of 0)
@@ -502,7 +552,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-47.	
+52.	
 Wicked : ON ORDER
 ... Wicked : ON ORDER ...
 System Availability: 0 (of 0)
@@ -511,7 +561,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 47 of 47
+1 - 52 of 52
 100
  per page
 «<1>»
@@ -519,11 +569,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (42)
-Videorecording  (42)
-Visual Materials  (42)
-DVD  (29)
-Blu-Ray  (13)
+Projected Medium  (47)
+Videorecording  (47)
+Visual Materials  (47)
+DVD  (31)
+Blu-Ray  (16)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
