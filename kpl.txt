@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 51 of 51
+1 - 49 of 49
 100
  per pageSort 
 Title
@@ -104,7 +104,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (6897)
+rating (6949)
 9.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -453,16 +453,6 @@ Place Request
 Add to My List  
 DVD
 42.	
-Terrifier 3 : ON ORDER
-... Terrifier 3 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-43.	
 Thelma : ON ORDER
 ... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
@@ -472,27 +462,27 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-44.	
+43.	
 Tulsa King season 2 : ON ORDER
 ... Tulsa King season 2 : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+44.	
+Tulsa King season 2 : ON ORDER
+... Tulsa King season 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 45.	
-Tulsa King season 2 : ON ORDER
-... Tulsa King season 2 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-46.	
 Venom : the last dance : ON ORDER
 ... Venom : the last dance : ON ORDER ...
 System Availability: 0 (of 0)
@@ -502,7 +492,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-47.	
+46.	
 Venom : the last dance : ON ORDER
 ... Venom : the last dance : ON ORDER ...
 System Availability: 0 (of 0)
@@ -511,18 +501,8 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
-48.	
-Voces: american historia the untold history of latinos : ON ORDER
-... Voces: american historia the untold history of latinos : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
 Blu-Ray
-49.	
+47.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -532,7 +512,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-50.	
+48.	
 Wicked : ON ORDER
 ... Wicked : ON ORDER ...
 System Availability: 0 (of 0)
@@ -542,7 +522,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-51.	
+49.	
 Wicked : ON ORDER
 ... Wicked : ON ORDER ...
 System Availability: 0 (of 0)
@@ -551,7 +531,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 51 of 51
+1 - 49 of 49
 100
  per page
 «<1>»
@@ -559,10 +539,10 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (46)
-Videorecording  (46)
-Visual Materials  (46)
-DVD  (31)
+Projected Medium  (44)
+Videorecording  (44)
+Visual Materials  (44)
+DVD  (29)
 Blu-Ray  (15)
 More>>
 Authors
