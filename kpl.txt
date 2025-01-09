@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 58 of 58
+1 - 59 of 59
 100
  per pageSort 
 Title
@@ -207,22 +207,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 19.	
 Here : ON ORDER
 ... Here : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 20.	
 Here : ON ORDER
 ... Here : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -491,22 +491,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 46.	
 The substance : ON ORDER
 ... The substance : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 47.	
 The substance : ON ORDER
 ... The substance : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -621,7 +621,17 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 58 of 58
+DVD
+59.	
+Your honor season 2 : ON ORDER
+... Your honor season 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+1 - 59 of 59
 100
  per page
 «<1>»
@@ -629,11 +639,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (46)
-Videorecording  (46)
-Visual Materials  (46)
-DVD  (27)
-Blu-Ray  (19)
+Projected Medium  (53)
+Videorecording  (53)
+Visual Materials  (53)
+DVD  (31)
+Blu-Ray  (22)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
