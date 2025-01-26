@@ -1,0 +1,17 @@
+name: Sivers book checker checker
+on:
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "0 12-23 * * *"
+jobs:
+  cypress-run:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+      - name: amazon checker
+        uses: cypress-io/github-action@v6.7.8
+        with:
+          spec: cypress/e2e/sivers.cy.js
