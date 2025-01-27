@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 57 of 57
+1 - 51 of 51
 100
  per pageSort 
 Title
@@ -74,7 +74,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (7080)
+rating (7123)
 6.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -179,26 +179,6 @@ Place Request
 Add to My List  
 Blu-Ray
 16.	
-Here : ON ORDER
-... Here : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-17.	
-Here : ON ORDER
-... Here : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-18.	
 Heretic : ON ORDER
 ... Heretic : ON ORDER ...
 System Availability: 0 (of 0)
@@ -208,7 +188,7 @@ Full Display
 Place Request
 Add to My List  
 Book
-19.	
+17.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
@@ -219,7 +199,17 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-20.	
+18.	
+Inheritance : ON ORDER
+... Inheritance : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+19.	
 Inside out 2 : ON ORDER
 ... Inside out 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -229,47 +219,47 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-21.	
+20.	
 Juror #2 : ON ORDER
 ... Juror #2 : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+21.	
+Juror #2 : ON ORDER
+... Juror #2 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 22.	
-Juror #2 : ON ORDER
-... Juror #2 : ON ORDER ...
+Killer's game : ON ORDER
+... Killer's game : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 23.	
 Killer's game : ON ORDER
 ... Killer's game : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
 24.	
-Killer's game : ON ORDER
-... Killer's game : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-25.	
 Kraven the hunter : ON ORDER
 ... Kraven the hunter : ON ORDER ...
 System Availability: 0 (of 0)
@@ -279,7 +269,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-26.	
+25.	
 Kraven the hunter : ON ORDER
 ... Kraven the hunter : ON ORDER ...
 System Availability: 0 (of 0)
@@ -289,7 +279,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-27.	
+26.	
 Lacey Chabert 6 movie collection : ON ORDER
 ... Lacey Chabert 6 movie collection : ON ORDER ...
 System Availability: 0 (of 0)
@@ -301,7 +291,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-28.	
+27.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -312,7 +302,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-29.	
+28.	
 London Kills series 4 : ON ORDER
 ... London Kills series 4 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -322,7 +312,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-30.	
+29.	
 The Lord of the Rings : The War of the Rohirrim : ON ORDER
 ... The Lord of the Rings : The War of the Rohirrim : ON ORDER ...
 System Availability: 0 (of 0)
@@ -335,7 +325,7 @@ Love and lavender
 Large Print
 2022
 rating (481)
-31.	
+30.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -347,7 +337,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-32.	
+31.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
@@ -357,9 +347,19 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-33.	
+32.	
 May December : ON ORDER
 ... May December : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+33.	
+Memoir of a Snail : ON ORDER
+... Memoir of a Snail : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
@@ -441,48 +441,18 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 41.	
 The return : ON ORDER
 ... The return : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 42.	
-The return : ON ORDER
-... The return : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-43.	
-Smile 2 : ON ORDER
-... Smile 2 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-44.	
-The substance : ON ORDER
-... The substance : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-45.	
 The substance : ON ORDER
 ... The substance : ON ORDER ...
 System Availability: 0 (of 0)
@@ -492,7 +462,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-46.	
+43.	
 Thelma : ON ORDER
 ... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
@@ -502,7 +472,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-47.	
+44.	
 Tulsa King season 2 : ON ORDER
 ... Tulsa King season 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -512,7 +482,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-48.	
+45.	
 Tulsa King season 2 : ON ORDER
 ... Tulsa King season 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -522,27 +492,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-49.	
-Venom : the last dance : ON ORDER
-... Venom : the last dance : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-50.	
-Venom : the last dance : ON ORDER
-... Venom : the last dance : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-51.	
+46.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -552,17 +502,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-52.	
-We Live In Time : ON ORDER
-... We Live In Time : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-53.	
+47.	
 Werewolves : ON ORDER
 ... Werewolves : ON ORDER ...
 System Availability: 0 (of 0)
@@ -572,7 +512,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-54.	
+48.	
 Wicked : ON ORDER
 ... Wicked : ON ORDER ...
 System Availability: 0 (of 0)
@@ -582,7 +522,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-55.	
+49.	
 Wicked : ON ORDER
 ... Wicked : ON ORDER ...
 System Availability: 0 (of 0)
@@ -592,7 +532,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-56.	
+50.	
 Yellowstone Season 5 Part 2 : ON ORDER
 ... Yellowstone Season 5 Part 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -602,7 +542,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-57.	
+51.	
 Yellowstone Season 5 Part 2 : ON ORDER
 ... Yellowstone Season 5 Part 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -611,7 +551,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 57 of 57
+1 - 51 of 51
 100
  per page
 «<1>»
@@ -619,11 +559,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (50)
-Videorecording  (50)
-Visual Materials  (50)
-DVD  (27)
-Blu-Ray  (23)
+Projected Medium  (44)
+Videorecording  (44)
+Visual Materials  (44)
+DVD  (25)
+Blu-Ray  (19)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
