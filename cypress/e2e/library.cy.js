@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', "House of bone and rain : a barrio noir");
+        cy.get('.new-releases__link a').first().should('have.text', "The case of the golden boneThe case of the golden bone");
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', "4 All-American classics Huckleberry Finn ; Lassie: the Painted HIlls ; the Adventures of Tom Sawyer ; Where the red fern grows.");
+        cy.get('.new-releases__link a').first().should('have.text', "Jet Li's Fearless");
     })
 })
 
@@ -23,7 +23,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '1 results');
+                cy.get('.search-text.h2').first().should('contain.text', '0 results');
             }
         });
     })
@@ -32,7 +32,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h2').first().should('contain.text', '4 results');
+                cy.get('.search-text.h2').first().should('contain.text', '32 results');
                 
             }
         });
