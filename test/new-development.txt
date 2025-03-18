@@ -24,6 +24,12 @@ Map
 Save Search
 Sort by 
 Name, A-Z
+3223 SE Four Mile Drive
+Image Unavailable
+3223 SE Four Mile Drive
+Ankeny, IA 50021
+
+
 36 Spectrum
 Image Unavailable
 2120 NE 36th Street
@@ -96,6 +102,12 @@ Image Unavailable
 Ankeny, IA 50023
 
 
+I-80 Commerce Center
+Image Unavailable
+5312 NE 29th Street
+Ankeny, IA 50021
+
+
 Kimberly Villas Plat 3
 Image Unavailable
 Ankeny
@@ -108,10 +120,34 @@ Ankeny
 Ankeny, IA 50021
 
 
+Lakeview Woods Plat 1
+Image Unavailable
+711 SW Oralabor Road
+Ankeny, IA 50023
+
+
+Lot 4, Park Sight Office Park at Prairie Trail Plat 4
+Image Unavailable
+2295 SW State Street
+Ankeny, IA 50023
+
+
 MHC Trucking
 Image Unavailable
 5575 SE Delaware Ave
 Ankeny, IA 50021
+
+
+Mill Pond Independent Living Addition
+Image Unavailable
+1201 SE Mill Pond Court
+Ankeny, IA 50021
+
+
+Nelson Senior Living Piper
+Image Unavailable
+120 NW Reinhard Drive
+Ankeny, IA 50023
 
 
 NGR East
@@ -144,6 +180,12 @@ Ankeny
 Ankeny, IA 50021
 
 
+Prairie Ridge Church Addition
+Image Unavailable
+825 NW 36th St
+Ankeny, IA 50023
+
+
 Rally Sports Complex
 Image Unavailable
 725 SW Prairie Trail Parkway
@@ -153,6 +195,12 @@ Ankeny, IA 50023
 Roseann Lofts
 Image Unavailable
 1630 SW Magazine Road
+Ankeny, IA 50023
+
+
+Siena Hills Apartments
+Image Unavailable
+2840 S Ankeny Blvd
 Ankeny, IA 50023
 
 
@@ -243,3 +291,6 @@ Accessibility
 Copyright Notices
 Privacy Policy
  Government Websites by CivicPlus®
+
+PageAssist
+PageAssist Personalization Options
