@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 59 of 59
+1 - 57 of 57
 100
  per pageSort 
 Title
@@ -134,7 +134,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (7493)
+rating (7509)
 12.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -310,16 +310,6 @@ Place Request
 Add to My List  
 DVD
 29.	
-Jackie Brown : ON ORDER
-... Jackie Brown : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-30.	
 Lacey Chabert 6 movie collection : ON ORDER
 ... Lacey Chabert 6 movie collection : ON ORDER ...
 System Availability: 0 (of 0)
@@ -329,7 +319,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-31.	
+30.	
 Last breath : ON ORDER
 ... Last breath : ON ORDER ...
 System Availability: 0 (of 0)
@@ -339,7 +329,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-32.	
+31.	
 Last breath : ON ORDER
 ... Last breath : ON ORDER ...
 System Availability: 0 (of 0)
@@ -351,7 +341,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-33.	
+32.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -362,7 +352,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-34.	
+33.	
 London Kills series 4 : ON ORDER
 ... London Kills series 4 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -374,8 +364,8 @@ Add to My List
 Love and lavender
 Large Print
 2022
-rating (485)
-35.	
+rating (486)
+34.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -387,7 +377,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-36.	
+35.	
 Love hurts : ON ORDER
 ... Love hurts : ON ORDER ...
 System Availability: 0 (of 0)
@@ -397,7 +387,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-37.	
+36.	
 Love hurts : ON ORDER
 ... Love hurts : ON ORDER ...
 System Availability: 0 (of 0)
@@ -407,7 +397,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-38.	
+37.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
@@ -417,19 +407,9 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-39.	
+38.	
 May December : ON ORDER
 ... May December : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-40.	
-Memoir of a Snail : ON ORDER
-... Memoir of a Snail : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
@@ -439,8 +419,8 @@ Add to My List
 The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
-rating (216)
-41.	
+rating (217)
+39.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -452,7 +432,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-42.	
+40.	
 Mufasa : ON ORDER
 ... Mufasa : ON ORDER ...
 System Availability: 0 (of 0)
@@ -462,7 +442,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-43.	
+41.	
 Mufasa : ON ORDER
 ... Mufasa : ON ORDER ...
 System Availability: 0 (of 0)
@@ -472,9 +452,29 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-44.	
+42.	
 One of them days : ON ORDER
 ... One of them days : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+43.	
+One of them days : ON ORDER
+... One of them days : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+44.	
+Outlander Season 7 : ON ORDER
+... Outlander Season 7 : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
@@ -483,8 +483,8 @@ Place Request
 Add to My List  
 DVD
 45.	
-One of them days : ON ORDER
-... One of them days : ON ORDER ...
+Outlander Season 7 : ON ORDER
+... Outlander Season 7 : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
@@ -493,8 +493,8 @@ Place Request
 Add to My List  
 Blu-Ray
 46.	
-Outlander Season 7 : ON ORDER
-... Outlander Season 7 : ON ORDER ...
+Paddington in Peru : ON ORDER
+... Paddington in Peru : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
@@ -503,36 +503,16 @@ Place Request
 Add to My List  
 DVD
 47.	
-Outlander Season 7 : ON ORDER
-... Outlander Season 7 : ON ORDER ...
+Paddington in Peru : ON ORDER
+... Paddington in Peru : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 48.	
-Paddington in Peru : ON ORDER
-... Paddington in Peru : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-49.	
-Paddington in Peru : ON ORDER
-... Paddington in Peru : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-50.	
 Perfect days : ON ORDER
 ... Perfect days : ON ORDER ...
 System Availability: 0 (of 0)
@@ -542,7 +522,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-51.	
+49.	
 Sonic the hedgehog 3 : ON ORDER
 ... Sonic the hedgehog 3 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -552,7 +532,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-52.	
+50.	
 Sonic the hedgehog 3 : ON ORDER
 ... Sonic the hedgehog 3 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -562,7 +542,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-53.	
+51.	
 Star Trek Lower Decks the final season : ON ORDER
 ... Star Trek Lower Decks the final season : ON ORDER ...
 System Availability: 0 (of 0)
@@ -572,7 +552,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-54.	
+52.	
 Star Trek Lower Decks the final season : ON ORDER
 ... Star Trek Lower Decks the final season : ON ORDER ...
 System Availability: 0 (of 0)
@@ -582,7 +562,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-55.	
+53.	
 Thelma : ON ORDER
 ... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
@@ -592,7 +572,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-56.	
+54.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -602,7 +582,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-57.	
+55.	
 Winne the Pooh Blood and Honey : ON ORDER
 ... Winne the Pooh Blood and Honey : ON ORDER ...
 System Availability: 0 (of 0)
@@ -612,7 +592,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-58.	
+56.	
 Yellowstone Season 5 Part 2 : ON ORDER
 ... Yellowstone Season 5 Part 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -622,7 +602,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-59.	
+57.	
 Yellowstone Season 5 Part 2 : ON ORDER
 ... Yellowstone Season 5 Part 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -631,7 +611,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 59 of 59
+1 - 57 of 57
 100
  per page
 «<1>»
@@ -639,11 +619,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (3)
 Type of Material
-Projected Medium  (49)
-Videorecording  (49)
-Visual Materials  (49)
-DVD  (29)
-Blu-Ray  (20)
+Projected Medium  (52)
+Videorecording  (52)
+Visual Materials  (52)
+DVD  (30)
+Blu-Ray  (22)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
