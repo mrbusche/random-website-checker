@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', "The mermaid's tale");
+        cy.get('.new-releases__link a').first().should('have.text', "Untethered : creating connected families, schools, and communities to raise a resilient generation");
     })
 
     it('checks new videos', () => {
