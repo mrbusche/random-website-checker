@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 46 of 46
+1 - 53 of 53
 100
  per pageSort 
 Title
@@ -71,8 +71,18 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 6.	
+Cleaner : ON ORDER
+... Cleaner : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+7.	
 Cruising : ON ORDER
 ... Cruising : ON ORDER ...
 System Availability: 0 (of 0)
@@ -84,8 +94,8 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (7819)
-7.	
+rating (7835)
+8.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
 ... Brodart Bibz On - Order Record. ...
@@ -97,7 +107,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-8.	
+9.	
 Drop : ON ORDER
 ... Drop : ON ORDER ...
 System Availability: 0 (of 0)
@@ -106,8 +116,18 @@ Availability
 Full Display
 Place Request
 Add to My List  
+Blu-Ray
+10.	
+Dune Prophecy Season 1 : ON ORDER
+... Dune Prophecy Season 1 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
 DVD
-9.	
+11.	
 Five More Minutes : Moments Like These : ON ORDER
 ... Five More Minutes : Moments Like These : ON ORDER ...
 System Availability: 0 (of 0)
@@ -116,8 +136,18 @@ Availability
 Full Display
 Place Request
 Add to My List  
+DVD
+12.	
+The friend : ON ORDER
+... The friend : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
 Blu-Ray
-10.	
+13.	
 The friend : ON ORDER
 ... The friend : ON ORDER ...
 System Availability: 0 (of 0)
@@ -127,7 +157,7 @@ Full Display
 Place Request
 Add to My List  
 Book
-11.	
+14.	
 Insight : case files from the psychic world.
 by Browne, Sylvia
 ... On order . ...
@@ -138,7 +168,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-12.	
+15.	
 God’s Not Dead: In God We Trust : ON ORDER
 ... God’s Not Dead: In God We Trust : ON ORDER ...
 System Availability: 0 (of 0)
@@ -148,7 +178,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-13.	
+16.	
 Hallmark 4-Movie Collection: Ms. Christmas Comes to Town, Navigating Christmas, A Season For Family, The Secret Gift of Christmas : ON ORDER
 ... Christmas, A Season For Family, The Secret Gift of Christmas : ON ORDER ...
 System Availability: 0 (of 0)
@@ -158,7 +188,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-14.	
+17.	
 Hallmark Romance 12-Movie Collection featuring: A Safari Romance, While You Were Dating, Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER
 ... Walking the Dog, My Favorite Wedding, Love Blossoms and more : ON ORDER ...
 System Availability: 0 (of 0)
@@ -168,7 +198,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-15.	
+18.	
 Harry Wild. Series 3 : ON ORDER
 ... Harry Wild. Series 3 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -178,7 +208,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-16.	
+19.	
 In the lost lands : ON ORDER
 ... In the lost lands : ON ORDER ...
 System Availability: 0 (of 0)
@@ -188,7 +218,7 @@ Full Display
 Place Request
 Add to My List  
 Book
-17.	
+20.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
@@ -199,7 +229,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-18.	
+21.	
 Inside out 2 : ON ORDER
 ... Inside out 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -209,7 +239,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-19.	
+22.	
 Lacey Chabert 6 movie collection : ON ORDER
 ... Lacey Chabert 6 movie collection : ON ORDER ...
 System Availability: 0 (of 0)
@@ -219,7 +249,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-20.	
+23.	
 Landman : ON ORDER
 ... Landman : ON ORDER ...
 System Availability: 0 (of 0)
@@ -229,7 +259,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-21.	
+24.	
 The last showgirl : ON ORDER
 ... The last showgirl : ON ORDER ...
 System Availability: 0 (of 0)
@@ -241,7 +271,7 @@ Add to My List
 Little Men : Season 1
 DVD
 2002
-22.	
+25.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -252,7 +282,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-23.	
+26.	
 London Kills series 4 : ON ORDER
 ... London Kills series 4 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -265,7 +295,7 @@ Love and lavender
 Large Print
 2022
 rating (494)
-24.	
+27.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -277,7 +307,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-25.	
+28.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
@@ -287,7 +317,17 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-26.	
+29.	
+Mars express : ON ORDER
+... Mars express : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+30.	
 May December : ON ORDER
 ... May December : ON ORDER ...
 System Availability: 0 (of 0)
@@ -297,7 +337,17 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-27.	
+31.	
+Mayfair Witches Season 2 : ON ORDER
+... Mayfair Witches Season 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+32.	
 A minecraft movie : ON ORDER
 ... A minecraft movie : ON ORDER ...
 System Availability: 0 (of 0)
@@ -307,7 +357,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-28.	
+33.	
 A minecraft movie : ON ORDER
 ... A minecraft movie : ON ORDER ...
 System Availability: 0 (of 0)
@@ -319,8 +369,8 @@ Add to My List
 The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
-rating (220)
-29.	
+rating (221)
+34.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -331,8 +381,18 @@ Availability
 Full Display
 Place Request
 Add to My List  
+DVD
+35.	
+The monkey : ON ORDER
+... The monkey : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
 Blu-Ray
-30.	
+36.	
 The Monkey : ON ORDER
 ... The Monkey : ON ORDER ...
 System Availability: 0 (of 0)
@@ -342,7 +402,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-31.	
+37.	
 Opus : ON ORDER
 ... Opus : ON ORDER ...
 System Availability: 0 (of 0)
@@ -352,7 +412,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-32.	
+38.	
 Outlander Season 7 : ON ORDER
 ... Outlander Season 7 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -362,7 +422,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-33.	
+39.	
 Outlander Season 7 : ON ORDER
 ... Outlander Season 7 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -372,7 +432,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-34.	
+40.	
 Perfect days : ON ORDER
 ... Perfect days : ON ORDER ...
 System Availability: 0 (of 0)
@@ -382,9 +442,19 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-35.	
-Presence : ON ORDER
-... Presence : ON ORDER ...
+41.	
+Robot dreams : ON ORDER
+... Robot dreams : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+42.	
+The shade : ON ORDER
+... The shade : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
@@ -392,9 +462,9 @@ Full Display
 Place Request
 Add to My List  
 DVD
-36.	
-Presence : ON ORDER
-... Presence : ON ORDER ...
+43.	
+Signed Sealed and Delivered: a Tale of Three Letters : ON ORDER
+... Signed Sealed and Delivered: a Tale of Three Letters : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
@@ -402,9 +472,9 @@ Full Display
 Place Request
 Add to My List  
 DVD
-37.	
-Signed Sealed and Delivered: Tale of Three Letters : ON ORDER
-... Signed Sealed and Delivered: Tale of Three Letters : ON ORDER ...
+44.	
+Star Trek Section 31 : ON ORDER
+... Star Trek Section 31 : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
@@ -412,7 +482,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-38.	
+45.	
 The Wedding Veil 6-Movie Collection : ON ORDER
 ... The Wedding Veil 6-Movie Collection : ON ORDER ...
 System Availability: 0 (of 0)
@@ -422,7 +492,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-39.	
+46.	
 Thelma : ON ORDER
 ... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
@@ -432,7 +502,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-40.	
+47.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -442,7 +512,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-41.	
+48.	
 The wedding banquet : ON ORDER
 ... The wedding banquet : ON ORDER ...
 System Availability: 0 (of 0)
@@ -452,7 +522,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-42.	
+49.	
 Woman in the yard : ON ORDER
 ... Woman in the yard : ON ORDER ...
 System Availability: 0 (of 0)
@@ -462,7 +532,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-43.	
+50.	
 Woman in the yard : ON ORDER
 ... Woman in the yard : ON ORDER ...
 System Availability: 0 (of 0)
@@ -472,7 +542,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-44.	
+51.	
 A working man : ON ORDER
 ... A working man : ON ORDER ...
 System Availability: 0 (of 0)
@@ -482,7 +552,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-45.	
+52.	
 Yellowstone Season 5 Part 2 : ON ORDER
 ... Yellowstone Season 5 Part 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -492,7 +562,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-46.	
+53.	
 Yellowstone Season 5 Part 2 : ON ORDER
 ... Yellowstone Season 5 Part 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -501,7 +571,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 46 of 46
+1 - 53 of 53
 100
  per page
 «<1>»
@@ -509,11 +579,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (3)
 Type of Material
-Projected Medium  (41)
-Videorecording  (41)
-Visual Materials  (41)
-DVD  (22)
-Blu-Ray  (19)
+Projected Medium  (39)
+Videorecording  (39)
+Visual Materials  (39)
+DVD  (21)
+Blu-Ray  (18)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
