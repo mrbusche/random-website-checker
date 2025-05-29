@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', "Developing decoders : short vowels set 3");
+        cy.get('.new-releases__link a').first().should('have.text', "Doggone bones");
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', "Landman. Season one");
+        cy.get('.new-releases__link a').first().should('have.text', "The woman in the yard");
     })
 })
 
