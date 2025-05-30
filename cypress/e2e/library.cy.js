@@ -9,7 +9,7 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', "Doggone bones");
+        cy.get('.new-releases__link a').first().should('have.text', "Nothing but courage : the 82nd Airborne's daring D-Day mission--and their heroic charge across the La Fiere Bridge");
     })
 
     it('checks new videos', () => {
@@ -23,7 +23,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h1').first().should('contain.text', '3 results');
+                cy.get('.search-text.h1').first().should('contain.text', '27 results');
             }
         });
     })
@@ -32,7 +32,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h1').first().should('contain.text', '24 results');
+                cy.get('.search-text.h1').first().should('contain.text', '40 results');
 
             }
         });
