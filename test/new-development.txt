@@ -30,12 +30,6 @@ Image Unavailable
 Ankeny, IA 50021
 
 
-36 Spectrum
-Image Unavailable
-2120 NE 36th Street
-Ankeny, IA 50021
-
-
 Ankeny Fire Station #4
 Image Unavailable
 2325 NW Weigel Drive
@@ -52,6 +46,12 @@ Canyon Landing Plat 5
 Image Unavailable
 Ankeny
 Ankeny, IA 50021
+
+
+Casey's
+Image Unavailable
+601 SW Oralabor Road
+Ankeny, IA 50023
 
 
 Centennial Ridge Plat 4
@@ -144,9 +144,21 @@ Ankeny
 Ankeny, IA 50021
 
 
+Kwik Star #1707
+Image Unavailable
+6155 SE Delaware Ave
+Ankeny, IA 50021
+
+
 Lakeview Woods Plat 1
 Image Unavailable
 711 SW Oralabor Road
+Ankeny, IA 50023
+
+
+Lot 3, Vintage Business Park at Prairie Trail Plat 10
+Image Unavailable
+1930 SW Magazine Road
 Ankeny, IA 50023
 
 
@@ -165,6 +177,12 @@ Ankeny, IA 50021
 Mill Pond Independent Living Addition
 Image Unavailable
 1201 SE Mill Pond Court
+Ankeny, IA 50021
+
+
+Mrs. Clarks 2025 West Food Facility
+Image Unavailable
+740 SE Dalbey Drive
 Ankeny, IA 50021
 
 
@@ -189,6 +207,12 @@ Ankeny, IA 50021
 Northview Lot 5
 Image Unavailable
 245 NW 18th Street
+Ankeny, IA 50023
+
+
+Old Dominion Relay Lot
+Image Unavailable
+SE Corporate Woods & SE Four Mile
 Ankeny, IA 50023
 
 
@@ -222,16 +246,10 @@ Image Unavailable
 Ankeny, IA 50023
 
 
-Rally Sports Complex
+Raptor Properties
 Image Unavailable
-725 SW Prairie Trail Parkway
-Ankeny, IA 50023
-
-
-Roseann Lofts
-Image Unavailable
-1630 SW Magazine Road
-Ankeny, IA 50023
+3219 SE 36th St
+Ankeny, IA 50021
 
 
 Siena Hills Apartments
@@ -328,3 +346,5 @@ Copyright Notices
 Privacy Policy
  Government Websites by CivicPlus®
 
+PageAssist
+PageAssist Personalization Options
