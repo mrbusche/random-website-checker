@@ -9,12 +9,12 @@ describe('check kirkendall', () => {
 
     it('checks new books', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-        cy.get('.new-releases__link a').first().should('have.text', "Here are the seeds");
+        cy.get('.new-releases__link a').first().should('have.text', "The girls who grew big");
     })
 
     it('checks new videos', () => {
         cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-        cy.get('.new-releases__link a').first().should('have.text', "A Minecraft movie");
+        cy.get('.new-releases__link a').first().should('have.text', "Never say goodbye");
     })
 })
 
@@ -32,7 +32,7 @@ describe('check bridges', () => {
         cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
         cy.get('body').then((body) => {
             if (!body.find('.Results-noResultsHeading').length > 0) {
-                cy.get('.search-text.h1').first().should('contain.text', '71 results');
+                cy.get('.search-text.h1').first().should('contain.text', '70 results');
 
             }
         });
