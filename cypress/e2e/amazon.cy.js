@@ -6,6 +6,6 @@ describe("check book prices", () => {
     cy.get(".g-item-sortable")
       .first()
       .should("have.attr", "data-price")
-      .and("equal", "3.75");
+      .and("equal", "3.99");
   });
 });
