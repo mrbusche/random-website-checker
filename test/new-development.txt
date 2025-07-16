@@ -1,4 +1,8 @@
 Skip to Main Content
+Emergency Alert
+Water Alert
+Lawn Watering Ban: No Residential & Commercial Lawn Watering Until Further Notice
+Read On...
 Home Page
 Residents
 Doing Business
@@ -36,12 +40,6 @@ Image Unavailable
 Ankeny, IA 50023
 
 
-Berwick Estates Plat 1
-Image Unavailable
-Ankeny
-Ankeny, IA 50021
-
-
 Canyon Landing Plat 5
 Image Unavailable
 Ankeny
@@ -75,6 +73,12 @@ Ankeny, IA 50021
 District Flats
 Image Unavailable
 1380 SW District Drive
+Ankeny, IA 50023
+
+
+DMACC Dental
+Image Unavailable
+DMACC Campus
 Ankeny, IA 50023
 
 
@@ -129,6 +133,12 @@ Ankeny, IA 50023
 I-80 Commerce Center
 Image Unavailable
 5312 NE 29th Street
+Ankeny, IA 50021
+
+
+Kimberley Crossing Plat 5
+Image Unavailable
+Ankeny
 Ankeny, IA 50021
 
 
@@ -198,12 +208,6 @@ Image Unavailable
 Ankeny, IA 50021
 
 
-Northgate Plat 7
-Image Unavailable
-Ankeny
-Ankeny, IA 50021
-
-
 Northview Lot 5
 Image Unavailable
 245 NW 18th Street
@@ -248,7 +252,7 @@ Ankeny, IA 50023
 
 Raptor Properties
 Image Unavailable
-3219 SE 36th St
+3219 SE 36th Cir
 Ankeny, IA 50021
 
 
@@ -282,12 +286,6 @@ Image Unavailable
 Ankeny, IA 50023
 
 
-Trestle Ridge Estates Plat 7
-Image Unavailable
-Ankeny
-Ankeny, IA 50023
-
-
 Trestle Ridge Estates Plat 8
 Image Unavailable
 Ankeny
@@ -314,7 +312,7 @@ Projects
 Agendas
 Stay Connected
 Pay my Bill
-Ankeny logo
+ANK_25_1Color_RGB_White_Tag (002)
 
 Facebook
 Twitter
@@ -346,5 +344,3 @@ Copyright Notices
 Privacy Policy
  Government Websites by CivicPlus®
 
-PageAssist
-PageAssist Personalization Options
