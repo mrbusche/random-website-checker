@@ -1,0 +1,17 @@
+name: Skate DSM Class checker
+on:
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '0 23 * * *'
+jobs:
+  cypress-run:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+      - name: skate dsm class checker
+        uses: cypress-io/github-action@v6.10.1
+        with:
+          spec: cypress/e2e/skatedsm.cy.js
