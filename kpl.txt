@@ -1,23 +1,23 @@
 Skip to main content
   Log In
-  Log In
- Menu
-Library Info
-Search
-My Account
-Help
+Large Text
+Library Info 
+Search 
+My Account 
+Help 
 Polaris
 Keyword search: 
 ": ON ORDER"
  
-Search Options 
-1 - 51 of 51
+Search by: 
+Any Field
+Limit by: 
+All formats
+More Search Options
+1 - 54 of 54
 100
- per page
-Sort
-
+ per pageSort 
 Title
-Narrow 
 Blu-Ray
 1.	
 28 Years Later : ON ORDER
@@ -63,8 +63,17 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 6.	
+All of My Heart : Inn Love : ON ORDER
+... All of My Heart : Inn Love : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+7.	
 The Amateur : ON ORDER
 ... The Amateur : ON ORDER ...
 System Availability: 0 (of 0)
@@ -73,15 +82,6 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-7.	
-Ash : ON ORDER
-... Ash : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
 8.	
 Ash : ON ORDER
 ... Ash : ON ORDER ...
@@ -90,8 +90,17 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 9.	
+Ash : ON ORDER
+... Ash : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+10.	
 Ballerinia : from the world of John Wick : ON ORDER
 ... Ballerinia : from the world of John Wick : ON ORDER ...
 System Availability: 0 (of 0)
@@ -100,7 +109,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-10.	
+11.	
 Ballerinia : from the world of John Wick : ON ORDER
 ... Ballerinia : from the world of John Wick : ON ORDER ...
 System Availability: 0 (of 0)
@@ -111,10 +120,10 @@ Add to My List
 Begin again
 DVD
 2014
-11.	
+12.	
 Begin again
 ... OPPL ON - ORDER . ...
-System Availability: 0 (of 1)
+System Availability: 1 (of 1)
 Call Number: DVD Beg
 Summary: British songwriter Gretta is adrift in Manhattan after getting dumped by her philandering rock star boyfriend. While playing at an open mic night at a local bar, she is discovered by struggling music producer Dan. Sensing her songwriting potential, Dan pushes Gretta to sign with him and record an ambitious outdoors album all across the city.
 Availability
@@ -122,7 +131,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-12.	
+13.	
 The black demon : ON ORDER
 ... The black demon : ON ORDER ...
 System Availability: 0 (of 0)
@@ -131,7 +140,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-13.	
+14.	
 Bring her back : ON ORDER
 ... Bring her back : ON ORDER ...
 System Availability: 0 (of 0)
@@ -140,7 +149,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-14.	
+15.	
 Care Bears: Unlock the Magic : ON ORDER
 ... Care Bears: Unlock the Magic : ON ORDER ...
 System Availability: 0 (of 0)
@@ -149,7 +158,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-15.	
+16.	
 Cruising : ON ORDER
 ... Cruising : ON ORDER ...
 System Availability: 0 (of 0)
@@ -160,8 +169,8 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (8158)
-16.	
+rating (8184)
+17.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
 ... Brodart Bibz On - Order Record. ...
@@ -173,15 +182,6 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-17.	
-Fight or flight : ON ORDER
-... Fight or flight : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
 18.	
 Fight or flight : ON ORDER
 ... Fight or flight : ON ORDER ...
@@ -192,6 +192,15 @@ Place Request
 Add to My List  
 DVD
 19.	
+Fight or flight : ON ORDER
+... Fight or flight : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+20.	
 Five More Minutes : Moments Like These : ON ORDER
 ... Five More Minutes : Moments Like These : ON ORDER ...
 System Availability: 0 (of 0)
@@ -200,18 +209,9 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-20.	
+21.	
 Flow : ON ORDER
 ... Flow : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-21.	
-Fuller House season 5 : ON ORDER
-... Fuller House season 5 : ON ORDER ...
 System Availability: 0 (of 0)
 Availability
 Full Display
@@ -334,7 +334,7 @@ Add to My List
 Love and lavender
 Large Print
 2022
-rating (500)
+rating (501)
 34.	
 Love and lavender
 by Kilpack, Josi S., author.
@@ -385,7 +385,7 @@ Add to My List
 The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
-rating (227)
+rating (226)
 39.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
@@ -453,6 +453,15 @@ Place Request
 Add to My List  
 DVD
 46.	
+Scarecrow and Mrs. King season 1 : ON ORDER
+... Scarecrow and Mrs. King season 1 : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+47.	
 The Wedding Veil 6-Movie Collection : ON ORDER
 ... The Wedding Veil 6-Movie Collection : ON ORDER ...
 System Availability: 0 (of 0)
@@ -461,7 +470,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-47.	
+48.	
 Thelma : ON ORDER
 ... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
@@ -470,15 +479,6 @@ Full Display
 Place Request
 Add to My List  
 DVD
-48.	
-Thunderbolts : ON ORDER
-... Thunderbolts : ON ORDER ...
-System Availability: 0 (of 0)
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
 49.	
 Thunderbolts : ON ORDER
 ... Thunderbolts : ON ORDER ...
@@ -489,6 +489,33 @@ Place Request
 Add to My List  
 Blu-Ray
 50.	
+Thunderbolts : ON ORDER
+... Thunderbolts : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+51.	
+Twilight zone season 2 : ON ORDER
+... Twilight zone season 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+52.	
+Warrant : Breaker's Law : ON ORDER
+... Warrant : Breaker's Law : ON ORDER ...
+System Availability: 0 (of 0)
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+53.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -497,7 +524,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-51.	
+54.	
 Woman in the yard : ON ORDER
 ... Woman in the yard : ON ORDER ...
 System Availability: 0 (of 0)
@@ -505,18 +532,18 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 51 of 51
+1 - 54 of 54
 100
  per page
 «<1>»
 Narrow your search
 Available Now at Kirkendall
-Available Now  (4)
+Available Now  (5)
 Type of Material
-Projected Medium  (46)
-Videorecording  (46)
-Visual Materials  (46)
-DVD  (28)
+Projected Medium  (45)
+Videorecording  (45)
+Visual Materials  (45)
+DVD  (27)
 Blu-Ray  (18)
 More>>
 Authors
@@ -558,8 +585,21 @@ Multiple Copy Sets - Adults
 Multiple Copy Sets - YA & Juvenile
 
 Library Info
+Portal
+Web Site
 Search
+Keyword
+Browse
+Phrase
+Advanced
+Boolean
 My Account
+My Profile
+Items Out
+Requests
+Fines & Fees
+My Lists
+Log In / Register
 Help
 Polaris
 Version: 7.7.45123
