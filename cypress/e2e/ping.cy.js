@@ -28,16 +28,6 @@ describe('ping website', () => {
         });
     })
 
-    it(' hits https://isitelectionday.com', () => {
-        cy.visit('https://isitelectionday.com?automated=true');
-        cy.get('h1').first().should('have.text', 'Is it Election Day?');
-        cy.get('#isItTime').should('have.text', 'No.');
-        cy.get('footer').should(($div) => {
-            const text = $div.text().replace(/\s/g, ' ').trim();
-            expect(text).to.eq('Created by Matt Busche');
-        });
-    })
-
     it(' hits Occurrence Counter', () => {
         cy.visit('https://occurrencecounter.netlify.app/?automated=true')
         cy.get('h1').should('have.text', 'Occurrence Counter');
