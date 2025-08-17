@@ -10,6 +10,8 @@ describe('check flight prices', () => {
         const value = parseInt(numbersOnly, 10);
         console.log(`numbersOnly: ${numbersOnly}`);
         console.log(`value: ${value}`);
+        cy.log(`numbersOnly: ${numbersOnly}`);
+        cy.log(`value: ${value}`);
         expect(value).to.be.at.least(3400);
       });
   });
