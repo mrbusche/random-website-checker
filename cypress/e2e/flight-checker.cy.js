@@ -7,11 +7,11 @@ describe('check flight prices', () => {
       .invoke('text')
       .then((text) => {
         const numbersOnly = text.replace(/[^0-9]/g, '');
-        const value = parseInt(numbersOnly, 10);
+        const integerValue = parseInt(numbersOnly, 10);
         console.log(`numbersOnly: ${numbersOnly}`);
-        console.log(`value: ${value}`);
+        console.log(`integerValue: ${integerValue}`);
         cy.log(`numbersOnly: ${numbersOnly}`);
-        cy.log(`value: ${value}`);
+        cy.log(`integerValue: ${integerValue}`);
         expect(integerValue).to.be.greaterThan(5000);
       });
   });
