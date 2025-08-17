@@ -12,7 +12,7 @@ describe('check flight prices', () => {
         console.log(`value: ${value}`);
         cy.log(`numbersOnly: ${numbersOnly}`);
         cy.log(`value: ${value}`);
-        expect(value).to.be.at.least(3400);
+        expect(integerValue).to.be.greaterThan(5000);
       });
   });
 });
