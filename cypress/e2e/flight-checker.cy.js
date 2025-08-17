@@ -8,7 +8,7 @@ describe('check skate clinics', () => {
       .then((text) => {
         const numbersOnly = text.replace(/[^0-9]/g, '');
         const value = parseInt(numbersOnly, 10);
-        expect(value).to.be.at.least(3000);
+        expect(value).to.be.at.least(3400);
       });
   });
 });
