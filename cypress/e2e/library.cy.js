@@ -7,18 +7,18 @@ describe('check kirkendall', () => {
       .eq(1)
       .should(($div) => {
         const text = $div.text().replace(/\s\s+/g, ' ').trim();
-        expect(text).to.eq('1 - 10 of 60');
+        expect(text).to.eq('1 - 10 of 66');
       });
   });
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', 'The elements of baking : making any recipe gluten-free, dairy-free, egg-free or vegan');
+    cy.get('.new-releases__link a').first().should('have.text', 'The extinction of experience : being human in a disembodied world');
   });
 
   it('checks new videos', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    cy.get('.new-releases__link a').first().should('have.text', 'Friendship');
+    cy.get('.new-releases__link a').first().should('have.text', 'Bring her back');
   });
 });
 
@@ -27,7 +27,7 @@ describe('check bridges', () => {
     cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '2 results');
+        cy.get('.search-text.h1').first().should('contain.text', '8 results');
       }
     });
   });
