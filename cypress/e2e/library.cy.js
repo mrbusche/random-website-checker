@@ -7,13 +7,13 @@ describe('check kirkendall', () => {
       .eq(1)
       .should(($div) => {
         const text = $div.text().replace(/\s\s+/g, ' ').trim();
-        expect(text).to.eq('1 - 10 of 57');
+        expect(text).to.eq('1 - 10 of 61');
       });
   });
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', "Frizzy, curly, swirly hair! : a children's book about being unique");
+    cy.get('.new-releases__link a').first().should('have.text', "Terminal velocity");
   });
 
   it('checks new videos', () => {
