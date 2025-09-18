@@ -7,18 +7,18 @@ describe('check kirkendall', () => {
       .eq(1)
       .should(($div) => {
         const text = $div.text().replace(/\s\s+/g, ' ').trim();
-        expect(text).to.eq('1 - 10 of 55');
+        expect(text).to.eq('1 - 10 of 56');
       });
   });
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', "Lunar New Year!");
+    cy.get('.new-releases__link a').first().should('have.text', "Crochet your celebrity crush : stitch your very own amigurumi heartthrobs, hunks, and hotties");
   });
 
   it('checks new videos', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    cy.get('.new-releases__link a').first().should('have.text', "Ballerina");
+    cy.get('.new-releases__link a').first().should('have.text', "My dead friend Zoe");
   });
 });
 
@@ -27,7 +27,7 @@ describe('check bridges', () => {
     cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '30 results');
+        cy.get('.search-text.h1').first().should('contain.text', '35 results');
       }
     });
   });
@@ -47,7 +47,7 @@ describe('check bridges', () => {
     );
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '46 results');
+        cy.get('.search-text.h1').first().should('contain.text', '7 results');
       }
     });
   });
