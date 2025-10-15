@@ -14,7 +14,7 @@ Any Field
 Limit by: 
 All formats
 More Search Options
-1 - 64 of 64
+1 - 66 of 66
 100
  per pageSort 
 Title
@@ -144,7 +144,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (8675)
+rating (8680)
 13.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -391,11 +391,31 @@ Availability
 Full Display
 Place Request
 Add to My List  
+Blu-Ray
+37.	
+The long walk : ON ORDER
+... The long walk : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+38.	
+The long walk : ON ORDER
+... The long walk : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
 Love and lavender
 Large Print
 2022
 rating (508)
-37.	
+39.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -407,7 +427,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-38.	
+40.	
 The man from Toronto : ON ORDER
 ... The man from Toronto : ON ORDER ...
 System Availability: 0 (of 0)
@@ -417,7 +437,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-39.	
+41.	
 May December : ON ORDER
 ... May December : ON ORDER ...
 System Availability: 0 (of 0)
@@ -430,7 +450,7 @@ The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
 rating (230)
-40.	
+42.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -442,7 +462,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-41.	
+43.	
 Mission: Impossible the final reckoning : ON ORDER
 ... Mission: Impossible the final reckoning : ON ORDER ...
 System Availability: 0 (of 0)
@@ -452,7 +472,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-42.	
+44.	
 Mission: Impossible the final reckoning : ON ORDER
 ... Mission: Impossible the final reckoning : ON ORDER ...
 System Availability: 0 (of 0)
@@ -462,7 +482,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-43.	
+45.	
 Mountain Top : ON ORDER
 ... Mountain Top : ON ORDER ...
 System Availability: 0 (of 0)
@@ -472,7 +492,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-44.	
+46.	
 The naked gun : ON ORDER
 ... The naked gun : ON ORDER ...
 System Availability: 0 (of 0)
@@ -482,7 +502,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-45.	
+47.	
 The naked gun : ON ORDER
 ... The naked gun : ON ORDER ...
 System Availability: 0 (of 0)
@@ -492,7 +512,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-46.	
+48.	
 Opus : ON ORDER
 ... Opus : ON ORDER ...
 System Availability: 0 (of 0)
@@ -502,7 +522,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-47.	
+49.	
 Perfect days : ON ORDER
 ... Perfect days : ON ORDER ...
 System Availability: 0 (of 0)
@@ -512,7 +532,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-48.	
+50.	
 Roofman : ON ORDER
 ... Roofman : ON ORDER ...
 System Availability: 0 (of 0)
@@ -522,7 +542,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-49.	
+51.	
 Roofman : ON ORDER
 ... Roofman : ON ORDER ...
 System Availability: 0 (of 0)
@@ -532,7 +552,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-50.	
+52.	
 Roux the day a Gourmet detective mystery : ON ORDER
 ... Roux the day a Gourmet detective mystery : ON ORDER ...
 System Availability: 0 (of 0)
@@ -542,27 +562,27 @@ Full Display
 Place Request
 Add to My List  
 DVD
-51.	
-Sketch : ON ORDER
-... Sketch : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-52.	
-Sketch : ON ORDER
-... Sketch : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
 53.	
+Sketch : ON ORDER
+... Sketch : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+54.	
+Sketch : ON ORDER
+... Sketch : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+55.	
 The Best Christmas Pageant Ever : ON ORDER
 ... The Best Christmas Pageant Ever : ON ORDER ...
 System Availability: 0 (of 0)
@@ -572,7 +592,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-54.	
+56.	
 The Best Christmas Pageant Ever : ON ORDER
 ... The Best Christmas Pageant Ever : ON ORDER ...
 System Availability: 0 (of 0)
@@ -582,7 +602,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-55.	
+57.	
 The Wedding Veil 6-Movie Collection : ON ORDER
 ... The Wedding Veil 6-Movie Collection : ON ORDER ...
 System Availability: 0 (of 0)
@@ -592,7 +612,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-56.	
+58.	
 Thelma : ON ORDER
 ... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
@@ -602,7 +622,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-57.	
+59.	
 Thomas Jefferson : ON ORDER
 ... Thomas Jefferson : ON ORDER ...
 System Availability: 0 (of 0)
@@ -612,7 +632,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-58.	
+60.	
 Together : ON ORDER
 ... Together : ON ORDER ...
 System Availability: 0 (of 0)
@@ -622,7 +642,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-59.	
+61.	
 Together : ON ORDER
 ... Together : ON ORDER ...
 System Availability: 0 (of 0)
@@ -632,7 +652,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-60.	
+62.	
 Toxic avenger : ON ORDER
 ... Toxic avenger : ON ORDER ...
 System Availability: 0 (of 0)
@@ -642,7 +662,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-61.	
+63.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -652,7 +672,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-62.	
+64.	
 Weapons : ON ORDER
 ... Weapons : ON ORDER ...
 System Availability: 0 (of 0)
@@ -662,7 +682,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-63.	
+65.	
 Weapons : ON ORDER
 ... Weapons : ON ORDER ...
 System Availability: 0 (of 0)
@@ -672,7 +692,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-64.	
+66.	
 Woman in the yard : ON ORDER
 ... Woman in the yard : ON ORDER ...
 System Availability: 0 (of 0)
@@ -681,7 +701,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 64 of 64
+1 - 66 of 66
 100
  per page
 «<1>»
@@ -689,11 +709,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (50)
-Videorecording  (50)
-Visual Materials  (50)
-DVD  (31)
-Blu-Ray  (19)
+Projected Medium  (61)
+Videorecording  (61)
+Visual Materials  (61)
+DVD  (39)
+Blu-Ray  (22)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
