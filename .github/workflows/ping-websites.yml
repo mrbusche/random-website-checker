@@ -1,7 +1,7 @@
 name: Ping websites
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 23 * * *'
 jobs:
   cypress-run:
     runs-on: ubuntu-24.04
