@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mrbusche/random-website-checker#readme",
   "devDependencies": {
-    "cypress": "15.4.0"
+    "cypress": "15.5.0"
   }
 }
