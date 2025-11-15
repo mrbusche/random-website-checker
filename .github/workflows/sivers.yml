@@ -3,7 +3,7 @@ on:
   pull_request:
     branches: [main]
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "0 23 * * 0"
 jobs:
   cypress-run:
     runs-on: ubuntu-24.04
