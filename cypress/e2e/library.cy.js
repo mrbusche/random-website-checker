@@ -47,7 +47,7 @@ describe('check bridges', () => {
     );
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '94 results');
+        cy.get('.search-text.h1').first().should('contain.text', '10 results');
       }
     });
   });

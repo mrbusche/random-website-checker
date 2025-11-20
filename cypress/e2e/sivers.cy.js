@@ -4,6 +4,6 @@ describe("check book prices", () => {
     cy.get(".abook")
       .first()
       .should("have.attr", "data-date")
-      .and("equal", "2025-11-05");
+      .and("equal", "2025-11-14");
   });
 });
