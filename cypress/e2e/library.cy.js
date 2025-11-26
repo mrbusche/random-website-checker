@@ -13,12 +13,12 @@ describe('check kirkendall', () => {
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', "Your forest");
+    cy.get('.new-releases__link a').first().should('have.text', "The seven rings");
   });
 
   it('checks new videos', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    cy.get('.new-releases__link a').first().should('have.text', "The naked gun");
+    cy.get('.new-releases__link a').first().should('have.text', "The conjuring. Last rites");
   });
 });
 
@@ -36,7 +36,7 @@ describe('check bridges', () => {
     cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '38 results');
+        cy.get('.search-text.h1').first().should('contain.text', '43 results');
       }
     });
   });
