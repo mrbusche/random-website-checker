@@ -7,7 +7,7 @@ describe('check kirkendall', () => {
       .eq(1)
       .should(($div) => {
         const text = $div.text().replace(/\s\s+/g, ' ').trim();
-        expect(text).to.eq('1 - 10 of 47');
+        expect(text).to.eq('1 - 10 of 50');
       });
   });
 
@@ -27,7 +27,7 @@ describe('check bridges', () => {
     cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '29 results');
+        cy.get('.search-text.h1').first().should('contain.text', '108 results');
       }
     });
   });
@@ -36,18 +36,7 @@ describe('check bridges', () => {
     cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '43 results');
-      }
-    });
-  });
-
-  it('checks for new magazines', () => {
-    cy.visit(
-      'https://bridges.overdrive.com/bridges-kirkendall/magazines/collection/217420?addedDate=days-0-7&sortBy=newlyadded&language=en',
-    );
-    cy.get('body').then((body) => {
-      if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '12 results');
+        cy.get('.search-text.h1').first().should('contain.text', '60 results');
       }
     });
   });
