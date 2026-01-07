@@ -7,13 +7,13 @@ describe('check kirkendall', () => {
       .eq(1)
       .should(($div) => {
         const text = $div.text().replace(/\s\s+/g, ' ').trim();
-        expect(text).to.eq('1 - 10 of 54');
+        expect(text).to.eq('1 - 10 of 52');
       });
   });
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', "In the arena : Theodore Roosevelt in war, peace, and revolution");
+    cy.get('.new-releases__link a').first().should('have.text', "Thunder cake");
   });
 
   it('checks new videos', () => {
