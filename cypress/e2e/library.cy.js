@@ -7,7 +7,7 @@ describe('check kirkendall', () => {
       .eq(1)
       .should(($div) => {
         const text = $div.text().replace(/\s\s+/g, ' ').trim();
-        expect(text).to.eq('1 - 10 of 64');
+        expect(text).to.eq('1 - 10 of 63');
       });
   });
 
