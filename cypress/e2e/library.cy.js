@@ -7,18 +7,18 @@ describe('check kirkendall', () => {
       .eq(1)
       .should(($div) => {
         const text = $div.text().replace(/\s\s+/g, ' ').trim();
-        expect(text).to.eq('1 - 10 of 66');
+        expect(text).to.eq('1 - 10 of 71');
       });
   });
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', "The scheme : how the right wing used dark money to capture the Supreme Court");
+    cy.get('.new-releases__link a').first().should('have.text', "Cross & Sampson");
   });
 
   it('checks new videos', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    cy.get('.new-releases__link a').first().should('have.text', "My Neighbors the Yamadas.");
+    cy.get('.new-releases__link a').first().should('have.text', "Nuremberg");
   });
 });
 
