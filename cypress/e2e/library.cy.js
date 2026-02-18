@@ -13,7 +13,7 @@ describe('check kirkendall', () => {
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', "Troubled waters : a river's journey toward justice");
+    cy.get('.new-releases__link a').first().should('have.text', "The intimate animal : the science of sex, fidelity, and why we live and die for love");
   });
 
   it('checks new videos', () => {
