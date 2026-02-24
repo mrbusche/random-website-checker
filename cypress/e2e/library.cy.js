@@ -13,7 +13,7 @@ describe('check kirkendall', () => {
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', "Baked to perfection : delicious gluten-free recipes with a pinch of science");
+    cy.get('.new-releases__link a').first().should('have.text', "The chosen and the damned : Native Americans and the making of race in the United StatesThe chosen and the damned : Native Americans and the making of race in the United States");
   });
 
   it('checks new videos', () => {
@@ -27,7 +27,7 @@ describe('check bridges', () => {
     cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '56 results');
+        cy.get('.search-text.h1').first().should('contain.text', '7 results');
       }
     });
   });
@@ -36,7 +36,7 @@ describe('check bridges', () => {
     cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '102 results');
+        cy.get('.search-text.h1').first().should('contain.text', '12 results');
       }
     });
   });
