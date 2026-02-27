@@ -13,12 +13,12 @@ describe('check kirkendall', () => {
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', "Eowulf : the creature connection");
+    cy.get('.new-releases__link a').first().should('have.text', "The catastrophic friendship fails of Lottie Brooks");
   });
 
   it('checks new videos', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    cy.get('.new-releases__link a').first().should('have.text', "Silent night, deadly night");
+    cy.get('.new-releases__link a').first().should('have.text', "My little pony. Friendship is magic. Season 1");
   });
 });
 
