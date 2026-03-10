@@ -13,12 +13,12 @@ describe('check kirkendall', () => {
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', "Birdy");
+    cy.get('.new-releases__link a').first().should('have.text', "Pete the Kitty and the beanstalk");
   });
 
   it('checks new videos', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    cy.get('.new-releases__link a').first().should('have.text', "Star trek : Strange new worlds. Season Three");
+    cy.get('.new-releases__link a').first().should('have.text', "Heroes : the complete series");
   });
 });
 
