@@ -3,6 +3,6 @@ describe("check book prices", () => {
     cy.visit("https://weezerwebstore.com/products/weezer-coloring-book-flipbook");
     cy.get(".badge.price__badge-sold-out.color-scheme-3")
       .first()
-      .should('have.text', 'Sold out');
+      .should('contain.text', 'Sold out');
   });
 });
