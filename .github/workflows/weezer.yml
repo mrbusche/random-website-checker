@@ -1,0 +1,17 @@
+name: Weezer book checker
+on:
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "0 23 * * 0"
+jobs:
+  cypress-run:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: weezer book checker
+        uses: cypress-io/github-action@v7
+        with:
+          spec: cypress/e2e/weezer.cy.js
