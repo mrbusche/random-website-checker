@@ -9,13 +9,9 @@ Polaris
 Keyword search: 
 ": ON ORDER"
  
-Search by: 
-Any Field
-Limit by: 
-All formats
-More Search Options
+Search Options 
 Include related words (1 more titles)
-1 - 56 of 56
+1 - 55 of 55
 100
  per pageSort 
 Title
@@ -188,20 +184,30 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 17.	
 Good boy : ON ORDER
 ... Good boy : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+18.	
+Good boy : ON ORDER
+... Good boy : ON ORDER ...
+System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
-18.	
-Good boy : ON ORDER
-... Good boy : ON ORDER ...
+19.	
+Greenland 2 : ON ORDER
+... Greenland 2 : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
@@ -209,21 +215,11 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-19.	
-Greenland 2 : ON ORDER
-... Greenland 2 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
 20.	
 Greenland 2 : ON ORDER
 ... Greenland 2 : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
@@ -258,22 +254,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 24.	
 The Housemaid : ON ORDER
 ... The Housemaid : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 25.	
 The Housemaid : ON ORDER
 ... The Housemaid : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -299,20 +295,30 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 28.	
 IT: Welcome to Derry Season 1 : ON ORDER
 ... IT: Welcome to Derry Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+29.	
+IT: Welcome to Derry Season 1 : ON ORDER
+... IT: Welcome to Derry Season 1 : ON ORDER ...
+System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
-29.	
-IT: Welcome to Derry Season 1 : ON ORDER
-... IT: Welcome to Derry Season 1 : ON ORDER ...
+30.	
+Killers of the Flower Moon : ON ORDER
+... Killers of the Flower Moon : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
@@ -320,21 +326,11 @@ Full Display
 Place Request
 Add to My List  
 DVD
-30.	
-Killers of the Flower Moon : ON ORDER
-... Killers of the Flower Moon : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
 31.	
 Killers of the Flower Moon : ON ORDER
 ... Killers of the Flower Moon : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -437,22 +433,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 41.	
 Mercy : ON ORDER
 ... Mercy : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 42.	
 Mercy : ON ORDER
 ... Mercy : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -592,17 +588,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
-56.	
-Young Man with Ideas : ON ORDER
-... Young Man with Ideas : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-1 - 56 of 56
+1 - 55 of 55
 100
  per page
 «<1>»
@@ -610,11 +596,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (44)
-Videorecording  (44)
-Visual Materials  (44)
-DVD  (27)
-Blu-Ray  (17)
+Projected Medium  (50)
+Videorecording  (50)
+Visual Materials  (50)
+DVD  (30)
+Blu-Ray  (20)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
