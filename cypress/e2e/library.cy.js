@@ -7,18 +7,18 @@ describe('check kirkendall', () => {
       .eq(1)
       .should(($div) => {
         const text = $div.text().replace(/\s\s+/g, ' ').trim();
-        expect(text).to.eq('1 - 10 of 55');
+        expect(text).to.eq('1 - 10 of 57');
       });
   });
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', "Son of the demon");
+    cy.get('.new-releases__link a').first().should('have.text', "A bear, a man, and a donut van");
   });
 
   it('checks new videos', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    cy.get('.new-releases__link a').first().should('have.text', "Young man with ideas");
+    cy.get('.new-releases__link a').first().should('have.text', "Anaconda");
   });
 });
 
@@ -27,7 +27,7 @@ describe('check bridges', () => {
     cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '5 results');
+        cy.get('.search-text.h1').first().should('contain.text', '28 results');
       }
     });
   });
@@ -36,7 +36,7 @@ describe('check bridges', () => {
     cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '6 results');
+        cy.get('.search-text.h1').first().should('contain.text', '46 results');
       }
     });
   });
