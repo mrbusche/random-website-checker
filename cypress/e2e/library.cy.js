@@ -7,18 +7,18 @@ describe('check kirkendall', () => {
       .eq(1)
       .should(($div) => {
         const text = $div.text().replace(/\s\s+/g, ' ').trim();
-        expect(text).to.eq('1 - 10 of 56');
+        expect(text).to.eq('1 - 10 of 49');
       });
   });
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', "Snacking cakes : simple treats for anytime cravings");
+    cy.get('.new-releases__link a').first().should('have.text', "I am here");
   });
 
   it('checks new videos', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    cy.get('.new-releases__link a').first().should('have.text', "The history of sound");
+    cy.get('.new-releases__link a').first().should('have.text', "Gimme a break! : the complete series");
   });
 });
 
@@ -27,7 +27,7 @@ describe('check bridges', () => {
     cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37479?addedDate=days-0-7');
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '83 results');
+        cy.get('.search-text.h1').first().should('contain.text', '81 results');
       }
     });
   });
@@ -36,7 +36,7 @@ describe('check bridges', () => {
     cy.visit('https://bridges.overdrive.com/bridges-kirkendall/content/collection/37473?addedDate=days-0-7');
     cy.get('body').then((body) => {
       if (!body.find('.Results-noResultsHeading').length > 0) {
-        cy.get('.search-text.h1').first().should('contain.text', '70 results');
+        cy.get('.search-text.h1').first().should('contain.text', '66 results');
       }
     });
   });
