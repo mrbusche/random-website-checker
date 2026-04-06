@@ -29,7 +29,7 @@ describe('ping website', () => {
     })
 
     it(' hits Occurrence Counter', () => {
-        cy.visit('https://occurrencecounter.netlify.app/?automated=true')
+        cy.visit('https://mrbusche.com/occurrence-counter/?automated=true')
         cy.get('h1').should('have.text', 'Occurrence Counter');
         cy.get('h5').should('have.text', 'Supports return, pipe, or comma delimited lists');
         cy.get('label').eq(1).should(($div) => {
@@ -39,7 +39,7 @@ describe('ping website', () => {
     })
 
     it(' hits Random Order Generator', () => {
-        cy.visit('https://randomordergenerator.netlify.app/?automated=true')
+        cy.visit('https://mrbusche.com/random-order-generator/?automated=true')
         cy.get('h1').first().should('have.text', 'Paste a list to generate a random order');
         cy.get('footer').should(($div) => {
             const text = $div.text().replace(/\s/g, ' ').trim();
