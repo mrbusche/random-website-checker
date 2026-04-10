@@ -1,9 +1,10 @@
 describe("check book prices", () => {
   it("checks for first book", () => {
     cy.visit("https://sive.rs/book?sort=date");
-    cy.get(".abook")
+    cy.get("#booklist li")
       .first()
-      .should("have.attr", "data-date")
+      .find("time")
+      .should("have.attr", "datetime")
       .and("equal", "2026-03-03");
   });
 });
