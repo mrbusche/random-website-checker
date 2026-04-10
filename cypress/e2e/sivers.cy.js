@@ -1,6 +1,7 @@
 describe("check book prices", () => {
   it("checks for first book", () => {
-    cy.visit("https://sive.rs/book?sort=date");
+    cy.visit("https://sive.rs/book");
+    cy.contains('a[data-sort="date"]', "newest").click();
     cy.get("#booklist li")
       .first()
       .find("time")
