@@ -7,13 +7,13 @@ describe('check kirkendall', () => {
       .eq(1)
       .should(($div) => {
         const text = $div.text().replace(/\s\s+/g, ' ').trim();
-        expect(text).to.eq('1 - 10 of 60');
+        expect(text).to.eq('1 - 10 of 63');
       });
   });
 
   it('checks new books', () => {
     cy.visit('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    cy.get('.new-releases__link a').first().should('have.text', "In trees : an exploration");
+    cy.get('.new-releases__link a').first().should('have.text', "Mad Mabel");
   });
 
   it('checks new videos', () => {
