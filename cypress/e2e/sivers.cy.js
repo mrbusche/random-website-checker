@@ -6,6 +6,6 @@ describe("check book prices", () => {
       .first()
       .find("time")
       .should("have.attr", "datetime")
-      .and("equal", "2026-03-03");
+      .and("equal", "2026-04-20");
   });
 });
