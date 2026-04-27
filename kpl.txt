@@ -15,7 +15,7 @@ Limit by:
 All formats
 More Search Options
 Include related words (1 more titles)
-1 - 51 of 51
+1 - 52 of 52
 100
  per pageSort 
 Title
@@ -145,7 +145,7 @@ Add to My List
 A day of fallen night
 Book
 2023
-rating (9458)
+4.5/5 stars (9474)
 13.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -289,20 +289,30 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 27.	
 IT: Welcome to Derry Season 1 : ON ORDER
 ... IT: Welcome to Derry Season 1 : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+28.	
+IT: Welcome to Derry Season 1 : ON ORDER
+... IT: Welcome to Derry Season 1 : ON ORDER ...
+System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
-28.	
-IT: Welcome to Derry Season 1 : ON ORDER
-... IT: Welcome to Derry Season 1 : ON ORDER ...
+29.	
+A Knight of the Seven Kingdoms : The Complete First Season : ON ORDER
+... A Knight of the Seven Kingdoms : The Complete First Season : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
@@ -310,21 +320,11 @@ Full Display
 Place Request
 Add to My List  
 DVD
-29.	
-A Knight of the Seven Kingdoms : The Complete First Season : ON ORDER
-... A Knight of the Seven Kingdoms : The Complete First Season : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
 30.	
 A Knight of the Seven Kingdoms : The Complete First Season : ON ORDER
 ... A Knight of the Seven Kingdoms : The Complete First Season : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -345,7 +345,7 @@ DVD
 32.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
-System Availability: 0 (of 1)
+System Availability: 1 (of 1)
 Call Number: DVD Lit Season 1
 Summary: The first four episodes of the television series. As a young girl, she was the feisty heroine of the classic story, Little Women. Now Jo March is happily married and overseeing Plumfield, a boarding school for boys in rural Massachusetts. Suddenly she finds herself a woman alone scrambling to keep her dream alive. Will her irrepressable spirit be enough to sustain her?
 Availability
@@ -365,7 +365,7 @@ Add to My List
 Love and lavender
 Large Print
 2022
-rating (513)
+4/5 stars (514)
 34.	
 Love and lavender
 by Kilpack, Josi S., author.
@@ -400,7 +400,7 @@ Add to My List
 The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
-rating (247)
+4/5 stars (247)
 37.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
@@ -452,20 +452,30 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 42.	
 Scream 7 : ON ORDER
 ... Scream 7 : ON ORDER ...
 System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+43.	
+Scream 7 : ON ORDER
+... Scream 7 : ON ORDER ...
+System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
-43.	
-Scream 7 : ON ORDER
-... Scream 7 : ON ORDER ...
+44.	
+Solo Mio : ON ORDER
+... Solo Mio : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
@@ -473,27 +483,27 @@ Full Display
 Place Request
 Add to My List  
 DVD
-44.	
-Solo Mio : ON ORDER
-... Solo Mio : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
 45.	
 Solo Mio : ON ORDER
 ... Solo Mio : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 DVD
 46.	
+Song sung blue 2008 : ON ORDER
+... Song sung blue 2008 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+47.	
 The Wedding Veil 6-Movie Collection : ON ORDER
 ... The Wedding Veil 6-Movie Collection : ON ORDER ...
 System Availability: 0 (of 0)
@@ -503,7 +513,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-47.	
+48.	
 Thelma : ON ORDER
 ... Thelma : ON ORDER ...
 System Availability: 0 (of 0)
@@ -513,7 +523,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-48.	
+49.	
 The watchers : ON ORDER
 ... The watchers : ON ORDER ...
 System Availability: 0 (of 0)
@@ -523,7 +533,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-49.	
+50.	
 Woman in the yard : ON ORDER
 ... Woman in the yard : ON ORDER ...
 System Availability: 0 (of 0)
@@ -533,7 +543,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-50.	
+51.	
 Wuthering heights : ON ORDER
 ... Wuthering heights : ON ORDER ...
 System Availability: 0 (of 0)
@@ -543,7 +553,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-51.	
+52.	
 Wuthering heights : ON ORDER
 ... Wuthering heights : ON ORDER ...
 System Availability: 0 (of 0)
@@ -552,18 +562,18 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 51 of 51
+1 - 52 of 52
 100
  per page
 «<1>»
 Narrow your search
 Available Now at Kirkendall
-Available Now  (4)
+Available Now  (5)
 Type of Material
-Projected Medium  (46)
-Videorecording  (46)
-Visual Materials  (46)
-DVD  (28)
+Projected Medium  (47)
+Videorecording  (47)
+Visual Materials  (47)
+DVD  (29)
 Blu-Ray  (18)
 More>>
 Authors
@@ -624,8 +634,8 @@ My Lists
 Log In / Register
 Help
 Polaris
-Version: 7.7.45123
-© 2025 Clarivate
+Version: 8.0.65533.3
+© 2026 Clarivate
 
 
 Classic Mobile Site
