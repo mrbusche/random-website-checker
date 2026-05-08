@@ -10,9 +10,8 @@ describe("check book prices", () => {
       }
     });
 
-    cy.get(".g-item-sortable")
+    cy.get("span.a-offscreen")
       .first()
-      .should("have.attr", "data-price")
-      .and("equal", "4.65");
+      .should("have.text", "$4.65");
   });
 });
