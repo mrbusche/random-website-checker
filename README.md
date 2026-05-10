@@ -1,13 +1,29 @@
 # random url change checker
 
-Monitors [Ankeny New Development](https://www.ankenyiowa.gov/our-city/maps/new-development) for new projects
+Playwright test suite for checking a set of websites for expected content and availability.
 
-Monitors [ESPN Dynasty Rankings](https://www.espn.com/fantasy/football/story/_/id/15698900/mike-clay-top-240-dynasty-fantasy-football-rankings-nfl) for changes
+## Run tests
 
-Checks for new AdoptOpenJDK 8 and 11 versions
+Install dependencies:
 
-Checks for new RHEL 7 and RHEL 7 Minimal versions
+```bash
+npm install
+```
 
-Checks for new maven versions
+Run all tests headless:
 
-Checks for new CentOS 7 versions
+```bash
+npm test
+```
+
+Run with a visible browser:
+
+```bash
+npm run test:headed
+```
+
+Open Playwright UI mode:
+
+```bash
+npm run test:ui
+```

@@ -4,7 +4,9 @@
   "description": "random-website-checker",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/mrbusche/random-website-checker#readme",
   "devDependencies": {
-    "cypress": "15.14.2"
+    "@playwright/test": "^1.59.1",
+    "@types/node": "25.6.2"
   }
 }
