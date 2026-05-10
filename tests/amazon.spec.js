@@ -10,5 +10,5 @@ test('checks for first book', async ({ page }) => {
         await signInButton.click({ force: true });
     }
 
-    await expect(page.locator('span.a-offscreen').first()).toHaveText('$4.65');
+    await expect(await page.locator('span.a-offscreen').first()).toHaveText('$4.65');
 });
