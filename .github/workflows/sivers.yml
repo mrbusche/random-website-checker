@@ -3,15 +3,22 @@ on:
   pull_request:
     branches: [main]
   schedule:
-    - cron: "0 23 * * 0"
+    - cron: '0 23 * * 0'
 jobs:
-  cypress-run:
+  playwright-run:
     runs-on: ubuntu-24.04
     timeout-minutes: 5
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-      - name: sivers book checker
-        uses: cypress-io/github-action@v7
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          spec: cypress/e2e/sivers.cy.js
+          node-version-file: .nvmrc
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+      - name: Sivers book checker
+        run: npx playwright test tests/sivers.spec.js
