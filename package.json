@@ -16,6 +16,7 @@
   "scripts": {
     "fmt": "oxfmt .",
     "lint": "oxlint .",
+    "postinstall": "npx playwright install chromium",
     "test": "playwright test",
     "test:headed": "playwright test --headed",
     "test:ui": "playwright test --ui"
