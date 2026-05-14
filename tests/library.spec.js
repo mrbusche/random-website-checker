@@ -7,17 +7,17 @@ test.describe('check kirkendall', () => {
     );
 
     const text = await page.locator('.c-results-utility-result-count').nth(1).innerText();
-    expect(text.replace(/\s\s+/g, ' ').trim()).toBe('1 - 10 of 48');
+    expect(text.replace(/\s\s+/g, ' ').trim()).toBe('1 - 10 of 52');
   });
 
   test('checks new books', async ({ page }) => {
     await page.goto('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=26');
-    await expect(page.locator('.new-releases__link a').first()).toHaveText('The sun thief');
+    await expect(page.locator('.new-releases__link a').first()).toHaveText('Home no matter where');
   });
 
   test('checks new videos', async ({ page }) => {
     await page.goto('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    await expect(page.locator('.new-releases__link a').first()).toHaveText('Solo mio');
+    await expect(page.locator('.new-releases__link a').first()).toHaveText('Top Gun');
   });
 });
 
@@ -36,7 +36,7 @@ test.describe('check bridges', () => {
 
     const hasNoResults = (await page.locator('.Results-noResultsHeading').count()) > 0;
     if (!hasNoResults) {
-      await expect(page.locator('.search-text.h1').first()).toContainText('8 results');
+      await expect(page.locator('.search-text.h1').first()).toContainText('23 results');
     }
   });
 });
