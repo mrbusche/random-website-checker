@@ -24,6 +24,6 @@
     "@playwright/test": "^1.59.1",
     "@types/node": "25.8.0",
     "oxfmt": "0.50.0",
-    "oxlint": "1.64.0"
+    "oxlint": "1.65.0"
   }
 }
