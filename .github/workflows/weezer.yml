@@ -1,9 +1,9 @@
 name: Weezer book checker
-on:
-  pull_request:
-    branches: [main]
-  schedule:
-    - cron: '0 23 * * 0'
+# on:
+#   pull_request:
+#     branches: [main]
+#   schedule:
+#     - cron: '0 23 * * 0'
 jobs:
   playwright-run:
     runs-on: ubuntu-24.04

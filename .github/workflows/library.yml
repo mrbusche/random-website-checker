@@ -1,7 +1,7 @@
 name: Library checker
-on:
-  pull_request:
-    branches: [main]
+# on:
+  # pull_request:
+  #   branches: [main]
 jobs:
   playwright-run:
     runs-on: ubuntu-24.04

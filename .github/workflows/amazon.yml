@@ -6,7 +6,7 @@ on:
     - cron: '0 12-23 * * *'
 jobs:
   playwright-run:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
       - name: Checkout
