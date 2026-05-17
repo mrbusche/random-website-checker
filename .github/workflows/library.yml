@@ -4,8 +4,8 @@ on:
     branches: [main]
 jobs:
   playwright-run:
-    runs-on: ubuntu-24.04
-    timeout-minutes: 5
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
     steps:
       - name: Checkout
         uses: actions/checkout@v6
