@@ -22,8 +22,8 @@
   },
   "devDependencies": {
     "@playwright/test": "1.60.0",
-    "@types/node": "25.8.0",
-    "oxfmt": "0.50.0",
-    "oxlint": "1.65.0"
+    "@types/node": "25.9.1",
+    "oxfmt": "0.51.0",
+    "oxlint": "1.66.0"
   }
 }
