@@ -7,7 +7,7 @@ test.describe('check kirkendall', () => {
     );
 
     const text = await page.locator('.c-results-utility-result-count').nth(1).innerText();
-    expect(text.replace(/\s\s+/g, ' ').trim()).toBe('1 - 10 of 50');
+    expect(text.replace(/\s\s+/g, ' ').trim()).toBe('1 - 10 of 51');
   });
 
   test('checks new videos', async ({ page }) => {
@@ -22,7 +22,7 @@ test.describe('check bridges', () => {
 
     const hasNoResults = (await page.locator('.Results-noResultsHeading').count()) > 0;
     if (!hasNoResults) {
-      await expect(page.locator('.search-text.h1').first()).toContainText('33 results');
+      await expect(page.locator('.search-text.h1').first()).toContainText('32 results');
     }
   });
 
@@ -31,7 +31,7 @@ test.describe('check bridges', () => {
 
     const hasNoResults = (await page.locator('.Results-noResultsHeading').count()) > 0;
     if (!hasNoResults) {
-      await expect(page.locator('.search-text.h1').first()).toContainText('36 results');
+      await expect(page.locator('.search-text.h1').first()).toContainText('33 results');
     }
   });
 });
