@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@playwright/test": "1.60.0",
-    "@types/node": "25.9.3",
+    "@types/node": "26.0.0",
     "oxfmt": "0.54.0",
     "oxlint": "1.69.0"
   }
