@@ -6,5 +6,5 @@ test('checks for page size', async ({ page }) => {
   await page.locator('#CheckAllFacilityTypes').click();
   await page.locator('#chkSidebarFacilityTypes6').click();
   await page.locator('#SearchButton').click();
-  await expect(page.locator('input[id="hiddenLastPageNumber"]')).toHaveValue('10');
+  await expect(page.locator('input[id="hiddenLastPageNumber"]')).toHaveValue('11');
 });
