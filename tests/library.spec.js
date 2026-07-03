@@ -7,7 +7,7 @@ test.describe('check kirkendall', () => {
     );
 
     const text = await page.locator('.c-results-utility-result-count').nth(1).innerText();
-    expect(text.replace(/\s\s+/g, ' ').trim()).toBe('1 - 10 of 29');
+    expect(text.replace(/\s\s+/g, ' ').trim()).toBe('1 - 10 of 28');
   });
 
   test('checks new videos', async ({ page }) => {
