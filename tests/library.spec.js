@@ -12,7 +12,7 @@ test.describe('check kirkendall', () => {
 
   test('checks new videos', async ({ page }) => {
     await page.goto('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    await expect(page.locator('.new-releases__link a').first()).toHaveText('Michael');
+    await expect(page.locator('.new-releases__link a').first()).toHaveText('Murdoch mysteries. Season 19');
   });
 });
 
@@ -31,7 +31,7 @@ test.describe('check bridges', () => {
 
     const hasNoResults = (await page.locator('.Results-noResultsHeading').count()) > 0;
     if (!hasNoResults) {
-      await expect(page.locator('.search-text.h1').first()).toContainText('19 results');
+      await expect(page.locator('.search-text.h1').first()).toContainText('20 results');
     }
   });
 });
