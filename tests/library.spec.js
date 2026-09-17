@@ -12,7 +12,7 @@ test.describe('check kirkendall', () => {
 
   test('checks new videos', async ({ page }) => {
     await page.goto('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    await expect(page.locator('.new-releases__link a').first()).toHaveText('Minions & monsters');
+    await expect(page.locator('.new-releases__link a').first()).toHaveText('Stop! that! train!');
   });
 });
 
@@ -22,7 +22,7 @@ test.describe('check bridges', () => {
 
     const hasNoResults = (await page.locator('.Results-noResultsHeading').count()) > 0;
     if (!hasNoResults) {
-      await expect(page.locator('.search-text.h1').first()).toContainText('6 results');
+      await expect(page.locator('.search-text.h1').first()).toContainText('5 results');
     }
   });
 
@@ -31,7 +31,7 @@ test.describe('check bridges', () => {
 
     const hasNoResults = (await page.locator('.Results-noResultsHeading').count()) > 0;
     if (!hasNoResults) {
-      await expect(page.locator('.search-text.h1').first()).toContainText('19 results');
+      await expect(page.locator('.search-text.h1').first()).toContainText('26 results');
     }
   });
 });
