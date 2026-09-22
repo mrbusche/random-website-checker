@@ -15,7 +15,7 @@ Limit by:
 All formats
 More Search Options
 Include related words (1 more titles)
-1 - 37 of 37
+1 - 50 of 50
 100
  per pageSort 
 Title
@@ -42,11 +42,31 @@ Availability
 Full Display
 Place Request
 Add to My List  
+Blu-Ray
+3.	
+Coyote vs. ACME : ON ORDER
+... Coyote vs. ACME : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+4.	
+Coyote vs. ACME : ON ORDER
+... Coyote vs. ACME : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
 A day of fallen night
 Book
 2023
-4.5/5 stars (10034)
-3.	
+4.5/5 stars (10047)
+5.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
 ... Brodart Bibz On - Order Record. ...
@@ -57,30 +77,10 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
-4.	
-Dutton ranch : ON ORDER
-... Dutton ranch : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-5.	
-Dutton ranch : ON ORDER
-... Dutton ranch : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
 DVD
 6.	
-Evil Dead Burn : ON ORDER
-... Evil Dead Burn : ON ORDER ...
+Dutton ranch : ON ORDER
+... Dutton ranch : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
@@ -89,6 +89,46 @@ Place Request
 Add to My List  
 Blu-Ray
 7.	
+Dutton ranch : ON ORDER
+... Dutton ranch : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+8.	
+The end of oak street : ON ORDER
+... The end of oak street : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+9.	
+The end of oak street : ON ORDER
+... The end of oak street : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+10.	
+Evil Dead Burn : ON ORDER
+... Evil Dead Burn : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+11.	
 Evil Dead Burn : ON ORDER
 ... Evil Dead Burn : ON ORDER ...
 System Availability: 0 (of 0)
@@ -98,7 +138,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-8.	
+12.	
 Faces of death : ON ORDER
 ... Faces of death : ON ORDER ...
 System Availability: 0 (of 0)
@@ -108,7 +148,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-9.	
+13.	
 Faces of death : ON ORDER
 ... Faces of death : ON ORDER ...
 System Availability: 0 (of 0)
@@ -118,7 +158,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-10.	
+14.	
 Finding Emily : ON ORDER
 ... Finding Emily : ON ORDER ...
 System Availability: 0 (of 0)
@@ -128,7 +168,7 @@ Full Display
 Place Request
 Add to My List  
 Book
-11.	
+15.	
 Insight : case files from the psychic world.
 by Browne, Sylvia
 ... On order . ...
@@ -139,7 +179,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-12.	
+16.	
 House of David Season 2 : ON ORDER
 ... House of David Season 2 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -149,7 +189,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-13.	
+17.	
 I love boosters : ON ORDER
 ... I love boosters : ON ORDER ...
 System Availability: 0 (of 0)
@@ -159,7 +199,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-14.	
+18.	
 I love boosters : ON ORDER
 ... I love boosters : ON ORDER ...
 System Availability: 0 (of 0)
@@ -169,7 +209,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-15.	
+19.	
 Ice cream man : ON ORDER
 ... Ice cream man : ON ORDER ...
 System Availability: 0 (of 0)
@@ -179,7 +219,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-16.	
+20.	
 Ice cream man : ON ORDER
 ... Ice cream man : ON ORDER ...
 System Availability: 0 (of 0)
@@ -189,7 +229,7 @@ Full Display
 Place Request
 Add to My List  
 Book
-17.	
+21.	
 Running with scissors : a memoir.
 by Burroughs, Augusten
 ... On order . ...
@@ -199,10 +239,40 @@ Availability
 Full Display
 Place Request
 Add to My List  
+DVD
+22.	
+Keeping the promise : ON ORDER
+... Keeping the promise : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+23.	
+Landman Season 2 : ON ORDER
+... Landman Season 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+24.	
+Landman Season 2 : ON ORDER
+... Landman Season 2 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
 Little Men : Season 1
 DVD
 2002
-18.	
+25.	
 Little Men : Season 1
 ... Set number assigned based on order of episodes shown on television. ...
 System Availability: 1 (of 1)
@@ -215,8 +285,8 @@ Add to My List
 Love and lavender
 Large Print
 2022
-4/5 stars (524)
-19.	
+4/5 stars (525)
+26.	
 Love and lavender
 by Kilpack, Josi S., author.
 ... her options. Duncan Penhale has a brilliant mind and thrives on order and process. He does not expect to marry because he likes his ...
@@ -227,18 +297,8 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
-20.	
-The Madison : ON ORDER
-... The Madison : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
 Blu-Ray
-21.	
+27.	
 The Madison : ON ORDER
 ... The Madison : ON ORDER ...
 System Availability: 0 (of 0)
@@ -247,11 +307,21 @@ Availability
 Full Display
 Place Request
 Add to My List  
+DVD
+28.	
+The Madison : ON ORDER
+... The Madison : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
 The ministry of truth : the biography of George Orwell's 1984
 Book
 2019
 4/5 stars (255)
-22.	
+29.	
 The ministry of truth : the biography of George Orwell's 1984
 by Lynskey, Dorian, author.
 ... Brodart Bibz on - order record. ...
@@ -263,7 +333,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-23.	
+30.	
 Moana (2026) : ON ORDER
 ... Moana (2026) : ON ORDER ...
 System Availability: 0 (of 0)
@@ -273,7 +343,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-24.	
+31.	
 Moana (2026) : ON ORDER
 ... Moana (2026) : ON ORDER ...
 System Availability: 0 (of 0)
@@ -283,7 +353,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-25.	
+32.	
 The morning show season 3 : ON ORDER
 ... The morning show season 3 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -293,7 +363,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-26.	
+33.	
 One night only : ON ORDER
 ... One night only : ON ORDER ...
 System Availability: 0 (of 0)
@@ -303,79 +373,9 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-27.	
-Outlander season 8 : ON ORDER
-... Outlander season 8 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-28.	
-Outlander season 8 : ON ORDER
-... Outlander season 8 : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-29.	
-Over your dead body : ON ORDER
-... Over your dead body : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-30.	
-Over your dead body : ON ORDER
-... Over your dead body : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-31.	
-Paw Patrol : The Dino Movie : ON ORDER
-... Paw Patrol : The Dino Movie : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-32.	
-Paw Patrol : The Dino Movie : ON ORDER
-... Paw Patrol : The Dino Movie : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-33.	
-Scary Movie (2026) : ON ORDER
-... Scary Movie (2026) : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
 34.	
-Scary Movie (2026) : ON ORDER
-... Scary Movie (2026) : ON ORDER ...
+Outlander season 8 : ON ORDER
+... Outlander season 8 : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
 Availability
@@ -384,8 +384,8 @@ Place Request
 Add to My List  
 DVD
 35.	
-Some kind of heaven : ON ORDER
-... Some kind of heaven : ON ORDER ...
+Outlander season 8 : ON ORDER
+... Outlander season 8 : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
@@ -394,8 +394,8 @@ Place Request
 Add to My List  
 DVD
 36.	
-Toy Story 5 : ON ORDER
-... Toy Story 5 : ON ORDER ...
+Over your dead body : ON ORDER
+... Over your dead body : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
@@ -404,6 +404,116 @@ Place Request
 Add to My List  
 Blu-Ray
 37.	
+Over your dead body : ON ORDER
+... Over your dead body : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+38.	
+Paw Patrol : The Dino Movie : ON ORDER
+... Paw Patrol : The Dino Movie : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+39.	
+Paw Patrol : The Dino Movie : ON ORDER
+... Paw Patrol : The Dino Movie : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+40.	
+Scary Movie (2026) : ON ORDER
+... Scary Movie (2026) : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+41.	
+Scary Movie (2026) : ON ORDER
+... Scary Movie (2026) : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+42.	
+Solo Leveling : ON ORDER
+... Solo Leveling : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+43.	
+Solo Leveling season 2 Arise from the Shadow : ON ORDER
+... Solo Leveling season 2 Arise from the Shadow : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+44.	
+Solo Leveling season 2 Arise from the Shadow : ON ORDER
+... Solo Leveling season 2 Arise from the Shadow : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+45.	
+Some kind of heaven : ON ORDER
+... Some kind of heaven : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+46.	
+Spider-man brand new day : ON ORDER
+... Spider-man brand new day : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+47.	
+Spider-man brand new day : ON ORDER
+... Spider-man brand new day : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+48.	
 Toy Story 5 : ON ORDER
 ... Toy Story 5 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -412,7 +522,27 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 37 of 37
+DVD
+49.	
+Toy Story 5 : ON ORDER
+... Toy Story 5 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+50.	
+Yellowjackets season 3 : ON ORDER
+... Yellowjackets season 3 : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+1 - 50 of 50
 100
  per page
 «<1>»
@@ -420,11 +550,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (32)
-Videorecording  (32)
-Visual Materials  (32)
-DVD  (18)
-Blu-Ray  (14)
+Projected Medium  (37)
+Videorecording  (37)
+Visual Materials  (37)
+DVD  (20)
+Blu-Ray  (17)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
