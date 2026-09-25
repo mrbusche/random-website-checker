@@ -12,7 +12,7 @@ test.describe('check kirkendall', () => {
 
   test('checks new videos', async ({ page }) => {
     await page.goto('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    await expect(page.locator('.new-releases__link a').first()).toHaveText('Solo leveling : Season 1');
+    await expect(page.locator('.new-releases__link a').first()).toHaveText('Faces of death');
   });
 });
 
@@ -22,7 +22,7 @@ test.describe('check bridges', () => {
 
     const hasNoResults = (await page.locator('.Results-noResultsHeading').count()) > 0;
     if (!hasNoResults) {
-      await expect(page.locator('.search-text.h1').first()).toContainText('9 results');
+      await expect(page.locator('.search-text.h1').first()).toContainText('60 results');
     }
   });
 
@@ -31,7 +31,7 @@ test.describe('check bridges', () => {
 
     const hasNoResults = (await page.locator('.Results-noResultsHeading').count()) > 0;
     if (!hasNoResults) {
-      await expect(page.locator('.search-text.h1').first()).toContainText('39 results');
+      await expect(page.locator('.search-text.h1').first()).toContainText('68 results');
     }
   });
 });
