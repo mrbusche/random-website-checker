@@ -15,7 +15,7 @@ Limit by:
 All formats
 More Search Options
 Include related words (1 more titles)
-1 - 45 of 45
+1 - 49 of 49
 100
  per pageSort 
 Title
@@ -42,18 +42,8 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
-3.	
-Coyote vs. ACME : ON ORDER
-... Coyote vs. ACME : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
 Blu-Ray
-4.	
+3.	
 Coyote vs. ACME : ON ORDER
 ... Coyote vs. ACME : ON ORDER ...
 System Availability: 0 (of 0)
@@ -62,10 +52,20 @@ Availability
 Full Display
 Place Request
 Add to My List  
+DVD
+4.	
+Coyote vs. ACME : ON ORDER
+... Coyote vs. ACME : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
 A day of fallen night
 Book
 2023
-4.5/5 stars (10076)
+4.5/5 stars (10088)
 5.	
 A day of fallen night
 by Shannon, Samantha, 1991- author.
@@ -77,42 +77,42 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 6.	
 Dutton ranch : ON ORDER
 ... Dutton ranch : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-7.	
-Dutton ranch : ON ORDER
-... Dutton ranch : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-DVD
-8.	
-The end of oak street : ON ORDER
-... The end of oak street : ON ORDER ...
-System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
 Blu-Ray
-9.	
+7.	
+Dutton ranch : ON ORDER
+... Dutton ranch : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+8.	
 The end of oak street : ON ORDER
 ... The end of oak street : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+9.	
+The end of oak street : ON ORDER
+... The end of oak street : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -158,22 +158,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 14.	
 Ice cream man : ON ORDER
 ... Ice cream man : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 15.	
 Ice cream man : ON ORDER
 ... Ice cream man : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -237,22 +237,22 @@ Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 21.	
 The Madison : ON ORDER
 ... The Madison : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
+Call Number: ON ORDER BLU-RAY
 Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 22.	
 The Madison : ON ORDER
 ... The Madison : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
@@ -322,8 +322,28 @@ Availability
 Full Display
 Place Request
 Add to My List  
-Blu-Ray
+DVD
 29.	
+Mutiny : ON ORDER
+... Mutiny : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+30.	
+Mutiny : ON ORDER
+... Mutiny : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+31.	
 One night only : ON ORDER
 ... One night only : ON ORDER ...
 System Availability: 0 (of 0)
@@ -333,37 +353,37 @@ Full Display
 Place Request
 Add to My List  
 DVD
-30.	
-Over your dead body : ON ORDER
-... Over your dead body : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER DVD
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
-31.	
-Over your dead body : ON ORDER
-... Over your dead body : ON ORDER ...
-System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
-Availability
-Full Display
-Place Request
-Add to My List  
-Blu-Ray
 32.	
-Paw Patrol : The Dino Movie : ON ORDER
-... Paw Patrol : The Dino Movie : ON ORDER ...
+Over your dead body : ON ORDER
+... Over your dead body : ON ORDER ...
 System Availability: 0 (of 0)
-Call Number: ON ORDER BLU-RAY
+Call Number: ON ORDER DVD
 Availability
 Full Display
 Place Request
 Add to My List  
-DVD
+Blu-Ray
 33.	
+Over your dead body : ON ORDER
+... Over your dead body : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+34.	
+Paw Patrol : The Dino Movie : ON ORDER
+... Paw Patrol : The Dino Movie : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+35.	
 Paw Patrol : The Dino Movie : ON ORDER
 ... Paw Patrol : The Dino Movie : ON ORDER ...
 System Availability: 0 (of 0)
@@ -373,7 +393,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-34.	
+36.	
 Resident Evil (2026) : ON ORDER
 ... Resident Evil (2026) : ON ORDER ...
 System Availability: 0 (of 0)
@@ -383,7 +403,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-35.	
+37.	
 Resident Evil (2026) : ON ORDER
 ... Resident Evil (2026) : ON ORDER ...
 System Availability: 0 (of 0)
@@ -393,7 +413,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-36.	
+38.	
 Rick and Morty season 9 : ON ORDER
 ... Rick and Morty season 9 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -403,7 +423,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-37.	
+39.	
 Soldier : ON ORDER
 ... Soldier : ON ORDER ...
 System Availability: 0 (of 0)
@@ -413,7 +433,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-38.	
+40.	
 Some kind of heaven : ON ORDER
 ... Some kind of heaven : ON ORDER ...
 System Availability: 0 (of 0)
@@ -423,9 +443,9 @@ Full Display
 Place Request
 Add to My List  
 DVD
-39.	
-Spider-man brand new day : ON ORDER
-... Spider-man brand new day : ON ORDER ...
+41.	
+Spa weekend : ON ORDER
+... Spa weekend : ON ORDER ...
 System Availability: 0 (of 0)
 Call Number: ON ORDER DVD
 Availability
@@ -433,7 +453,17 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-40.	
+42.	
+Spa weekend : ON ORDER
+... Spa weekend : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER BLU-RAY
+Availability
+Full Display
+Place Request
+Add to My List  
+Blu-Ray
+43.	
 Spider-man brand new day : ON ORDER
 ... Spider-man brand new day : ON ORDER ...
 System Availability: 0 (of 0)
@@ -443,7 +473,17 @@ Full Display
 Place Request
 Add to My List  
 DVD
-41.	
+44.	
+Spider-man brand new day : ON ORDER
+... Spider-man brand new day : ON ORDER ...
+System Availability: 0 (of 0)
+Call Number: ON ORDER DVD
+Availability
+Full Display
+Place Request
+Add to My List  
+DVD
+45.	
 Super Troopers 3 : ON ORDER
 ... Super Troopers 3 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -453,7 +493,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-42.	
+46.	
 Super Troopers 3 : ON ORDER
 ... Super Troopers 3 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -463,7 +503,7 @@ Full Display
 Place Request
 Add to My List  
 Blu-Ray
-43.	
+47.	
 The Uprising : ON ORDER
 ... The Uprising : ON ORDER ...
 System Availability: 0 (of 0)
@@ -473,7 +513,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-44.	
+48.	
 The uprising : ON ORDER
 ... The uprising : ON ORDER ...
 System Availability: 0 (of 0)
@@ -483,7 +523,7 @@ Full Display
 Place Request
 Add to My List  
 DVD
-45.	
+49.	
 Yellowjackets season 3 : ON ORDER
 ... Yellowjackets season 3 : ON ORDER ...
 System Availability: 0 (of 0)
@@ -492,7 +532,7 @@ Availability
 Full Display
 Place Request
 Add to My List  
-1 - 45 of 45
+1 - 49 of 49
 100
  per page
 «<1>»
@@ -500,11 +540,11 @@ Narrow your search
 Available Now at Kirkendall
 Available Now  (5)
 Type of Material
-Projected Medium  (36)
-Videorecording  (36)
-Visual Materials  (36)
-DVD  (21)
-Blu-Ray  (15)
+Projected Medium  (44)
+Videorecording  (44)
+Visual Materials  (44)
+DVD  (25)
+Blu-Ray  (19)
 More>>
 Authors
 Anchor Bay Entertainment, Inc.  (1)
