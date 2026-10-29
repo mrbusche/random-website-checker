@@ -7,12 +7,12 @@ test.describe('check kirkendall', () => {
     );
 
     const text = await page.locator('.c-results-utility-result-count').nth(1).innerText();
-    expect(text.replace(/\s\s+/g, ' ').trim()).toBe('1 - 10 of 58');
+    expect(text.replace(/\s\s+/g, ' ').trim()).toBe('1 - 10 of 48');
   });
 
   test('checks new videos', async ({ page }) => {
     await page.goto('https://kplcatalog.ankenyiowa.gov/polaris/Search/newreleases.aspx?ListingTypeID=27');
-    await expect(page.locator('.new-releases__link a').first()).toHaveText('Resident alien. Season four');
+    await expect(page.locator('.new-releases__link a').first()).toHaveText('Sex and the city 2');
   });
 });
 
@@ -22,7 +22,7 @@ test.describe('check bridges', () => {
 
     const hasNoResults = (await page.locator('.Results-noResultsHeading').count()) > 0;
     if (!hasNoResults) {
-      await expect(page.locator('.search-text.h1').first()).toContainText('29 results');
+      await expect(page.locator('.search-text.h1').first()).toContainText('96 results');
     }
   });
 
@@ -31,7 +31,7 @@ test.describe('check bridges', () => {
 
     const hasNoResults = (await page.locator('.Results-noResultsHeading').count()) > 0;
     if (!hasNoResults) {
-      await expect(page.locator('.search-text.h1').first()).toContainText('55 results');
+      await expect(page.locator('.search-text.h1').first()).toContainText('105 results');
     }
   });
 });
